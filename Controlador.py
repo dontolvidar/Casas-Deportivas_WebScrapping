@@ -71,14 +71,14 @@ def timer(timer_runs):
                 try:
                     
                     idapuesta=None
-                    periodo=livedata['matchClock']['period']
-                    tiempo_minutos=livedata['matchClock']['minute']
-                    tiempo_segundos=livedata['matchClock']['second']
+                    periodo=livedata['matchClock']['period'] if 'period' in livedata['matchClock'] else ""
+                    tiempo_minutos=livedata['matchClock']['minute'] if 'minute' in livedata['matchClock'] else -1
+                    tiempo_segundos=livedata['matchClock']['second'] if 'second' in livedata['matchClock'] else -1
                     cuota1=mainbetofer['outcomes'][0]['odds']/1000 if 'odds' in mainbetofer['outcomes'][0] else -1
                     cuota2=mainbetofer['outcomes'][1]['odds']/1000 if 'odds' in mainbetofer['outcomes'][1] else -1
                     
-                    score_global_live1=livedata['score']['home']
-                    score_global_live2=livedata['score']['away']      
+                    score_global_live1=livedata['score']['home'] if 'home' in livedata['score'] else -1
+                    score_global_live2=livedata['score']['away'] if 'away' in livedata['score'] else -1    
                     
                     score1_set1=-1
                     score2_set1=-1
