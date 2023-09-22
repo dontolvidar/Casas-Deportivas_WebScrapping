@@ -149,7 +149,7 @@ def timer(timer_runs):
                 
                 print("TODO BIEN")
 
-        time.sleep(1)   
+        time.sleep(20)   
                 
 timer_runs = threading.Event()
 timer_runs.set()
