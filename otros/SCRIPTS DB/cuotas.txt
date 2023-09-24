@@ -1,6 +1,7 @@
--- database: c:\Users\usuario\Desktop\apuestas\api\1.open\analisis\apuestas.db
+-- database: c:\Users\Usuario\Desktop\JA BACKUP\apuestas_\apuestas\apuestas.db
 
 -- Use the ▷ button in the top right corner to run the entire file.
+
 DROP TABLE TempTable;
 CREATE TEMP TABLE TempTable AS
 SELECT apuesta_idapuesta,fecha,
