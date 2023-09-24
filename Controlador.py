@@ -151,12 +151,14 @@ def timer(timer_runs):
                 print("TODO BIEN ",i)
 
         time.sleep(20)   
-                
-timer_runs = threading.Event()
-timer_runs.set()
-t = threading.Thread(target=timer, args=(timer_runs,))
-t.start()
-# Esperar 10 segundos y luego detener el timer.
-#time.sleep(120)
-#timer_runs.clear()
-print("¡El timer ha sido detenido!")
+try:         
+    timer_runs = threading.Event()
+    timer_runs.set()
+    t = threading.Thread(target=timer, args=(timer_runs,))
+    t.start()
+    # Esperar 10 segundos y luego detener el timer.
+    #time.sleep(120)
+    #timer_runs.clear()
+    print("¡El timer ha sido detenido!")
+except:
+    MessageBox.showinfo("Alerta","El programa controlador ha sido cerrado")
