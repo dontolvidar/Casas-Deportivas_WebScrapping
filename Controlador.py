@@ -26,6 +26,7 @@ def timer(timer_runs):
     while timer_runs.is_set():
         response = requests.get(url, headers=headers)
         lista_de_eventos=response.json().get('liveEvents')
+        i=0
         for evento in lista_de_eventos:
             
             
@@ -146,8 +147,8 @@ def timer(timer_runs):
                 Conexion().insertar(con,"categoria",categoria.tolist())
                 Conexion().insertar(con,"apuesta",apuesta.tolist())
                 Conexion().insertar(con,"apuesta_tiempo",apuestatiempo.tolist())
-                
-                print("TODO BIEN")
+                i=i+1
+                print("TODO BIEN ",i)
 
         time.sleep(20)   
                 
