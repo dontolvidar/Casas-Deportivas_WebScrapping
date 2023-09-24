@@ -17,7 +17,7 @@ nombres=["Karatancheva, Lia"
          ,"Sekulic, Philip"
          ,"Dolehide, Caroline"
          #,"Kiick, Allie"#activenme mañana
-         ,"Limoges CSP"#hasta el 30 de abril
+         #,"Limoges CSP"#hasta el 30 de abril
         
         ]#REVISAR ADKAR Y NAGATA
 nombres_formateados = []
@@ -32,6 +32,7 @@ def timer(timer_runs):
         
         
         i=0
+        print("")
         for nombre in nombres_formateados:
             url = f"https://www.rushbet.co/api/service/sportsbook/misc/search?queryString="+nombre+"&cageCode=57"
             headers = {
@@ -52,12 +53,14 @@ def timer(timer_runs):
                 
             i+=1
         time.sleep(120)
-
-timer_runs = threading.Event()
-timer_runs.set()
-t = threading.Thread(target=timer, args=(timer_runs,))
-t.start()
-# Esperar 10 segundos y luego detener el timer.
-time.sleep(7200)
-timer_runs.clear()
-print("¡El timer ha sido detenido!")
+try:
+    timer_runs = threading.Event()
+    timer_runs.set()
+    t = threading.Thread(target=timer, args=(timer_runs,))
+    t.start()
+    # Esperar 10 segundos y luego detener el timer.
+    #time.sleep(7200)
+    #timer_runs.clear()
+    print("¡El timer ha sido detenido!")
+except:
+    MessageBox.showinfo("Alerta","Se cerro el programa de saber quien juega")
