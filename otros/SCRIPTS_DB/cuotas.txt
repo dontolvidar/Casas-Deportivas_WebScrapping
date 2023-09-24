@@ -1,0 +1,38 @@
+-- database: c:\Users\Usuario\Desktop\JA BACKUP\apuestas_\apuestas\apuestas.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+DROP TABLE TempTable;
+CREATE TEMP TABLE TempTable AS
+SELECT apuesta_idapuesta,fecha,
+    --MIN(ap.cuota1) AS Valor_minimo_cuota_1,
+    --MIN(ap.cuota2) AS Valor_minimo_cuota_2,
+    
+    apuesta.equipo1 AS Equipo1,
+    apuesta.equipo2 AS Equipo2,
+    categoria.nombre_categoria As Categoria,
+    MAX(ap.cuota1) AS Valor_Maximo_cuota_1,
+    MAX(ap.cuota2) AS Valor_Maximo_cuota_2,
+    
+    MIN(ap.cuota1) AS Valor_Minimo_cuota_1,
+    MIN(ap.cuota2) AS Valor_Minimo_cuota_2,
+
+    (SELECT cuota1 FROM apuesta_tiempo ap4 WHERE ap4.apuesta_idapuesta = ap.apuesta_idapuesta and ABS(tiempo_minutos * 60 + tiempo_segundos+0.1)<=60.1 ORDER BY ABS(tiempo_minutos * 60 + tiempo_segundos) LIMIT 1) AS Cuota_inicial1,
+    (SELECT cuota2 FROM apuesta_tiempo ap5 WHERE ap5.apuesta_idapuesta = ap.apuesta_idapuesta and ABS(tiempo_minutos * 60 + tiempo_segundos+0.1)<=60.1 ORDER BY ABS(tiempo_minutos * 60 + tiempo_segundos) LIMIT 1) AS Cuota_inicial2,
+    tiempo_minutos, tiempo_segundos 
+
+
+FROM apuesta_tiempo ap
+INNER JOIN apuesta ON 
+    --llave foranea interna =llave primaria  externa --
+    ap.apuesta_idapuesta = apuesta.idapuesta
+INNER JOIN categoria ON
+    apuesta.categoria_nombre_categoria=categoria.nombre_categoria
+GROUP BY 
+    ap.apuesta_idapuesta;
+
+
+
+SELECT *
+FROM TempTable
+WHERE Cuota_inicial1 IS NOT NULL or Cuota_inicial2 IS NOT NULL;
