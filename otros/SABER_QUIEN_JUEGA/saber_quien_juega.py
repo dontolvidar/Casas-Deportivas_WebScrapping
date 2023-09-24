@@ -3,7 +3,9 @@ import threading
 import time
 from tkinter import *
 from tkinter import messagebox as MessageBox
+from mandar_correo import Correo
 
+mandarcorreo=Correo()
 #eleccion=int(input("Santafe(1) o Real madrid(2)  escoja entre '1 ó 2' "))
 nombres=["Karatancheva, Lia"
          #,"Faria, Jaime"#activenme miercoles
@@ -45,9 +47,11 @@ def timer(timer_runs):
             if response.text=='[]':
                 print (str(i)+" "+nombres[i]+" NO esta")
             else:
+                mandarcorreo.enviar_correo(nombres[i])
                 MessageBox.showinfo("Alerta",  (str(i)+" "+nombres[i]+" Si esta"))
+                
             i+=1
-        time.sleep(120)
+        time.sleep(30)
 
 timer_runs = threading.Event()
 timer_runs.set()
