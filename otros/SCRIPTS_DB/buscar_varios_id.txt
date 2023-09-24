@@ -1,0 +1,8 @@
+-- database: c:\Users\usuario\Desktop\apuestas\api\1.open\analisis\apuestas.db
+
+-- Use the ▷ button in the top right corner to run the entire file.
+
+SELECT apuesta_idapuesta,tiempo_minutos,tiempo_segundos,cuota1,cuota2
+FROM apuesta_tiempo
+WHERE apuesta_idapuesta IN (1020118433
+);
