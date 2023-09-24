@@ -48,7 +48,7 @@ def timer(timer_runs):
             else:
                 MessageBox.showinfo("Alerta",  (str(i)+" "+nombres[i]+" Si esta"))
             i+=1
-        time.sleep(5)
+        time.sleep(120)
 try:
     timer_runs = threading.Event()
     timer_runs.set()
