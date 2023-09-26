@@ -18,7 +18,7 @@ nombres=["Karatancheva, Lia"
          ,"Sekulic, Philip"
          ,"Dolehide, Caroline"
          #,"Kiick, Allie"#activenme mañana
-         ,"Limoges CSP"#hasta el 30 de abril
+         #,"Limoges CSP"#hasta el 30 de abril
         
         ]#REVISAR ADKAR Y NAGATA
 nombres_formateados = []
