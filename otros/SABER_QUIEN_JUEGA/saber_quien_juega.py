@@ -49,7 +49,7 @@ def timer(timer_runs):
                 print (str(i)+" "+nombres[i]+" NO esta")
             else:
                 mandarcorreo.enviar_correo(nombres[i])
-                MessageBox.showinfo("Alerta",  (str(i)+" "+nombres[i]+" Si esta"))
+                print("Alerta "+ (str(i)+" "+nombres[i]+" SI ESTA !"))
                 
             i+=1
         time.sleep(120)
