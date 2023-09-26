@@ -50,10 +50,10 @@ def timer(timer_runs):
             else:
                 mandarcorreo.enviar_correo(nombres[i])
                 print("Alerta "+ (str(i)+" "+nombres[i]+" SI ESTA !"))
-                nombres.remove(i)
-                nombres_formateados.remove(i)
+                del nombres[i]
+                del nombres_formateados[i]
             i+=1
-        time.sleep(120)
+        time.sleep(10)
 try:
     timer_runs = threading.Event()
     timer_runs.set()
