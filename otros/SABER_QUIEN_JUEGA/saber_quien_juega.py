@@ -17,7 +17,7 @@ nombres=["Karatancheva, Lia"
          ,"Kestelboim, Mariano"
          ,"Sekulic, Philip"
          ,"Dolehide, Caroline"
-         #,"Kiick, Allie"#activenme mañana
+         ,"Kiick, Allie"#activenme mañana
          #,"Limoges CSP"#hasta el 30 de abril
         
         ]#REVISAR ADKAR Y NAGATA
