@@ -17,7 +17,7 @@ nombres=["Karatancheva, Lia"
          ,"Sekulic, Philip"
          ,"Dolehide, Caroline"
          #,"Kiick, Allie"#activenme mañana
-         #,"Limoges CSP"#hasta el 30 de abril
+         ,"Limoges CSP"#hasta el 30 de abril
         
         ]#REVISAR ADKAR Y NAGATA
 nombres_formateados = []
@@ -50,7 +50,8 @@ def timer(timer_runs):
             else:
                 mandarcorreo.enviar_correo(nombres[i])
                 print("Alerta "+ (str(i)+" "+nombres[i]+" SI ESTA !"))
-                
+                nombres.remove(i)
+                nombres_formateados.remove(i)
             i+=1
         time.sleep(120)
 try:
