@@ -43,35 +43,38 @@ def timer(timer_runs):
         i=0
         print("")
         for nombre in nombres_formateados:
-            url = f"https://www.rushbet.co/api/service/sportsbook/misc/search?queryString="+nombre+"&cageCode=57"
-            headers = {
-                "charset": "UTF-8",
-                "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0",
-                "Accept-Language": "en-US,en;q=0.5",
-                "Accept-Encoding": "gzip,deflate,br",
-                "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
-                "Referer": "http://www.rushbet.co",
-            }
-            response = requests.get(url, headers=headers)
-            
-            if response.text=='[]':
-                print (str(i)+" "+nombres[i]+" NO esta")
-            else:
-                mandarcorreo.enviar_correo(nombres[i])
-                print("Alerta "+ (str(i)+" "+nombres[i]+" SI ESTA !"))
-                del nombres[i]
-                del nombres_formateados[i]
+            try:
+                url = f"https://www.rushbet.co/api/service/sportsbook/misc/search?queryString="+nombre+"&cageCode=57"
+                headers = {
+                    "charset": "UTF-8",
+                    "User-Agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:109.0) Gecko/20100101 Firefox/109.0",
+                    "Accept-Language": "en-US,en;q=0.5",
+                    "Accept-Encoding": "gzip,deflate,br",
+                    "Accept":"text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,*/*;q=0.8",
+                    "Referer": "http://www.rushbet.co",
+                }
+                response = requests.get(url, headers=headers)
                 
-                
-            hora_objetivo1 = datetime.time(23, 53, 0)
-            hora_objetivo2 = datetime.time(23, 56, 0)
-            hora_actual = datetime.datetime.now().time()
-            if hora_actual >= hora_objetivo1 and hora_actual <= hora_objetivo2:
-                nombres.clear()
-                nombres_formateados.clear()
-                for x in range(0,len(backup_nombres)):
-                    nombres.append(backup_nombres[x])
-                    nombres_formateados.append(backup_nombres_formateados[x])
+                if response.text=='[]':
+                    print (str(i)+" "+nombres[i]+" NO esta")
+                else:
+                    mandarcorreo.enviar_correo(nombres[i])
+                    print("Alerta "+ (str(i)+" "+nombres[i]+" SI ESTA !"))
+                    del nombres[i]
+                    del nombres_formateados[i]
+                    
+                    
+                hora_objetivo1 = datetime.time(23, 53, 0)
+                hora_objetivo2 = datetime.time(23, 56, 0)
+                hora_actual = datetime.datetime.now().time()
+                if hora_actual >= hora_objetivo1 and hora_actual <= hora_objetivo2:
+                    nombres.clear()
+                    nombres_formateados.clear()
+                    for x in range(0,len(backup_nombres)):
+                        nombres.append(backup_nombres[x])
+                        nombres_formateados.append(backup_nombres_formateados[x])
+            except:
+                print("Error en el server")
             i+=1
         time.sleep(120)
 try:
