@@ -1,3 +1,4 @@
+import datetime
 import requests
 import threading
 import time
@@ -26,6 +27,14 @@ for string in nombres:
     nombres_formateados.append(string_modificado)
 print(nombres_formateados)
 
+backup_nombres=[]
+backup_nombres_formateados = []
+for x in range(0,len(nombres)):
+    backup_nombres.append(nombres[x])
+    backup_nombres_formateados.append(nombres_formateados[x])
+    
+    
+    
 def timer(timer_runs):
     while timer_runs.is_set():
         
@@ -52,8 +61,19 @@ def timer(timer_runs):
                 print("Alerta "+ (str(i)+" "+nombres[i]+" SI ESTA !"))
                 del nombres[i]
                 del nombres_formateados[i]
+                
+                
+            hora_objetivo1 = datetime.time(23, 40, 0)
+            hora_objetivo2 = datetime.time(23, 42, 0)
+            hora_actual = datetime.datetime.now().time()
+            if hora_actual >= hora_objetivo1 and hora_actual <= hora_objetivo2:
+                nombres.clear()
+                nombres_formateados.clear()
+                for x in range(0,len(nombres)):
+                    nombres.append(backup_nombres[x])
+                    nombres_formateados.append(backup_nombres_formateados[x])
             i+=1
-        time.sleep(10)
+        time.sleep(120)
 try:
     timer_runs = threading.Event()
     timer_runs.set()
