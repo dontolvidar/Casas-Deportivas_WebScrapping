@@ -63,13 +63,13 @@ def timer(timer_runs):
                 del nombres_formateados[i]
                 
                 
-            hora_objetivo1 = datetime.time(23, 45, 0)
-            hora_objetivo2 = datetime.time(23, 47, 0)
+            hora_objetivo1 = datetime.time(23, 53, 0)
+            hora_objetivo2 = datetime.time(23, 56, 0)
             hora_actual = datetime.datetime.now().time()
             if hora_actual >= hora_objetivo1 and hora_actual <= hora_objetivo2:
                 nombres.clear()
                 nombres_formateados.clear()
-                for x in range(0,len(nombres)):
+                for x in range(0,len(backup_nombres)):
                     nombres.append(backup_nombres[x])
                     nombres_formateados.append(backup_nombres_formateados[x])
             i+=1
