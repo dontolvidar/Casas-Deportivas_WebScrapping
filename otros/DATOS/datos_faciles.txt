@@ -1,736 +1,770 @@
-1019729124,2023-09-24 17:02:32.962850,Dorados de Chihuahua,Correcaminos UAT Victoria,BASKETBALL,1.37,9.5,1.01,2.8,1.11,5.25,16,50
-1019729127,2023-09-24 17:02:32.990038,Fuerza Regia de Monterey,Libertadores de Querétaro,BASKETBALL,9.5,9,1.01,1.01,1.28,3.25,37,2
-1019729128,2023-09-24 19:06:09.744336,Mineros de Zacatecas,Abejas de León,BASKETBALL,16,3.2,1.29,-1,1.81,1.87,26,9
-1019930575,,BMS Herlev Wolfpack,BK Amager,BASKETBALL,2.5,10.5,1.01,1.46,1.66,2.08,7,47
-1019930761,,Norrköping Dolphins,Köping Stars,BASKETBALL,1.1,11,1.01,5.6,1.07,7.5,17,51
-1019930773,2023-09-25 12:00:15.926966,Jämtland Basket,BC Luleå,BASKETBALL,2.8,14,-1,1.38,1.88,1.88,12,13
-1019931548,2023-09-25 13:29:14.062279,BK Levickí Patrioti,AEK Larnaca,BASKETBALL,19,2.43,1.54,-1,1.61,2.33,37,15
-1019931558,2023-09-25 08:29:29.385561,BC Kalev/Cramo,Norrköping Dolphins,BASKETBALL,2.7,10,1.01,1.42,1.34,3.25,38,37
-1019931559,2023-09-25 10:58:36.981960,SL Benfica,Tbilisi State University,BASKETBALL,1.1,16,-1,5.6,1.02,14,3,23
-1019945019,2023-09-23 11:29:00.614760,Bourg-en-Bresse,Boulogne-Levallois,BASKETBALL,1.23,10.5,1.01,3.65,1.19,4.75,17,33
-1019945023,2023-09-24 09:29:42.027678,Dijon JDA,Cholet,BASKETBALL,6.5,4.6,1.16,1.07,1.25,4,39,48
-1019945025,2023-09-23 13:58:30.701907,Gravelines-Dunkerque,Asvel Lyon-Villeurbanne,BASKETBALL,8.5,2.38,1.5,1.03,3.8,1.26,32,19
-1019945027,2023-09-23 11:30:01.893133,Saint-Quentin,Paris Basket,BASKETBALL,10.5,1.48,2.55,1.01,2.6,1.47,21,13
-1019945031,2023-09-23 08:56:46.873907,Strasbourg,Limoges CSP,BASKETBALL,4.3,4.25,1.18,1.17,1.32,3.45,34,10
-1019945032,2023-09-23 11:29:41.419682,Le Mans BC,ADA Blois Basket 41,BASKETBALL,1.55,14,-1,2.3,1.17,4.35,10,12
-1019945034,2023-09-24 11:58:51.980786,Elan Chalon,AS Monaco,BASKETBALL,10.5,1.1,5.6,1.01,7.5,1.09,6,41
-1019945039,2023-09-23 11:29:21.010608,Chorale Roanne,Nancy SLUC,BASKETBALL,1.66,9.5,1.01,2.1,1.56,2.43,2,37
-1019962821,2023-09-23 09:01:53.465093,Sporting,AD Galomar,BASKETBALL,1.1,19,-1,5.5,1.01,10.5,21,14
-1019962825,2023-09-23 08:56:46.895908,CD Povoa,Porto,BASKETBALL,51,1.41,2.7,-1,4.4,1.17,36,40
-1019975525,2023-09-23 13:46:15.046363,Germani Basket Brescia,Bertram Tortona,BASKETBALL,1.67,10.5,1.01,2.06,1.66,2.08,0,20
-1019993052,2023-09-23 10:59:45.259601,C.B. Granada,UCAM Murcia,BASKETBALL,20,4.25,1.17,-1,1.92,1.81,48,47
-1019993054,2023-09-23 10:59:45.287254,Valencia Basket Club,Club Basquet Girona 2014,BASKETBALL,6.5,7,1.06,1.07,1.14,5,38,32
-1019993086,2023-09-24 11:28:47.599805,FC Barcelona,Divina Seguros Joventut,BASKETBALL,1.25,10.5,1.01,3.5,1.18,4.35,4,38
-1019993098,2023-09-23 13:45:54.612478,Unicaja Málaga,Iberostar Tenerife,BASKETBALL,1.66,10.5,1.01,2.1,1.27,3.35,13,1
-1020011959,2023-09-24 18:01:26.162407,Freseros de Irapuato,Plateros de Fresnillo,BASKETBALL,9.5,1.67,2.05,1.01,2.05,1.67,21,23
-1020012896,,GTK Gliwice,Asseco Arka Gdynia,BASKETBALL,10.5,11,1.01,1.01,1.42,2.8,36,16
-1020012899,,Legia de Varsovia,Zastal Enea BC Zielona Góra,BASKETBALL,1.3,10.5,1.01,3.15,1.08,6,17,18
-1020023023,2023-09-25 10:48:16.851652,BC Lietkabelis,BC Pieno žvaigždės,BASKETBALL,1.3,18,-1,3.2,1.09,6.1,16,51
-1020048925,2023-09-25 10:26:54.311666,KK Cedevita Olimpija,Helios Domžale,BASKETBALL,1.68,17,-1,2.05,1.13,5.2,6,40
-1020086662,,BK Levickí Patrioti,Spisski Rytieri,BASKETBALL,1.82,14,-1,1.87,1.56,2.28,5,9
-1020087897,,BC Kalev/Cramo,Tartu Ülikool,BASKETBALL,1.53,16,-1,2.35,1.19,4.2,8,57
-1020087899,,AVIS Rapla,Tallinna Kalev,BASKETBALL,10.5,1.97,1.74,1.01,1.75,1.96,24,53
-1020087900,2023-09-23 08:56:46.850920,TalTech,Pärnu Sadam,BASKETBALL,4.2,6.5,1.07,1.18,1.56,2.28,7,30
-1020090269,2023-09-23 12:59:16.875357,Aris Leeuwarden,Landstede Zwolle,BASKETBALL,9,2.38,1.52,1.03,1.68,2.14,25,41
-1020090270,2023-09-23 12:29:41.095757,Donar Groningen,New Heroes Den Bosch,BASKETBALL,2.8,10.5,1.01,1.38,2.55,1.5,4,45
-1020090271,2023-09-23 12:29:41.069164,Den Helder Suns,BS Leiden,BASKETBALL,10.5,1.09,6,1.01,9.5,1.04,2,8
-1020090274,2023-09-24 08:50:10.864709,Yoast United,Basketball Academie Limburg,BASKETBALL,16,6.1,1.08,-1,1.3,3.4,36,35
-1020092107,2023-09-23 12:59:37.270141,Antwerp Giants,Leuven Bears,BASKETBALL,2.55,10.5,1.01,1.45,1.46,2.65,21,27
-1020092109,2023-09-23 13:29:34.961925,BC Oostende,Okapi Aalstar,BASKETBALL,1.33,19,-1,3.05,1.08,7.5,17,30
-1020092129,,Liège Basket,Mons-Hainaut,BASKETBALL,2.85,26,-1,1.37,1.42,2.75,28,42
-1020092130,,Spirou Basket,Kangoeroes Basket Mechelen,BASKETBALL,2.25,31,-1,1.57,1.61,2.17,23,29
-1020099854,,TED Ankara Kolejliler,OGM Ormanspor,BASKETBALL,1.28,14,-1,3.35,1.23,3.7,1,41
-1020099961,2023-09-22 19:46:31.656389,CA San Isidro,Asociacion El Ceibo de San Francisco,BASKETBALL,4.7,17,-1,1.15,1.05,7.5,16,25
-1020104298,,Tasmania JackJumpers,Adelaide 36ers,BASKETBALL,2.3,10.5,1.01,1.57,1.07,8,17,8
-1020104322,,Perth Wildcats,New Zealand Breakers,BASKETBALL,7.5,3,1.35,1.05,1.42,2.8,25,21
-1020106450,2023-09-25 18:31:50.234943,Adiee/Avai/FME,Basket Joacaba,BASKETBALL,3.3,6.5,1.06,1.27,2.07,1.65,12,26
-1020107044,2023-09-23 08:25:31.966910,Konyaspor,Mersin Büyükşehir Bld.,BASKETBALL,4.1,1.48,2.45,1.19,2.48,1.48,8,42
-1020108473,,"Glasspool, L/Heliovaara, H","Nedunchezhiyan, J/Raja, P",TENNIS,1.13,15,1.01,5.25,1.1,6.1,14,5
-1020108478,,"Johnson, L/Patten, H","Arneodo, R/Weissborn, T-S",TENNIS,15,3,1.32,-1,2.1,1.65,52,32
-1020109344,,Bristol Flyers,Newcastle Eagles,BASKETBALL,5.75,6.25,1.08,1.09,1.76,1.95,38,13
-1020111650,,Port of Antwerp Giants B,Basket Skt Ieper Hse A,BASKETBALL,14,1.46,2.55,-1,2.63,1.45,27,32
-1020112490,,"Kovacevic, Aleksandar","Coppejans, Kimmer",TENNIS,226,2.6,1.45,-1,1.61,2.18,77,5
-1020112491,,"Murray, Andy",Ye Cong Mo,TENNIS,1.12,276,-1,5.75,1.01,15,56,58
-1020112492,,Yi Zhou,"Garin, Cristian",TENNIS,276,1.6,2.23,-1,9.5,1.05,140,53
-1020112496,,"Arnaldi, Matteo","Karatsev, Aslan",TENNIS,226,12,1.03,-1,1.71,2.04,170,31
-1020112497,,"Muller, Alexandre","Hijikata, Rinky",TENNIS,1.86,101,-1,1.87,1.86,1.87,0,24
-1020112498,,Juncheng Shang,"McDonald, Mackenzie",TENNIS,51,2,1.74,-1,2.3,1.56,160,37
-1020112509,,Jie Cui,"Varillas, Juan Pablo",TENNIS,101,1.11,6.1,-1,6.1,1.11,58,29
-1020112512,,"Purcell, Max","Thompson, Jordan",TENNIS,17,2.35,1.54,-1,1.75,1.98,66,2
-1020112513,,"Bergs, Zizou","Lajovic, Dusan",TENNIS,23,2.3,1.57,-1,2.05,1.7,104,55
-1020112515,2023-09-23 00:04:44.501603,"O'Connell, C/Vukic, A","Cabral, F/Matos, R",TENNIS,5.25,1.42,2.6,1.12,2.6,1.42,18,56
-1020112516,,"Demoliner, M/Middelkoop, M","Giron, M/Statham, J",TENNIS,1.43,9,1.05,2.55,1.33,2.95,52,40
-1020112886,2023-09-25 09:57:11.525902,Harem Spor Kulübü,Final Gençlik,BASKETBALL,5.8,3.35,1.27,1.09,2.18,1.6,31,34
-1020113062,,"Doumbia, S/Reboul, F","Haase, R/Stevens, B",TENNIS,2.33,9,1.05,1.52,1.4,2.7,78,0
-1020113064,,"Borges, N/Rinderknech, A","Barrientos, N/Goransson, A",TENNIS,2.3,76,-1,1.55,1.89,1.8,8,57
-1020113065,2023-09-23 01:19:32.179373,"Purcell, M/Thompson, J","Behar, A/Niklas-Salminen, P",TENNIS,1.3,111,-1,3.15,1.3,3.15,0,3
-1020113066,,Jie Cui/Aoran Wang,"Peers, J/Safiullin, R",TENNIS,18,1.47,2.45,-1,8,1.07,23,2
-1020113465,,"Nava, Emilio","Zeppieri, Giulio",TENNIS,34,2.08,1.67,-1,1.81,1.9,98,16
-1020114279,,Cagdas Bodrum Spor,Tofaş,BASKETBALL,9,2.85,1.37,1.02,2.3,1.57,31,7
-1020114280,,Galatasaray S.K.,Bursaspor,BASKETBALL,2.3,10.5,1.01,1.55,1.9,1.8,36,37
-1020114313,,Darüşşafaka,Cagdas Bodrum Spor,BASKETBALL,8,6.5,1.07,1.04,1.42,2.75,32,14
-1020114314,,Bahcesehir Koleji,Galatasaray S.K.,BASKETBALL,11,2.07,1.67,1.01,1.98,1.77,15,58
-1020114321,,BC Goverla,BC Budivelnik,BASKETBALL,13,1.44,2.55,-1,3.45,1.25,20,12
-1020114358,,Al Naft SC,Al Hilla,BASKETBALL,1.55,8,1.03,2.25,1.04,7,11,14
-1020114425,2023-09-23 08:57:07.300995,Anadolu Efes,Partizán de Belgrado,BASKETBALL,9,9,1.03,1.03,1.58,2.3,26,18
-1020114527,,"Ercan, Melisa","Yamazaki, Ikumi",TENNIS,16,12,1.02,-1,1.11,5.6,229,11
-1020114532,,"Matsuda, Rinko","Saito, Sara",TENNIS,16,1.27,3.3,-1,4.25,1.18,73,23
-1020114533,,Chia Yi Tsao,"Naklo, Thasaporn",TENNIS,3.85,2.9,1.34,1.2,2.04,1.67,34,7
-1020114611,,"Yoshimoto, Natsuki","Kulikova, Anastasia",TENNIS,16,1.8,1.88,-1,1.88,1.8,55,25
-1020114861,,"Boisson, Lois","Karatancheva, Lia",TENNIS,23,4.6,1.15,-1,1.33,2.95,140,26
-1020115020,,"Piros, Zsombor","Paulson, Andrew",TENNIS,1.55,111,-1,2.3,1.45,2.55,43,44
-1020115255,,Angers,Nantes,BASKETBALL,14,2.5,1.46,-1,1.62,2.2,27,41
-1020115258,,Antibes,Fos Ouest Provence Basket,BASKETBALL,1.83,10.5,1.01,1.87,1.76,1.96,3,55
-1020115265,,"Hemery, Calvin","Artnak, Bor",TENNIS,1.52,181,-1,2.33,1.52,2.38,1,22
-1020115273,2023-09-25 21:01:27.217995,Halcones UV Xalapa,Santos De San Luis,BASKETBALL,1.88,14,-1,1.8,1.52,2.33,7,43
-1020115274,2023-09-24 19:02:45.767647,Halcones UV Xalapa,Santos De San Luis,BASKETBALL,4.5,3.4,1.25,1.14,1.45,2.5,28,32
-1020115297,,"Albot, Radu","Gojowczyk, Peter",TENNIS,1.3,81,-1,3.1,1.24,3.6,17,38
-1020115509,2023-09-25 17:00:41.089463,Corinthians-SP,AERC Osasco,BASKETBALL,1.14,11,1.01,4.8,1.04,7.5,14,17
-1020115518,,"Mmoh, Michael","Coulibaly, Eliakim",TENNIS,1.23,181,-1,3.6,1.22,3.75,5,55
-1020115522,,"Milovanovic, Elena","De Stefano, Samira",TENNIS,1.6,16,-1,2.18,1.37,2.8,24,18
-1020115523,,Shinagawa City Basketball Club,Tenri University,BASKETBALL,1.2,5.6,1.1,3.9,1.2,3.9,0,0
-1020115608,,"Lestienne, Constant","Mayot, Harold",TENNIS,2.48,67,-1,1.47,1.67,2.04,1161,52
-1020115673,,"Pattinama Kerkhove, Lesley","Muntean, Victoria",TENNIS,1.37,17,-1,2.75,1.17,4.4,19,59
-1020115944,,"Stoiber, Ranah Akua","Waligora, Amelia",TENNIS,17,5.8,1.11,-1,2.85,1.36,77,32
-1020116027,,"Vanshelboim, Eric","Paty, Daniel",TENNIS,1.83,17,-1,1.85,1.83,1.85,0,22
-1020116028,,"Dodig, Matej","Rajski, Maciej",TENNIS,1.52,18,-1,2.33,1.36,2.8,81,37
-1020116029,,"Erhard, Mathys","Forejtek, Jonas",TENNIS,17,3.2,1.29,-1,2.12,1.63,103,57
-1020116030,,"Kawa, K/Lechemia, E","Haverlag, I/Vedder, E",TENNIS,61,3.95,1.2,-1,1.28,3.2,56,1
-1020116308,,"Krutykh, Oleksii","Ofner, Sebastian",TENNIS,19,2.95,1.33,-1,2.45,1.48,107,39
-1020116347,,"Ramos-Viñolas, Albert","Nouza, Petr",TENNIS,1.4,181,-1,2.75,1.29,3.25,8,49
-1020116402,,"Vanlangendonck, Eliessa","Bhasin, Smriti",TENNIS,1.09,18,-1,6.5,1.07,7.5,7,33
-1020116484,,"Mansouri, Yasmine","Colmegna, Martina",TENNIS,26,1.42,2.6,-1,2.7,1.4,82,13
-1020116487,,"Molleker, Rudolf","Kopriva, Vit",TENNIS,30,5.4,1.12,-1,1.84,1.86,103,24
-1020116489,,"Hennemann, C W/Hietaranta, L","Chiesa, D/Colmegna, M",TENNIS,29,1.58,2.2,-1,3.05,1.3,67,51
-1020116536,,"Ferro, Fiona","Hesse, Amandine",TENNIS,6.5,8.5,1.05,1.09,1.21,3.85,98,58
-1020116538,,"Barrere, Gregoire","Cazaux, Arthur",TENNIS,23,2.7,1.4,-1,1.9,1.8,123,16
-1020116549,,"Jeanjean, L/Pigossi, L","Grey, B/Silva, E",TENNIS,8,4.2,1.18,1.06,1.87,1.81,79,29
-1020116604,,"Klein, Lukas","Broady, Liam",TENNIS,181,1.61,2.17,-1,2.28,1.56,1113,28
-1020116639,,"Lajal, Mark","Brouwer, Gijs",TENNIS,161,2.2,1.58,-1,2,1.72,71,31
-1020116640,,"Bondar, A/Zimmermann, K","Brancaccio, N/Errani, S",TENNIS,2.23,41,-1,1.58,1.46,2.5,18,32
-1020116726,,Leicester Riders,Plymouth City Patriots,BASKETBALL,2.65,10,1.01,1.41,1.05,8,27,28
-1020116729,,"Dellien, Hugo","Reis DA Silva, Joao Lucas",TENNIS,16,16,-1,-1,1.26,3.4,183,11
-1020116746,,"Lama, Gonzalo","Boscardin Dias, Pedro",TENNIS,2.3,9.5,1.04,1.53,2.25,1.56,6,47
-1020116831,,"Chandrasekar, A/Prashanth, N V S","Kadhe, A/Qureshi, A",TENNIS,2.32,26,-1,1.53,1.91,1.79,83,9
-1020116832,,"Lammons, N/Withrow, J","Matsui, T/Nishioka, Y",TENNIS,1.15,29,-1,4.8,1.1,6.1,35,11
-1020116833,,"King, E/Stalder, R",Yecong Mo/Xiaofei Wang,TENNIS,1.27,141,-1,3.35,1.14,5.1,33,49
-1020116834,2023-09-23 05:13:36.527789,"Etcheverry, T/Garin, C","Murray, J/Venus, M",TENNIS,141,1.15,4.75,-1,5.6,1.12,68,14
-1020116837,2023-09-23 03:45:18.527512,"Balaji, N S/Begemann, A","Korda, S/Mcdonald, M",TENNIS,121,1.38,2.75,-1,3.3,1.28,71,23
-1020116838,,"Gille, S/Vliegen, J","Harris, A/Hijikata, R",TENNIS,1.68,151,-1,2.05,1.68,2.05,0,1
-1020117133,,"Andreozzi, G/Hach Verdugo, H","Clark, E/Kingsley, C",TENNIS,2.18,17,-1,1.6,1.28,3.2,80,25
-1020117139,,"Ngo Gwodog, Eugenie Christine","Koskel, Anet Angelika",TENNIS,17,-1,15,-1,15,-1,0,5
-1020117183,,"Jabeur, Ons","Trevisan, Martina",TENNIS,11,46,-1,1.03,1.16,4.9,186,40
-1020117203,,"Nakagawa, Naoki","Sumizawa, Daisuke",TENNIS,1.38,4.25,1.18,2.7,1.22,3.75,25,44
-1020117236,,"Eikeri, U/Neel, I","Dabrowski, G/Routliffe, E",TENNIS,8,1.72,2,1.06,3.25,1.29,85,39
-1020117251,,"Fairclough, Lily","Sato, Naho",TENNIS,226,1.1,6.1,-1,8,1.07,31,53
-1020117301,2023-09-24 15:59:02.816518,Las Vegas Aces,Dallas Wings,BASKETBALL,1.22,11,1.01,3.8,1.16,5.4,7,56
-1020117367,,"Hon, Priscilla","Barry, Monique",TENNIS,1.68,17,-1,2.02,1.06,8.5,33,45
-1020117368,,"Arakawa, Haruna","Aiava, Destanee",TENNIS,161,1.22,3.7,-1,5,1.14,37,37
-1020117451,,"Saville, Luke","Etcheverry, Tomas Martin",TENNIS,101,1.16,4.7,-1,5,1.15,83,15
-1020117452,,"Bolt, Alex","Schwartzman, Diego",TENNIS,2.85,10.5,1.04,1.38,2.6,1.44,11,46
-1020117453,,"Polmans, Marc","Sweeny, Dane",TENNIS,1.58,251,-1,2.25,1.43,2.65,5,30
-1020117610,,"Altamirano, Collin","Ehara, Hiroyasu",TENNIS,1.43,3.85,1.21,2.55,1.43,2.55,0,2
-1020117623,,"O'Connell, Christopher","Kachmazov, Alibek",TENNIS,1.4,41,-1,2.75,1.13,5.4,37,28
-1020117624,,"Lock, Benjamin","Kecmanovic, Miomir",TENNIS,141,1.08,8,-1,9.5,1.05,26,3
-1020117625,,"Galan, Daniel Elahi","Kotov, Pavel",TENNIS,81,2.33,1.56,-1,2.18,1.63,109,14
-1020117626,,"Sekulic, Philip","Borges, Nuno",TENNIS,6.75,13,1.02,1.09,4.2,1.19,7,1
-1020117642,,"Aikawa, Mayuka","Oshino, Suzuho",TENNIS,1.22,18,-1,3.8,1.22,3.8,0,22
-1020117673,,"Ito, A/Chia Yi Tsao",I-Hsuan Cho/Yi-Tsen Cho,TENNIS,3.55,15,-1,1.24,2.14,1.62,44,48
-1020117675,,"Hanatani, N/Ogata, H","Ivanova, D/Yu-Yun Li",TENNIS,18,1.15,4.6,-1,4.6,1.15,35,43
-1020117678,,"Akita, S/Kinoshita, H","Abe, H/Nagata, A",TENNIS,6.1,3.65,1.23,1.1,1.88,1.8,93,44
-1020117679,,"Hayashi, E/Imamura, S","Yu-Chieh Hsieh/Okuwaki, R",TENNIS,1.32,15,-1,3,1.27,3.3,2,1
-1020117746,,"Maklakova, Ekaterina","Sakellaridi, Sapfo",TENNIS,67,1.62,2.15,-1,2.15,1.62,77,46
-1020117766,,"Safiullin, Roman","Evans, Daniel",TENNIS,1.88,31,-1,1.85,1.87,1.85,0,9
-1020117888,,"Nishioka, Yoshihito","Harris, Lloyd",TENNIS,2.14,8,1.07,1.64,1.97,1.77,15,12
-1020117890,,"Sema, E/Smith, Ali","Bavisetti, S/Chilakalapudi, S S",TENNIS,1.3,121,-1,3.1,1.25,3.5,7,4
-1020117891,,"Culley, J/Nurkic, E","Aiava, D/Inglis, M",TENNIS,18,1.04,9.5,-1,10,1.03,8,52
-1020117893,,"Mays, L/Parnaby, A","Barry, M/Bhamidipaty, S R",TENNIS,2.18,30,-1,1.6,1.76,1.93,37,0
-1020117897,,"Jovic, Viktor","Nesterov, Petr",TENNIS,11,5.5,1.12,1.02,2.65,1.4,191,3
-1020117902,,"Brancaccio, Raul","Moeller, Marvin",TENNIS,23,2.25,1.56,-1,1.71,2.02,76,0
-1020117911,,"Zahraj, Patrick","Wessels, Louis",TENNIS,18,1.79,1.9,-1,3.85,1.21,152,28
-1020117914,,"Nicod, Jakub","Barton, Hynek",TENNIS,2.6,14,1.01,1.41,2.28,1.54,7,24
-1020117922,,"Artnak, B/Cazacu, D N","Kaliyanda Poonacha, N/Sharan, D",TENNIS,11,2.33,1.52,1.02,5.6,1.11,101,23
-1020117923,,"Linette, Magda","Masarova, Rebeka",TENNIS,3.2,8,1.07,1.33,1.67,2.12,51,46
-1020117924,,"Michalski, Daniel","Caruso, Antonio",TENNIS,1.82,201,-1,1.86,1.82,1.86,0,28
-1020117928,,"Mchugh, Aidan","Pereira, Tiago",TENNIS,1.18,18,-1,4.2,1.18,4.2,0,4
-1020117971,,"Javia, Dev","Delage, Pierre",TENNIS,17,1.44,2.55,-1,2.7,1.38,54,32
-1020117972,,"Ajdukovic, Duje","Fonio, Giovanni",TENNIS,3.05,30,-1,1.32,1.57,2.25,59,37
-1020117976,,"Jeanjean, Leolia","Rouvroy, Margaux",TENNIS,2.04,17,-1,1.68,1.78,1.91,3,17
-1020117980,,"Cortez Llorca, Lucia","Pavlova, Kira",TENNIS,18,1.93,1.76,-1,3.6,1.24,57,39
-1020117981,,"Topalova, Gergana","Hercog, Polona",TENNIS,111,1.62,2.14,-1,3.15,1.29,83,13
-1020118037,,"Silva, Eden","Kartal, Sonay",TENNIS,17,1.81,1.88,-1,1.88,1.81,47,9
-1020118040,,"Carle, Maria Lourdes","Krunic, Aleksandra",TENNIS,1.19,121,-1,4,1.1,6,5,27
-1020118060,,"Robbe, Alice","Parrizas Diaz, Nuria",TENNIS,2.9,8,1.06,1.34,1.82,1.87,54,10
-1020118061,,"Pislak, Manca","Gettwart, Fabienne",TENNIS,17,1.28,3.2,-1,6,1.11,56,27
-1020118068,,"Milev, Yanaki","Arutiunian, Erik",TENNIS,1.38,17,-1,2.75,1.21,3.75,7,6
-1020118178,,"Chiesa, Deborah","Pieri, Jessica",TENNIS,2.55,34,-1,1.44,1.92,1.78,17,5
-1020118212,,"Lavagno, Edoardo","Cobolli, Flavio",TENNIS,151,1.68,2.06,-1,3.3,1.27,94,48
-1020118214,,"Misolic, Filip","Fognini, Fabio",TENNIS,2.45,7.5,1.07,1.48,2.38,1.52,14,44
-1020118225,,"Radanovic, Dejana","Ristic, Mia",TENNIS,61,2.65,1.4,-1,1.64,2.1,104,14
-1020118226,,"Chopra, Keshav","Gray, Timothy",TENNIS,4.5,17,-1,1.16,1.25,3.45,96,5
-1020118238,,"Minnen, Greet","Bronzetti, Lucia",TENNIS,4.4,91,-1,1.18,1.84,1.92,80,40
-1020118406,,"Todoni, Anca Alexia","Craciun, Georgia Andreea",TENNIS,1.14,18,-1,4.9,1.14,4.9,0,4
-1020118411,,"Badenhorst, Devin","Bronzetti, Alberto",TENNIS,1.77,11,1.02,1.92,1.34,2.9,10,57
-1020118428,,"Cook, Ethan","Sorensen, Luke",TENNIS,18,2.95,1.33,-1,1.45,2.5,147,32
-1020118433,,"Tirunelveli, Teja","Llinares Domingo, Lucia",TENNIS,8.5,10.5,1.03,1.05,4.1,1.19,15,44
-1020118434,,"Sacco, Federica","Podlinska, Marcelina",TENNIS,18,14,1.01,-1,1.84,1.84,93,34
-1020118435,,"Smith, Tina Nadine","Cherubini, Diletta",TENNIS,15,6.25,1.09,1.01,1.95,1.74,117,36
-1020118452,,"Kozarov, Katarina","Petretic, Laia",TENNIS,2.48,17,-1,1.46,1.2,3.95,64,38
-1020118475,,"Rai, Ajeet","Crowther, Corban",TENNIS,1.58,17,-1,2.2,1.14,5,55,58
-1020118534,,"Klok, D/Matsuda, R","Paulson, A/Vrbensky, M",TENNIS,15,1.17,4.4,1.01,4.7,1.15,32,7
-1020118537,,"Gaal, Corey","Pearson, Kody",TENNIS,7.5,1.24,3.5,1.06,3.7,1.22,16,29
-1020118538,,"Delaney, Jake","Talic, Zaharije-Zak",TENNIS,1.35,14,1.01,2.85,1.2,3.85,8,8
-1020118539,,"Bittoun Kouzmine, Constantin","Wiskandt, Max",TENNIS,1.56,12,1.02,2.25,1.56,2.25,0,31
-1020118542,,"Delaney, J/Kelly, D","Fancutt, T/Rai, A",TENNIS,8,1.75,1.94,1.06,2.14,1.62,66,24
-1020118545,,"Martín, Andrés","Cina, Federico",TENNIS,14,17,-1,1.01,1.58,2.2,72,24
-1020118546,,"Bojovic, Jana","Buyukakcay, Cagla",TENNIS,51,1.46,2.48,-1,3.3,1.27,64,56
-1020118547,,"Vlasselaer, Clara","Sieg, Madison",TENNIS,5.75,12,1.01,1.11,2.4,1.49,78,22
-1020118572,,"Kargina, Valerija Maija","Tucakovic, Suana",TENNIS,12.5,4.25,1.18,1.02,3.35,1.27,117,27
-1020118573,,"Choinski, Jan",Dennis Novak,TENNIS,251,1.9,1.8,-1,1.8,1.9,42,14
-1020118576,,BC Prievidza,Lucenec,BASKETBALL,1.23,14,-1,3.75,1.23,3.75,0,0
-1020118583,,"Kountourakis, Ioannis","Popovic, Stefan",TENNIS,18,1.47,2.48,-1,2.75,1.37,35,7
-1020118587,,"Zhukov, Maxim","Cid Subervi, Roberto",TENNIS,18,1.29,3.15,-1,4.9,1.14,57,57
-1020118588,,"Chidekh, Clement","Faria, Jaime",TENNIS,12.5,2.75,1.38,1.02,1.41,2.6,28,7
-1020118590,,"Glinka, Daniil","Zuk, Kacper",TENNIS,4.9,13,1.01,1.14,4.2,1.18,5,56
-1020118591,,"Turriziani Alvarez, Alejandro","Fanselow, Sebastian",TENNIS,18,1.44,2.55,-1,7.5,1.07,71,53
-1020118595,,"Stollar, Fanny","Radisic, Nika",TENNIS,16,3.85,1.21,-1,1.54,2.28,96,9
-1020118596,,"Curovic, Tamara","Malaescu, Daria Stefania",TENNIS,1.18,18,-1,4.2,1.09,6.75,10,41
-1020118599,,"Braithwaite, Thomas","Wiedenmann, Luca",TENNIS,17,12,1.01,-1,5,1.13,75,47
-1020118606,,"Arnaboldi, Federico","Lopez Montagud, Carlos",TENNIS,20,13,1.01,-1,3.15,1.29,89,27
-1020118607,,"Korneeva, Alina","Snigur, Daria",TENNIS,1.89,16,-1,1.8,1.88,1.81,3,54
-1020118608,,"Mrva, Maxim","Barnat, Jiri",TENNIS,15,1.44,2.5,-1,2.75,1.37,49,16
-1020118609,,"Donald, M W/Nicod, J","Benson, M/Horak, V",TENNIS,1.12,17,-1,5.3,1.08,6.5,4,57
-1020118610,,"Barton, H/Lusovsky, M","Raynel, A/Vanshelboim, E",TENNIS,4.8,17,-1,1.15,1.85,1.84,82,9
-1020118611,,"Maria, Tatjana","Putintseva, Yulia",TENNIS,141,2,1.74,-1,2.04,1.72,163,42
-1020118616,,"Dinu, Cristina","Vismane, Daniela",TENNIS,1.83,23,-1,1.85,1.7,2.02,30,44
-1020118617,,"Prihodko, Oleg","Chazal, Maxime",TENNIS,7.5,4,1.19,1.07,1.75,1.95,113,55
-1020118672,,"Pigossi, Laura","Hewitt, Dalayna",TENNIS,1.98,17,-1,1.72,1.52,2.35,7,53
-1020118693,,"Ruehl, T/Zahraj, P","Recek, D/Siniakov, D",TENNIS,10.5,2.95,1.32,1.03,2.85,1.35,89,26
-1020118951,,"Panak, Y/Schuetze, C","Alcala Gurri, M/Barreto Sanchez, D A",TENNIS,15,1.06,8,1.01,10.5,1.03,26,45
-1020119017,,"Naharro, D/Stepanian, A","Genov, A/Lopez, N",TENNIS,17,1.25,3.4,-1,3.4,1.25,27,52
-1020119018,,"Serban, Isabella Maria","Kenzhibayeva, Sandugash",TENNIS,16,2.33,1.52,-1,1.75,1.95,87,49
-1020119019,,"Kovalik, Jozef","Pellegrino, Andrea",TENNIS,11,4.9,1.14,1.02,1.61,2.18,97,39
-1020119022,,"Meliss, V/Muntean, V","Cortez Llorca, L/Parres Azcoitia, O",TENNIS,7,9.5,1.04,1.08,3.2,1.28,23,25
-1020119037,,"Bouzas Maneiro, Jessica","Kawa, Katarzyna",TENNIS,10.5,3.6,1.26,1.04,1.5,2.43,139,9
-1020119038,,"Schmiedlova, Anna Karolina","Juvan, Kaja",TENNIS,3.05,26,-1,1.33,1.94,1.79,116,12
-1020119041,,"Sabanov, I/Sabanov, M","Frantzen, C/Jebens, H",TENNIS,18,1.8,1.88,-1,2.16,1.6,73,33
-1020119044,,Xiyu Wang,"Hruncakova, Viktoria",TENNIS,2.4,26,-1,1.52,1.3,3.4,108,35
-1020119046,,"Soboleva, A K/Zaparyniuk, A","Ghioroaie, I G/Prisacariu, A",TENNIS,14,1.16,4.4,1.01,4.5,1.16,54,46
-1020119047,,"Gavrila, O/Strakhova, V","Ionescu, I A/Safta, A",TENNIS,1.43,18,-1,2.55,1.24,3.55,7,10
-1020119048,,"Benoit, M/Seidel, E","Forys, W J/Olianovskaia, V",TENNIS,1.27,17,-1,3.3,1.27,3.3,0,23
-1020119067,,"Ferreira Silva, Frederico","Blanch, Dali",TENNIS,14,6.5,1.08,1.01,1.13,5.25,89,36
-1020119071,,"Blockx, A/Colson, T","Dahlin, M/Steinegger, Y",TENNIS,2.08,2.2,1.6,1.65,1.91,1.78,23,32
-1020119080,,"Falcao, G/Pereira, T","Oliveira, F/Portugal, A",TENNIS,1.17,18,-1,4.3,1.17,4.35,10,6
-1020119081,,"Faria, J/Rocha, H","Vance, J/Whiting, T",TENNIS,1.19,18,-1,4.1,1.15,4.7,19,14
-1020119088,,"Guillen Meza, Alvaro","Cigarran, Thiago",TENNIS,1.86,14,1.01,1.82,1.86,1.82,0,22
-1020119095,,"Arribage, T/Sanchez, L","Bortolotti, M/Passaro, F",TENNIS,17,2.75,1.38,-1,1.6,2.18,104,45
-1020119099,,"Adkar, Vaishnavi","Viviani, Maria Vittoria",TENNIS,13,6.4,1.09,1.02,1.25,3.45,86,24
-1020119102,,"Cristian, Jaqueline Adina","Bogdan, Ana",TENNIS,34,4.1,1.2,-1,2.18,1.67,149,33
-1020119103,,"Bolkvadze, M/Miyazaki, Y L","Jorge, F/Jorge, M",TENNIS,11,3.3,1.27,1.03,1.41,2.65,52,7
-1020119109,,"Heide, Gustavo","Boyer, Tristan",TENNIS,17,3.4,1.26,-1,1.64,2.1,154,44
-1020119110,,"Alvisi, E/Ruggeri, J","Anshba, A/Appleton, E",TENNIS,121,1.41,2.65,-1,3.55,1.25,52,30
-1020119114,,"Parres Azcoitia, Olga","Glushko, Lina",TENNIS,17,1.14,4.9,-1,5.1,1.14,65,23
-1020119115,,"Hamza Reguig, Samir","Reitano, Stefano",TENNIS,15,1.97,1.73,-1,1.82,1.86,138,10
-1020119125,,"Detiuc, A/Piter, K","Hozumi, E/Ninomiya, M",TENNIS,18,2.15,1.63,-1,2.4,1.5,75,29
-1020119126,,"Szostak, Marine","Gulin, Georgia",TENNIS,1.62,16,-1,2.12,1.18,4.25,56,54
-1020119127,,"Hamza Reguig, S/Reitano, S","Braithwaite, T/Wiskandt, M",TENNIS,7,4.6,1.15,1.08,1.6,2.17,74,50
-1020119128,,"Ciocanu, A/Morandais, J-C","Nortey, I/Singh, K",TENNIS,9.5,1.44,2.55,1.04,3.3,1.28,24,49
-1020119129,,"La Cagnina, N/Paterno, G","Melosch, A/Ortega Redondo, P",TENNIS,2.63,18,-1,1.41,1.87,1.81,22,52
-1020119131,,"Christofi, E/Jokic, K","Gynina, V/Vojcinakova, I",TENNIS,1.26,14,1.01,3.4,1.26,3.4,0,16
-1020119132,,"Krumich, Martin","Recek, Dominik",TENNIS,1.18,15,-1,4.2,1.08,6.75,27,15
-1020119134,,"Coman, M A/Ludoski, Z","Arutiunian, E/Chepik, A",TENNIS,8.5,15,-1,1.05,2.17,1.6,41,44
-1020119135,,"Cirotte, A/Szostak, M","Iila, E/Tran, D",TENNIS,2.65,17,-1,1.4,1.52,2.35,78,45
-1020119136,,"Drugdova, S/Yesypchuk, D","Guth, M/Pridankina, E",TENNIS,16,1.49,2.4,-1,2.4,1.49,37,39
-1020119137,,"Eraydin, B/Simunyu, C","Garkusha, E/Tkacheva, M",TENNIS,2.55,17,-1,1.44,1.58,2.2,29,9
-1020119138,,"Milev, Y/Nesterov, P","Pisaric, A/Radjenovic, V",TENNIS,16,16,-1,-1,1.3,3.05,97,42
-1020119140,,"Adaloglou, M/Vozniak, K","Jamshidi, E/Tirunelveli, T",TENNIS,16,4,1.19,-1,1.5,2.35,63,28
-1020119142,,"Llinares Domingo, L/Marandel, L","Adkar, V/Gulin, G",TENNIS,9,2.9,1.34,1.05,1.34,2.9,47,17
-1020119149,,"Di Sarra, Federica","Bilardo, Federica",TENNIS,30,1.81,1.88,-1,1.88,1.81,41,13
-1020119153,,"Piraino, Gabriele","La Vela, Giuseppe",TENNIS,2.7,141,-1,1.38,1.85,1.84,13,17
-1020119154,,"Baroni, N/Speziali, F","Galoppini, D/Piraino, G",TENNIS,2.88,26,-1,1.35,2.6,1.42,7,53
-1020119155,,"Lokoli, Laurent","Galarneau, Alexis",TENNIS,31,1.75,1.97,-1,2.08,1.66,135,21
-1020119211,,"Aguilar, Federico Juan","Descotte, Matias Franco",TENNIS,17,1.05,9,-1,9.5,1.04,17,45
-1020119236,,"Cina, F/Giunta, M","Kroslak, J/Privara, P B",TENNIS,14,2.3,1.54,1.01,1.54,2.28,57,4
-1020119292,,"Paolini, J/Sherif, M","Fernandez, L A/Townsend, T",TENNIS,5,4.4,1.17,1.14,4.75,1.15,8,10
-1020119298,,"Catini, Niccolo","Oradini, Giovanni",TENNIS,126,1.01,13,-1,23,-1,0,23
-1020119299,,"Herea, Carmen Andreea","Jokic, Katarina",TENNIS,18,1.92,1.77,-1,2.02,1.7,145,21
-1020119306,,"Topalova, G/Vismane, D","Dencheva, R/Tran, L",TENNIS,1.47,111,-1,2.48,1.12,5.25,19,57
-1020119307,,"Harrison, Christian","Svajda, Zachary",TENNIS,6.4,21,-1,1.1,2.85,1.36,22,28
-1020119328,,"Bergevi, F/Veldheer, M","Choinski, J/Kolar, Z",TENNIS,1.95,17,-1,1.75,1.84,1.84,8,37
-1020119329,,"Moratelli, A/Rosatello, C","Jakupovic, D/Khromacheva, I",TENNIS,46,2.33,1.52,-1,1.68,2.06,77,34
-1020119330,,"Tracy, James","Pospisil, Vasek",TENNIS,121,1.47,2.48,-1,4.1,1.19,103,9
-1020119331,,"Bondar, Anna","Tomova, Viktoriya",TENNIS,2.35,56,-1,1.55,1.56,2.32,15,6
-1020119332,,"Maloney, E/Rushiti, A","Kozarov, K/Sieg, M",TENNIS,13,2.15,1.62,1.01,2.55,1.43,106,39
-1020119337,,"Roncadelli, Franco","Nusdeo, Joao Marcos",TENNIS,1.08,151,-1,7,1.06,8,7,43
-1020119338,,"Lahey, A/Tian, F","Babos, T/Radwanska, U",TENNIS,3.95,9,1.04,1.2,3,1.32,4,40
-1020119340,,"Vilicich, Bautista","Aguilar Cardozo, Joaquin",TENNIS,4.6,9.5,1.05,1.15,3.6,1.23,12,28
-1020119345,,"Blanchet, U/Jacquet, K","Added, D/Olivetti, A",TENNIS,16,1.34,2.9,-1,3.55,1.24,54,30
-1020119350,,"Burruchaga, Roman Andres","Comesana, Francisco",TENNIS,3.6,9.5,1.04,1.23,3.55,1.24,7,50
-1020119384,,"Brengle, Madison","Svendsen, Johanne Christine",TENNIS,1.12,16,-1,5.4,1.06,8,10,56
-1020119385,,"Eysseric, J/Mayot, H","Brouwer, G/de Jong, J",TENNIS,5.2,4.5,1.16,1.13,2.1,1.64,49,33
-1020119390,,"Chang, Sophie","Jacquemot, Elsa",TENNIS,10,7.5,1.07,1.03,1.62,2.14,181,23
-1020119430,,"Stakusic, Marina","Mboko, Victoria",TENNIS,2.55,13,1.01,1.44,1.66,2.08,4,19
-1020119433,,"Hess, Sean","Mouilleron Salvo, Manuel",TENNIS,13,14,1.01,1.02,1.4,2.63,163,51
-1020119439,,"Britto, L/Schiessl, J E","Cigarran, T/Roncadelli, F",TENNIS,2.43,46,-1,1.48,2.12,1.63,7,33
-1020119440,,"Augusto Dos Santos, R/Nusdeo, J M","Aguilar Cardozo, F/Aguilar Cardozo, J",TENNIS,81,1.33,2.9,-1,3.05,1.3,46,48
-1020119442,,"Trotter, James Kent","Kingsley, Cannon",TENNIS,91,1.84,1.86,-1,2,1.72,139,24
-1020119445,,"Defalco, Jenna",Lulu Sun,TENNIS,4.1,11,1.03,1.18,1.88,1.81,7,5
-1020119450,,"Simonit, Ezequiel","Barreiros Reyes, Mateo",TENNIS,41,2.17,1.6,-1,2.45,1.47,107,49
-1020119451,,"Arango, Emiliana","Sakkari, Maria",TENNIS,201,1.22,4,-1,5.5,1.15,45,46
-1020119677,,"Sebov, Katherine","Douglas, Ellie",TENNIS,11.5,6.75,1.08,1.02,1.1,6.25,116,7
-1020119681,,"Prozorova, Tatiana","Kessler, Mccartney",TENNIS,1.79,20,-1,1.9,1.79,1.9,0,24
-1020119682,,"Alsola, Jessica Luisa","Kiick, Allie",TENNIS,81,2.18,1.6,-1,3.15,1.28,77,40
-1020119683,,"Hovde, L/Ngounoue, C","Corley, C/Corley, I",TENNIS,4,3.55,1.24,1.2,1.77,1.92,82,1
-1020119684,,"Jones, M/Loeb, J","Mcadoo, R/Partaud, M",TENNIS,2.32,8,1.06,1.52,1.7,2.02,72,38
-1020119689,,"Fernandez, Leylah Annie","Kenin, Sofia",TENNIS,67,2.48,1.49,-1,1.88,1.84,163,39
-1020119694,,"Dolehide, C/Muhammad, A","Kato, Mi/Sutjiadi, A",TENNIS,2.6,20,-1,1.42,2,1.72,15,26
-1020119695,,"Harrison, C/Libietis, M","Perez, A/Quinn, E",TENNIS,15,3.1,1.3,1.01,1.43,2.55,71,14
-1020119698,,Nha Trang Dolphins,Saigon Heat,BASKETBALL,10,2.7,1.41,1.01,1.66,2.08,29,10
-1020119705,,"Schoolkate, Tristan","Kudla, Denis",TENNIS,111,1.57,2.25,-1,2.25,1.57,71,37
-1020119706,,"Rollins, Pierce","Emesz, Benedikt",TENNIS,1.87,51,-1,1.81,1.86,1.82,25,22
-1020119708,,"Pernas, Thiago","Okonkwo, Alexander",TENNIS,1.37,5,1.13,2.75,1.22,3.7,38,1
-1020119709,,"Zakharov, Volodymyr","Barun, Bozo",TENNIS,111,1.32,3,-1,3.5,1.24,69,49
-1020119710,,"Shuler, Jason","Tosetto, Victor",TENNIS,1.6,101,-1,2.17,1.58,2.23,4,41
-1020119711,,"Carlsson Seger, Timothy","Planelles Ripoll, Gerard",TENNIS,151,2.32,1.52,-1,4,1.19,122,16
-1020119712,,"Bracks, Luke","Savva, Stefanos",TENNIS,3.35,41,-1,1.26,2.65,1.4,11,52
-1020119714,,"Manuel, Melvin","Stevenson, David",TENNIS,2.43,51,-1,1.48,1.55,2.28,48,14
-1020119716,,"Vadyala, Mansi","Stara, Lenka",TENNIS,41,1.63,2.12,-1,2.12,1.63,85,44
-1020119718,,"Gelber, Emily","Osabuohien, Adesuwa",TENNIS,1.62,111,-1,2.14,1.34,2.9,12,31
-1020119719,,"Wiskowski, Anna","Oliver, Natalie",TENNIS,17,2.4,1.49,-1,1.78,1.91,85,7
-1020119722,,"Kyselova, Aleksandra","Cross, Morgan",TENNIS,141,1.3,3,-1,3.75,1.21,40,10
-1020119723,,"Ngounoue, Malkia","Bouzgarrou, Mouna",TENNIS,1.13,121,-1,5.1,1.07,7.5,57,25
-1020119727,,"Brengle, M/Zacarias, M","Aney, J/Herazo Gonzalez, M F",TENNIS,9,6.5,1.09,1.04,2.55,1.44,44,37
-1020119733,,"Azarenka, Victoria","Garcia, Caroline",TENNIS,91,2.95,1.37,-1,1.48,2.55,101,15
-1020119734,,"Hunter, S/Mertens, E","Guarachi, A/Niculescu, M",TENNIS,1.24,141,-1,3.6,1.17,4.4,6,29
-1020119735,,"Krueger, M/Kudla, D","Schoolkate, T/Walton, A",TENNIS,16,2.9,1.34,-1,1.71,2,78,56
-1020119740,2023-09-24 11:58:51.918740,New York Liberty,Connecticut Sun,BASKETBALL,17,4.1,1.19,-1,1.26,3.95,31,40
-1020119772,,"Inglis, Maddison","Preston, Taylah",TENNIS,6.4,3.25,1.28,1.09,1.58,2.2,125,47
-1020119794,,"Cash, R/Trotter, J K","Blumberg, W/Martinez, L D",TENNIS,4.4,12,1.02,1.17,3.45,1.25,14,23
-1020119796,,"Brymer, Gage","Ochi, Makoto",TENNIS,17,1.3,3.05,-1,3.4,1.25,45,25
-1020119811,,Chia Yi Tsao,"Lansere, Sofya",TENNIS,18,2.04,1.67,-1,3.85,1.21,47,53
-1020119832,,"Rinderknech, Arthur","Tu, Li",TENNIS,1.62,8,1.07,2.2,1.32,3.15,85,5
-1020119835,,"Gibson, Talia","Aiava, Destanee",TENNIS,3.4,67,-1,1.25,2.3,1.53,42,12
-1020119836,,"Akita, Shiho","Kuwata, Hiroko",TENNIS,16,2.88,1.34,-1,1.88,1.8,81,4
-1020119837,,Linghao Zhang,"Yang, Jimmy",TENNIS,18,1.13,5,-1,5,1.13,20,50
-1020119850,,"Trevisan, Martina","Dolehide, Caroline",TENNIS,67,19,-1,-1,1.7,2.08,164,42
-1020119855,,"Nishiwaki, Kazuki","Altamirano, Collin",TENNIS,18,3.55,1.24,-1,1.73,1.97,65,35
-1020119861,,"Nakagawa, Naoki","Shiraishi, Hikaru",TENNIS,3.2,4.75,1.15,1.28,1.25,3.4,53,16
-1020119880,2023-09-23 07:17:39.314380,"Polmans, Marc","Norrie, Cameron",TENNIS,91,1.22,4.1,-1,4.4,1.22,41,21
-1020119881,,"Sema, Erika","Sato, Naho",TENNIS,2.18,61,-1,1.6,2.02,1.7,84,33
-1020119980,,"Contreras Gomez, Fernanda","Saito, Sara",TENNIS,1.81,15,1.01,1.88,1.72,1.97,4,56
-1020119990,,Zhao Zhao,Cing-Yang Meng,TENNIS,1.94,15,-1,1.75,1.93,1.76,0,56
-1020120304,,Bang Shuo Yin,Qiulin Wang,TENNIS,1.14,17,-1,4.8,1.07,7.5,9,20
-1020120305,,"O'Connell, Christopher","Daniel, Taro",TENNIS,2.45,26,-1,1.5,1.86,1.86,68,37
-1020120411,,"Ito, Tatsuma","Fukuda, Sora",TENNIS,10,1.58,2.2,1.03,2.2,1.58,82,1
-1020120416,2023-09-23 00:05:45.760577,"Dimitrov, Grigor","Varillas, Juan Pablo",TENNIS,1.15,71,-1,5.2,1.12,5.6,24,14
-1020120422,,"Ivanova, D/Yu-Yun Li","Abe, H/Nagata, A",TENNIS,9.5,5.3,1.12,1.04,1.36,2.8,99,9
-1020120430,,"Piros, Zsombor","Hemery, Calvin",TENNIS,2.85,111,-1,1.37,1.53,2.33,109,41
-1020120431,,Explosivas de Moca (F),Cangrejeras de Santurce (F),BASKETBALL,10,6.1,1.07,1.01,1.47,2.5,35,31
-1020120437,2023-09-24 17:02:53.451088,Montaneras De Morovis (W),Ganaderas de Hatillo (W),BASKETBALL,4.3,14,-1,1.16,1.75,1.95,10,44
-1020120452,,"Hon, Priscilla","Yamazaki, Ikumi",TENNIS,1.16,18,-1,4.5,1.08,6.75,80,54
-1020120468,,"Hayashi, E/Imamura, S","Ito, A/Chia Yi Tsao",TENNIS,11,2.12,1.63,1.03,1.65,2.1,55,12
-1020120469,2023-09-25 18:29:27.166670,Club Libertad,Club Olimpia,BASKETBALL,11,1.6,2.2,1.01,4.2,1.2,21,54
-1020120504,,"Ichikawa, T/Kawachi, K","Kono, Y/Kusuhara, Y",TENNIS,2.25,4.25,1.18,1.56,1.85,1.83,12,53
-1020120505,,"Watanabe, S/Yuzuki, T","Ochi, M/Tanuma, R",TENNIS,2.23,17,-1,1.58,1.63,2.12,15,44
-1020120506,,"Friedsam, A-L/Kichenok, N",Hanyu Guo/Xinyu Jiang,TENNIS,6.4,3.4,1.27,1.1,1.81,1.9,102,39
-1020120509,,"Khachanov, Karen","Bolt, Alex",TENNIS,1.32,201,-1,3.1,1.26,3.5,44,52
-1020120579,,"Jones, Scott","Court, Jayden",TENNIS,15,7,1.08,1.01,1.32,2.95,180,41
-1020120587,,"Kucmova, Aneta","Ciric-Bagaric, Lucija",TENNIS,16,2.38,1.49,-1,1.58,2.2,65,22
-1020120596,2023-09-23 01:44:23.663294,"Sekulic, Philip","Musetti, Lorenzo",TENNIS,276,1.37,2.88,-1,7.5,1.07,163,27
-1020120637,,"Erel, Yanki","Habib, Hady",TENNIS,10.5,1.95,1.74,1.03,2.25,1.55,68,7
-1020120651,,"Pavlova, Kira","Costoulas, Sofia",TENNIS,16,1.5,2.35,-1,3.85,1.21,89,54
-1020120653,,"Christofi, Eleni","Guth, Mara",TENNIS,13,1.78,1.9,1.01,3.1,1.3,135,6
-1020120674,2023-09-23 00:06:26.722346,"Giron, Marcos","Rinderknech, Arthur",TENNIS,56,3.75,1.23,-1,1.76,2,101,34
-1020120678,2023-09-23 02:07:12.434628,"Svrcina, Dalibor","Etcheverry, Tomas Martin",TENNIS,91,1.34,3,-1,3.45,1.32,58,55
-1020120680,,"Dinu, Cristina","Karatancheva, Lia",TENNIS,1.52,201,-1,2.33,1.42,2.6,10,41
-1020120689,,"Thompson, Jordan","Lajovic, Dusan",TENNIS,1.66,201,-1,2.12,1.5,2.43,11,14
-1020120724,,"Dodig, Matej","Wessels, Louis",TENNIS,18,4.9,1.14,-1,1.7,2.02,84,15
-1020120738,,"van Wyk, Kris","Rossi, Leonardo",TENNIS,2.23,17,-1,1.56,1.57,2.23,46,14
-1020120744,2023-09-23 04:55:10.122977,"Zverev, Alexander","Kotov, Pavel",TENNIS,1.85,226,-1,1.87,1.1,6.4,121,52
-1020120748,,"Kopriva, Vit","Moeller, Marvin",TENNIS,1.88,41,-1,1.82,1.4,2.7,45,59
-1020120751,,"Olyanovskaya, Valeriya","Seidel, Ella",TENNIS,18,1.48,2.4,-1,2.4,1.48,44,42
-1020120752,2023-09-23 04:09:50.208265,"Murray, Andy","Karatsev, Aslan",TENNIS,111,4.9,1.16,-1,1.66,2.12,157,47
-1020120753,2023-09-23 02:03:27.735102,"Moutet, Corentin","Kecmanovic, Miomir",TENNIS,201,1.7,2.08,-1,2.23,1.6,94,52
-1020120783,,"Hercog, Polona","Sakellaridi, Sapfo",TENNIS,1.37,71,-1,2.75,1.27,3.3,5,26
-1020120795,,"Oetzbach, Adrian","Rosenkranz, Mats",TENNIS,18,1.29,3.1,-1,3.1,1.29,41,0
-1020120797,,"Delaney, Jake","Sorensen, Luke",TENNIS,1.2,15,1.01,4,1.2,4,0,18
-1020120799,,"Wiersholm, Henrik","Pearson, Kody",TENNIS,17,7.5,1.07,-1,1.42,2.6,155,51
-1020120800,,"Rai, Ajeet","Mott, Blake",TENNIS,18,2.2,1.58,-1,2.6,1.42,70,13
-1020120819,,Min Liu,"Lackova, Viktoria",TENNIS,1.78,51,-1,1.9,1.48,2.43,22,43
-1020120820,,"Martinez Martinez, Jorge","Alcala Gurri, Max",TENNIS,15,2.07,1.66,1.01,1.66,2.07,112,44
-1020120821,2023-09-23 00:04:03.710459,"Korda, Sebastian","Muller, Alexandre",TENNIS,2.18,51,-1,1.62,1.27,3.5,100,51
-1020120823,,"Ayala Serra, Nora","Lopez, Esther",TENNIS,11,2.05,1.67,1.03,3.3,1.27,93,11
-1020120836,,"Hussey, Giles","Schnaitter, Jakob",TENNIS,2,18,-1,1.7,1.65,2.08,11,20
-1020120837,,"Radisic, Nika","Buyukakcay, Cagla",TENNIS,14,2.3,1.53,1.01,1.92,1.77,126,0
-1020120844,,"Kozarov, Katarina","Vlasselaer, Clara",TENNIS,1.87,18,-1,1.81,1.6,2.15,28,54
-1020120859,,"Malige, M/Paris, T","Arneodo, R/Weissborn, T-S",TENNIS,17,1.34,2.88,-1,9.5,1.04,42,22
-1020120863,,"Garin, Cristian","Struff, Jan-Lennard",TENNIS,35,2.23,1.6,-1,1.94,1.79,128,3
-1020120886,,"Jeanjean, Leolia","Kartal, Sonay",TENNIS,6.1,17,-1,1.1,1.75,1.95,80,51
-1020120888,,"Milev, Yanaki","Nesterov, Petr",TENNIS,1.81,17,-1,1.88,1.64,2.1,0,31
-1020121211,,"Ajdukovic, Duje","Cobolli, Flavio",TENNIS,141,1.92,1.78,-1,2.55,1.45,80,14
-1020121229,,"Kenzhibayeva, Sandugash","Tirunelveli, Teja",TENNIS,2.02,18,-1,1.7,1.11,5.6,109,53
-1020121234,,"Vanlangendonck, Eliessa","Szostak, Marine",TENNIS,11,1.88,1.81,1.03,1.81,1.88,101,44
-1020121242,,"Paulson, A/Vrbensky, M","Kaliyanda Poonacha, N/Sharan, D",TENNIS,1.44,18,-1,2.55,1.36,2.8,6,7
-1020121246,,"Linette, Magda","Putintseva, Yulia",TENNIS,1.71,81,-1,2.08,1.71,2.1,0,36
-1020121252,,"Inoue, G /Yamanaka, T","Fancutt, T/Rai, A",TENNIS,18,1.14,4.8,-1,5.25,1.12,36,26
-1020121255,,"Carle, Maria Lourdes","Ristic, Mia",TENNIS,3.1,91,-1,1.3,1.75,1.94,52,56
-1020121256,,"Mmoh, Michael","Zeppieri, Giulio",TENNIS,3.15,29,-1,1.3,1.58,2.23,30,8
-1020121262,2023-09-23 02:40:33.046122,"Doumbia, S/Reboul, F","Peers, J/Safiullin, R",TENNIS,1.7,67,-1,2.04,1.61,2.16,16,38
-1020121264,,"Milovanovic, Elena","Viviani, Maria Vittoria",TENNIS,1.82,17,-1,1.86,1.68,2.02,1,13
-1020121274,,"Pattinama Kerkhove, Lesley","Glushko, Lina",TENNIS,2.28,16,-1,1.55,1.3,3.05,27,45
-1020121275,,"Curovic, Tamara","Kargina, Valerija Maija",TENNIS,1.38,18,-1,2.7,1.35,2.8,1,5
-1020121295,,"Gill, Felix","Lopez, Noah",TENNIS,1.29,18,-1,3.15,1.1,6,80,58
-1020121643,,"Jakupovic, D/Khromacheva, I","Anshba, A/Appleton, E",TENNIS,2,56,-1,1.71,1.61,2.18,34,47
-1020121804,,"Marcinko, Petra","Robbe, Alice",TENNIS,1.54,17,-1,2.28,1.3,3.15,13,51
-1020121843,,"Ramos-Viñolas, Albert","Misolic, Filip",TENNIS,4.8,15,1.01,1.15,1.56,2.28,98,17
-1020121867,,"Bergevi, F/Veldheer, M","Frantzen, C/Jebens, H",TENNIS,5.75,5.3,1.13,1.11,1.96,1.73,122,9
-1020121868,,"Coppejans, Kimmer","McDonald, Mackenzie",TENNIS,126,2.05,1.7,-1,3.55,1.25,114,33
-1020121869,,"Chopra, Keshav","Braithwaite, Thomas",TENNIS,2.55,17,-1,1.43,2.55,1.43,0,19
-1020121883,,"Sanchez Quilez, Alejo","Barreto Sanchez, Diego Augusto",TENNIS,6.5,18,-1,1.08,5.1,1.13,16,1
-1020121887,,"Krumich, Martin","Prihodko, Oleg",TENNIS,1.4,18,-1,2.63,1.35,2.88,95,9
-1020121888,,"Oradini, Giovanni","Arnaboldi, Federico",TENNIS,15,1.11,5.75,-1,6.4,1.09,7,10
-1020121889,,"Bittoun Kouzmine, Constantin","Delage, Pierre",TENNIS,1.19,17,-1,4,1.19,4,0,14
-1020121895,,"Masiianskaia, Mariia","Gettwart, Fabienne",TENNIS,9.5,2.33,1.52,1.04,3.1,1.3,33,9
-1020121900,,"Mchugh, Aidan","Rocha, Henrique",TENNIS,2.16,18,-1,1.6,2.16,1.6,0,19
-1020121922,,"Wendelken, Harry","Colson, Tibo",TENNIS,2.32,18,-1,1.53,1.82,1.86,21,2
-1020121926,,"Waligora, Amelia","Sacco, Federica",TENNIS,1.2,18,-1,3.9,1.2,3.9,0,15
-1020121930,,"Gavrila, O/Strakhova, V","Benoit, M/Seidel, E",TENNIS,1.57,16,-1,2.23,1.5,2.38,2,6
-1020121935,,"Friberg, Karl","Stewart, Hamish",TENNIS,1.66,11.5,1.02,2.06,1.44,2.5,49,52
-1020121944,,"Dinu, C/Zelnickova, R","Karatancheva, L/Sakellaridi, S",TENNIS,4,5.4,1.12,1.19,2.65,1.4,16,29
-1020121948,,"Reitano, Stefano","Badenhorst, Devin",TENNIS,17,1.68,2.04,-1,2.7,1.38,63,47
-1020121955,,"Minnen, Greet",Xiyu Wang,TENNIS,46,2.25,1.58,-1,2.06,1.7,56,4
-1020121974,,"Martín, Andrés","Cid Subervi, Roberto",TENNIS,2.32,14,1.01,1.53,1.37,2.75,35,39
-1020121980,,"Parravicini, G/Valente, D","Falkner, Z/Hobgarski, K",TENNIS,34,1.13,5.25,-1,5.8,1.1,33,5
-1020121984,,"Martinez Martinez, J/Winter Lopez, B","Caldes, J/Francisco, L",TENNIS,1.27,16,-1,3.3,1.24,3.5,6,59
-1020121985,,"Alcala Gurri, M/Barreto Sanchez, D A","Genov, A/Lopez, N",TENNIS,16,2.85,1.35,-1,1.6,2.16,83,58
-1020121999,,"Pisaric, A/Radjenovic, V","Katuch, J/Michalik, R",TENNIS,1.72,18,-1,1.97,1.68,2.04,0,38
-1020122000,,"Bulatova, Ar/Herea, C A","Guth, M/Pridankina, E",TENNIS,14,3.4,1.25,1.01,7,1.08,17,44
-1020122001,,"Christofi, E/Jokic, K","Eraydin, B/Simunyu, C",TENNIS,3.55,4.5,1.16,1.24,1.48,2.4,96,26
-1020122005,,"Pigossi, Laura","Babos, Timea",TENNIS,2.6,10.5,1.03,1.42,2.04,1.68,15,30
-1020122020,,"Oetzbach, A/Rosenkranz, M","Dahlin, M/Steinegger, Y",TENNIS,1.94,15,-1,1.76,1.57,2.23,67,1
-1020122022,,"Kozarov, K/Sieg, M","Meliss, V/Muntean, V",TENNIS,2.45,11,1.03,1.47,1.26,3.35,70,39
-1020122023,,"Bondar, Anna","Bogdan, Ana",TENNIS,51,2.88,1.37,-1,1.91,1.81,93,12
-1020122025,,"Blanch, Dali","Fanselow, Sebastian",TENNIS,12,15,-1,1.01,2.95,1.32,89,0
-1020122035,,"Guillen Meza, Alvaro","Vilicich, Bautista",TENNIS,1.55,20,-1,2.25,1.09,6.25,147,8
-1020122049,,"Adaloglou, M/Vozniak, K","La Cagnina, N/Paterno, G",TENNIS,2.05,18,-1,1.67,2.05,1.67,0,27
-1020122050,,"Cirotte, A/Szostak, M","Adkar, V/Gulin, G",TENNIS,15,2.9,1.34,-1,1.34,2.9,100,21
-1020122051,,"Chopra, K/Martín, A","Nortey, I/Singh, K",TENNIS,1.98,6.75,1.08,1.71,1.54,2.28,23,37
-1020122052,,"Braithwaite, T/Wiskandt, M","Kroslak, J/Privara, P B",TENNIS,2.6,14,1.01,1.42,1.52,2.38,54,35
-1020122059,,"Reis DA Silva, Joao Lucas","Boyer, Tristan",TENNIS,14,2.88,1.35,1.01,1.93,1.77,91,25
-1020122061,,"De Jonge, D/Schnaitter, J","Davis, J/Jones, B",TENNIS,1.76,15,1.01,1.93,1.62,2.14,7,31
-1020122065,2023-09-22 15:03:09.846732,"Fils, Arthur","Shelton, Ben",TENNIS,181,2.25,1.58,-1,2.5,1.47,73,35
-1020122066,2023-09-22 16:54:52.187384,"Davidovich Fokina, Alejandro","Cerundolo, Francisco",TENNIS,14,2.95,1.35,1.02,1.52,2.4,99,4
-1020122071,2023-09-22 20:56:24.752110,"Monfils, Gael","Auger Aliassime, Felix",TENNIS,91,2,1.74,-1,2.06,1.77,62,46
-1020122072,,"Hesse, Amandine","Korneeva, Alina",TENNIS,18,1.19,4.1,-1,4.4,1.16,15,25
-1020122081,,"Couacaud, Enzo","Galarneau, Alexis",TENNIS,21,2.15,1.62,-1,1.83,1.86,97,45
-1020122100,,"Schmiedlova, Anna Karolina","Kawa, Katarzyna",TENNIS,1.9,26,-1,1.83,1.46,2.55,35,29
-1020122101,,"Gil, F/Marques, D","Araujo, P/Schoen, P",TENNIS,2.1,17,-1,1.63,2.1,1.63,0,18
-1020122102,,"Faria, J/Rocha, H","Falcao, G/Pereira, T",TENNIS,1.41,18,-1,2.6,1.3,3.15,7,6
-1020122107,,"Kestelboim, Mariano","Descotte, Matias Franco",TENNIS,4.9,25,-1,1.14,3.85,1.21,1,13
-1020122108,,"Grey, B/Silva, E","Jorge, F/Jorge, M",TENNIS,15,1.98,1.71,1.01,2.65,1.41,87,41
-1020122118,,"Kingsley, Cannon","Harrison, Christian",TENNIS,3.1,26,-1,1.32,1.49,2.43,21,54
-1020122123,,"Mouilleron Salvo, Manuel","Kuzuhara, Bruno",TENNIS,29,1.64,2.1,-1,2.1,1.64,36,24
-1020122132,,"Peniston, Ryan","Pospisil, Vasek",TENNIS,5.4,12.5,1.02,1.13,1.66,2.08,158,43
-1020122133,,"Prozorova, Tatiana","Kiick, Allie",TENNIS,4.6,10.5,1.03,1.15,1.45,2.5,102,56
-1020122150,,"Roncadelli, Franco","Barreiros Reyes, Mateo",TENNIS,1.17,51,-1,4.5,1.17,4.5,0,30
-1020122154,,"Britto, L/Schiessl, J E","Aguilar Cardozo, F/Aguilar Cardozo, J",TENNIS,1.11,5.8,1.11,5.8,1.11,5.8,0,1
-1020122159,,"Hu, Victoria","Jacquemot, Elsa",TENNIS,151,1.32,3.05,-1,3.3,1.27,54,29
-1020122160,2023-09-25 18:12:05.588738,Club Atlético Welcome,Atlético Olimpia,BASKETBALL,4.2,5.5,1.1,1.17,3.2,1.3,38,9
-1020122162,2023-09-25 18:12:26.009499,Miramar,Lagomar,BASKETBALL,8.5,1.43,2.55,1.02,2.75,1.4,25,27
-1020122163,,"Sweeney, Jake","Sau Franco, Alan Raul",TENNIS,35,5.25,1.12,-1,1.84,1.84,69,34
-1020122166,2023-09-22 19:01:26.212093,"Bolton, E/Bozovic, A","Zamarripa, A/Zamarripa, M",TENNIS,3.8,4.8,1.15,1.21,1.5,2.38,50,51
-1020122167,,"Brengle, Madison","Stakusic, Marina",TENNIS,5.1,5.2,1.13,1.13,1.34,2.9,58,28
-1020122264,2023-09-22 16:25:18.082203,"Andreozzi, G/Hach Verdugo, H","Perez, A/Quinn, E",TENNIS,1.36,18,-1,2.8,1.36,2.85,3,9
-1020122412,2023-09-22 15:46:45.774665,"Douglas, Ellie","Defalco, Jenna",TENNIS,6.75,14,1.01,1.08,1.54,2.28,102,5
-1020122469,,"Jackson, Jennifer","Bouzgarrou, Mouna",TENNIS,1.25,181,-1,3.4,1.21,3.75,6,34
-1020122472,,"Ngounoue, Malkia","Oliver, Natalie",TENNIS,1.01,226,-1,14,1.01,15,1,21
-1020122477,2023-09-22 15:01:34.362147,"Rajaram, Natasha","Ferguson, Katie",TENNIS,23,3.65,1.23,-1,1.61,2.15,112,16
-1020122524,,"Smillie, Connor","Stevenson, David",TENNIS,71,1.23,3.65,-1,4.1,1.19,42,57
-1020122525,2023-09-22 14:50:37.265699,"Manuel, Melvin","Sau Franco, Alan Raul",TENNIS,2.55,18,-1,1.43,1.4,2.7,79,59
-1020122526,,"Rogers, Foster","Savva, Stefanos",TENNIS,161,2.6,1.42,-1,2.12,1.63,71,58
-1020122527,2023-09-22 15:37:33.822736,"Bracks, Luke","Emesz, Benedikt",TENNIS,201,1.18,4.2,-1,6.25,1.09,43,51
-1020122529,2023-09-22 17:48:00.591763,"Shuler, Jason","Planelles Ripoll, Gerard",TENNIS,12,6.25,1.1,1.02,2.35,1.52,48,19
-1020122539,,"Dabrowski, G/Routliffe, E","Paolini, J/Sherif, M",TENNIS,1.43,34,-1,2.6,1.32,3,8,45
-1020122602,,Famila Schio (F) ,Dinamo Sassari (F),BASKETBALL,1.56,10,1.02,2.28,1.08,7,12,39
-1020122641,2023-09-24 02:56:21.259716,Energa Toruń (F),Polonia Warszawa (F),BASKETBALL,1.86,14,-1,1.83,1.66,2.12,0,57
-1020122670,2023-09-22 15:38:14.694275,"Tettamble, Gus","Barun, Bozo",TENNIS,181,1.4,2.7,-1,3.95,1.2,70,40
-1020122671,2023-09-22 17:05:24.078281,"Dolehide, Caroline","Kenin, Sofia",TENNIS,7,29,-1,1.1,3.6,1.26,16,32
-1020122672,2023-09-22 19:01:46.579495,"Garcia, Caroline","Sakkari, Maria",TENNIS,301,1.8,1.96,-1,2.4,1.57,55,6
-1020122673,2023-09-22 22:57:27.860225,"Fils, A/Rublev, A","Paul, T/Tiafoe, F",TENNIS,16,4.1,1.18,-1,1.95,1.78,91,47
-1020122687,,Doxa Lefkadas,Apollon Patras,BASKETBALL,15,1.19,4,-1,5.25,1.11,10,0
-1020122699,2023-09-22 20:52:20.647707,"Hunter, S/Mertens, E","Dolehide, C/Muhammad, A",TENNIS,1.78,51,-1,1.95,1.26,3.7,24,4
-1020122703,,Xin Gao/Zhe Li,"Polmans, M/Romios, M C",TENNIS,2.45,35,-1,1.47,1.41,2.65,0,36
-1020122754,2023-09-23 00:05:45.816227,"Lammons, N/Withrow, J","Chandrasekar, A/Prashanth, N V S",TENNIS,1.3,29,-1,3.05,1.17,4.5,29,12
-1020122756,2023-09-23 04:21:45.485331,"Borges, N/Rinderknech, A","Cash, J/Galloway, R",TENNIS,2.33,30,-1,1.52,2.08,1.65,9,25
-1020122924,,"Brouwer, Gijs","Albot, Radu",TENNIS,16,2.2,1.58,-1,1.94,1.77,132,4
-1020122979,2023-09-23 01:53:35.284334,"Gille, S/Vliegen, J","King, E/Stalder, R",TENNIS,1.66,26,-1,2.08,1.32,3,37,36
-1020123004,2023-09-24 00:04:25.573907,"Thompson, Jordan","Safiullin, Roman",TENNIS,3.85,2.65,1.43,1.22,1.98,1.75,80,0
-1020123140,,"Lestienne, Constant","Ofner, Sebastian",TENNIS,2.25,3.7,1.23,1.57,2.25,1.57,0,26
-1020123286,2023-09-23 05:07:48.078737,"Cadar, E-T/Samir, S","Easwaramurthi, A/Sedysheva, A",TENNIS,1.23,18,-1,3.65,1.05,8.5,24,20
-1020123298,2023-09-23 00:18:22.872776,"Hosogi, Sakura","Muramatsu, Chihiro",TENNIS,1.73,12,1.01,1.97,1.5,2.5,10,7
-1020123299,2023-09-23 01:42:41.590300,"Shibahara, Ena","Perez, Ellen",TENNIS,14,5.8,1.1,1.01,1.52,2.4,104,41
-1020123300,2023-09-23 00:29:58.561119,"Schoofs, Bibiane","Kawaguchi, Natsumi",TENNIS,17,1.71,2,-1,2.55,1.43,74,23
-1020123302,2023-09-22 20:05:33.902078,"Dart, Harriet","Ishii, Sayaka",TENNIS,2.08,15,-1,1.65,1.13,5.2,133,29
-1020123303,2023-09-22 22:08:20.039312,"Olmos, Giuliana","Saigo, Rina",TENNIS,18,2.32,1.52,-1,1.67,2.1,104,38
-1020123304,2023-09-23 02:09:15.069364,"Hontama, Mai","Imamura, Saki",TENNIS,1.04,18,-1,9.5,1.04,11,37,0
-1020123305,2023-09-23 00:12:34.956518,"Matsuda, Rinko","Doi, Misaki",TENNIS,18,1.1,6.4,-1,8.5,1.06,18,24
-1020123306,2023-09-23 03:46:40.404419,"Melichar-Martinez, Nicole","Saito, Sara",TENNIS,12.5,1.89,1.79,1.02,3.35,1.26,53,54
-1020123307,2023-09-23 02:02:26.463635,"Papamichail, Despina","Marozava, Lidziya",TENNIS,1.03,17,-1,9.5,1.02,11,6,34
-1020123308,2023-09-22 22:54:25.063371,"Sakatsume, Himeno","Hanatani, Nagi",TENNIS,1.15,17,-1,4.7,1.06,8.5,7,21
-1020123342,2023-09-23 04:15:37.543822,Hanyu Guo/Xinyu Jiang,"Hozumi, E/Ninomiya, M",TENNIS,3.2,12,1.02,1.28,1.92,1.81,13,34
-1020123366,2023-09-23 03:01:00.660269,"Piros, Zsombor","Fatic, Nerman",TENNIS,111,3.65,1.23,-1,1.5,2.38,91,54
-1020123379,2023-09-23 05:17:01.707541,"Carle, Maria Lourdes","Hercog, Polona",TENNIS,2.75,16,-1,1.38,1.89,1.8,46,21
-1020123399,2023-09-23 07:25:57.180381,"Costoulas, Sofia","Falei, Aliona",TENNIS,16,4.35,1.17,-1,1.81,1.87,120,37
-1020123400,,"Added, D/Olivetti, A","Arneodo, R/Weissborn, T-S",TENNIS,1.8,9.5,1.03,1.88,1.62,2.14,16,36
-1020123401,,"Cazaux, Arthur","Broady, Liam",TENNIS,15,3.75,1.22,1.01,1.8,1.9,93,1
-1020123403,2023-09-24 09:03:52.328079,Dennis Novak,"Kopriva, Vit",TENNIS,30,2.25,1.57,-1,1.64,2.12,91,53
-1020123415,2023-09-23 01:06:06.644502,"Teichmann, Jil",Yidi Yang,TENNIS,1.03,18,-1,11,1.02,11.5,1,53
-1020123416,2023-09-23 01:11:13.211724,"Hruncakova, Viktoria",Jing-Jing Lu,TENNIS,1.09,18,-1,6.75,1.04,9.5,4,49
-1020123417,2023-09-23 02:38:30.540652,"Burrage, Jodie",Jia-Jing Lu,TENNIS,1.35,18,-1,2.88,1.11,5.6,27,43
-1020123418,2023-09-22 23:13:24.265873,Zongyu Li,Xiaodi You,TENNIS,17,2.25,1.56,-1,2.48,1.47,67,39
-1020123419,2023-09-22 22:59:50.188533,"Marino, Rebecca",Shuo Feng,TENNIS,1.47,18,-1,2.43,1.02,12,52,11
-1020123420,2023-09-23 02:43:16.678585,"Friedsam, Anna-Lena",Yufei Ren,TENNIS,1.38,18,-1,2.7,1.16,4.6,52,11
-1020123421,2023-09-22 23:13:44.693187,Sijia Wei,"Savinykh, Valeria",TENNIS,14,3.6,1.23,1.01,2.75,1.38,118,18
-1020123423,2023-09-23 01:08:09.189444,"Bai, Zhuoxuan","Yao, Xinxin",TENNIS,1.32,18,-1,3,1.07,7.5,39,16
-1020123424,2023-09-23 02:34:45.995815,"Tjandramulia, Olivia","Mandlik, Elizabeth",TENNIS,18,1.07,7.5,-1,7.5,1.07,0,22
-1020123425,2023-09-23 03:36:47.897962,Meiling Wang,"Kolodynska, Jana",TENNIS,17,1.33,2.95,-1,2.95,1.33,48,55
-1020123426,2023-09-22 23:11:01.731238,"Gleason, Quinn","Hartono, Arianne",TENNIS,18,1.28,3.2,-1,5.25,1.13,66,24
-1020123474,2023-09-23 05:05:04.233705,"Forejtek, Jonas","Vanshelboim, Eric",TENNIS,1.32,18,-1,3,1.27,3.35,18,17
-1020123476,2023-09-23 10:22:00.985633,"Bortolotti, M/Passaro, F","Frantzen, C/Jebens, H",TENNIS,17,1.54,2.28,-1,2.43,1.47,52,59
-1020123479,2023-09-23 04:10:31.110753,"Jones, A/Quayle, D","Maginley, H J/Sheehy, J",TENNIS,18,1.42,2.6,-1,3.45,1.25,8,52
-1020123485,2023-09-23 04:30:16.742166,"Korneeva, Alina","Marcinko, Petra",TENNIS,4.9,7.5,1.06,1.14,1.36,2.8,110,49
-1020123703,2023-09-23 02:08:54.597149,"Linette, Magda",Xiyu Wang,TENNIS,201,2,1.73,-1,1.95,1.79,77,0
-1020123916,2023-09-23 04:52:26.633505,"Dzumhur, Damir","Cobolli, Flavio",TENNIS,2.5,10,1.03,1.46,2.18,1.6,51,32
-1020123922,2023-09-24 00:07:49.269129,"Khachanov, Karen","McDonald, Mackenzie",TENNIS,9.5,41,-1,1.05,1.86,1.86,52,5
-1020124006,2023-09-24 09:05:14.533415,"Pellegrino, Andrea","Ramos-Viñolas, Albert",TENNIS,3.2,21,-1,1.28,2.88,1.36,12,12
-1020124039,2023-09-23 07:03:41.723923,"Mmoh, Michael","Lestienne, Constant",TENNIS,3.25,2.95,1.33,1.28,1.64,2.12,53,1
-1020124062,2023-09-23 06:29:42.860243,"Wessels, Louis","Krumich, Martin",TENNIS,2.48,8.5,1.06,1.46,2.14,1.62,10,22
-1020124265,2023-09-23 04:56:32.119043,"Bondar, A/Zimmermann, K","Jakupovic, D/Khromacheva, I",TENNIS,46,1.93,1.77,-1,1.87,1.87,58,4
-1020124299,2023-09-23 08:39:47.727888,"Christofi, E/Jokic, K","Guth, M/Pridankina, E",TENNIS,2.16,15,1.01,1.6,2.12,1.62,1,52
-1020124303,2023-09-23 05:06:26.137080,"Martinez Martinez, J/Winter Lopez, B","Genov, A/Lopez, N",TENNIS,1.7,16,-1,2.02,1.5,2.35,7,32
-1020124319,2023-09-23 12:21:51.317435,"Ugo Carabelli, Camilo","Burruchaga, Roman Andres",TENNIS,1.35,14,1.01,2.88,1.16,4.4,21,45
-1020124323,2023-09-23 09:07:00.456918,"Faria, J/Rocha, H","Gil, F/Marques, D",TENNIS,1.24,16,-1,3.45,1.15,4.7,15,2
-1020124348,2023-09-23 08:46:55.564075,"Albot, Radu","Broady, Liam",TENNIS,71,2.5,1.45,-1,2.55,1.44,111,56
-1020124377,2023-09-23 06:34:48.789575,"Pigossi, Laura","Jeanjean, Leolia",TENNIS,14,2.23,1.56,1.01,1.79,1.91,80,28
-1020124380,2023-09-23 09:01:33.062405,"Lahey, A/Tian, F","Jorge, F/Jorge, M",TENNIS,14,4.4,1.16,1.01,2.88,1.35,48,20
-1020124392,2023-09-23 07:51:52.047384,"Schmiedlova, Anna Karolina","Bogdan, Ana",TENNIS,101,2.32,1.56,-1,2.23,1.66,107,38
-1020124393,2023-09-23 04:49:02.209137,"Glasspool, L/Heliovaara, H","Eysseric, J/Mayot, H",TENNIS,11.5,7,1.08,1.02,1.15,4.7,84,39
-1020124441,2023-09-23 14:32:36.911062,"Peniston, Ryan","Kudla, Denis",TENNIS,111,2.16,1.6,-1,1.75,1.96,81,18
-1020124446,2023-09-23 12:04:25.293743,"Jacquemot, Elsa","Kiick, Allie",TENNIS,35,5.2,1.13,-1,1.36,2.8,97,37
-1020124603,2023-09-23 12:40:55.375898,"Galarneau, Alexis","Kingsley, Cannon",TENNIS,1.98,61,-1,1.73,1.65,2.1,21,32
-1020124863,2023-09-23 13:57:49.829807,"Stakusic, Marina","Douglas, Ellie",TENNIS,1.48,61,-1,2.43,1.38,2.75,7,39
-1020124923,2023-09-23 11:06:12.700926,"Andreozzi, G/Hach Verdugo, H","Cash, R/Trotter, J K",TENNIS,14,2.75,1.37,1.01,1.6,2.15,76,29
-1020124924,2023-09-23 18:49:35.647950,"Dolehide, Caroline","Sakkari, Maria",TENNIS,121,1.52,2.43,-1,4.9,1.19,92,11
-1020124996,2023-09-25 20:26:14.098759,Team Cali,Cimarrones Del Choco,BASKETBALL,1.29,17,-1,3.2,1.23,3.75,2,35
-1020125030,2023-09-23 16:31:27.268609,"Hunter, S/Mertens, E","Dabrowski, G/Routliffe, E",TENNIS,2.5,51,-1,1.46,1.44,2.65,39,50
-1020125031,2023-09-23 21:52:31.727093,"Preston, Taylah","Gibson, Talia",TENNIS,2.45,29,-1,1.47,1.65,2.13,18,22
-1020125065,2023-09-23 21:02:40.414729,"Kuwata, Hiroko","Lansere, Sofya",TENNIS,17,1.21,3.9,-1,3.9,1.21,24,53
-1020125066,2023-09-23 21:05:43.452330,"Nakagawa, Naoki","Ochi, Makoto",TENNIS,1.43,18,-1,2.55,1.37,2.75,89,0
-1020125123,2023-09-23 22:02:42.214852,"Marino, Rebecca","Savinykh, Valeria",TENNIS,6.1,15,-1,1.1,1.52,2.35,143,5
-1020125244,2023-09-23 17:03:37.606393,"Ruud, Casper","Paul, Tommy",TENNIS,2.7,226,-1,1.41,1.6,2.23,55,40
-1020125245,2023-09-23 15:00:08.180402,"Rublev, Andrey","Fritz, Taylor",TENNIS,25,2.14,1.64,-1,1.76,1.97,89,32
-1020125246,2023-09-23 20:54:32.447858,"Hurkacz, Hubert","Tiafoe, Frances",TENNIS,61,3.05,1.34,-1,1.54,2.5,64,51
-1020125302,2023-09-23 21:35:34.472820,"Sakatsume, Himeno","Kawaguchi, Natsumi",TENNIS,15,7.5,1.07,-1,1.15,4.8,100,57
-1020125303,2023-09-23 19:59:59.649115,"Hosogi, Sakura","Saigo, Rina",TENNIS,17,2.05,1.7,-1,1.75,2.05,82,27
-1020125304,2023-09-23 22:02:42.191847,"Hruncakova, Viktoria",Xiaodi You,TENNIS,1.49,15,-1,2.4,1.26,3.35,26,0
-1020125305,2023-09-23 22:03:02.635843,"Teichmann, Jil","Hartono, Arianne",TENNIS,4.1,11,1.03,1.18,1.45,2.5,120,2
-1020125343,2023-09-25 02:54:53.363066,"Gille, S/Vliegen, J","Lammons, N/Withrow, J",TENNIS,29,2.28,1.55,-1,2.2,1.6,95,4
-1020125344,2023-09-24 02:10:50.618511,"Habib, Hady","van Wyk, Kris",TENNIS,1.7,18,-1,2.02,1.55,2.25,4,53
-1020125349,2023-09-23 23:46:05.652068,"Bai, Zhuoxuan","Mandlik, Elizabeth",TENNIS,3.3,16,-1,1.27,1.87,1.81,50,41
-1020125383,2023-09-24 02:52:14.823616,"Korda, Sebastian","Etcheverry, Tomas Martin",TENNIS,1.33,201,-1,3.1,1.32,3.1,0,0
-1020125472,2023-09-23 22:40:12.707166,"Papamichail, Despina","Perez, Ellen",TENNIS,2.95,17,-1,1.33,1.61,2.15,29,52
-1020125533,2023-09-23 22:58:54.870178,"Hurkacz, H/Monfils, G","Auger-Aliassime, F/Shelton, B",TENNIS,121,2.55,1.46,-1,1.97,1.8,67,3
-1020125610,2023-09-24 17:58:42.797304,Jinotega,Real Estelí,BASKETBALL,2.85,9,1.01,1.36,2.5,1.48,0,34
-1020125626,2023-09-24 01:52:43.578188,"Rinderknech, Arthur","Musetti, Lorenzo",TENNIS,41,1.83,1.9,-1,2.04,1.71,78,46
-1020125641,2023-09-24 00:33:41.639623,"Mott, Blake","Delaney, Jake",TENNIS,1.44,18,-1,2.55,1.16,4.5,61,27
-1020126026,2023-09-24 04:07:37.330063,"Milovanovic, Elena","Waligora, Amelia",TENNIS,1.7,2.6,1.42,2,1.6,2.16,4,17
-1020126027,2023-09-24 03:42:41.448833,"Hussey, Giles","Rosenkranz, Mats",TENNIS,2.33,3.05,1.32,1.52,1.88,1.8,5,50
-1020126037,2023-09-24 01:02:37.932345,"Ceinos, Eugenia Jazmin","Ugrelidze, Nina",TENNIS,141,20,-1,-1,1.86,1.86,139,27
-1020126038,2023-09-24 01:02:58.335036,"Zuchanska, Aleksandra Julia",Min Liu,TENNIS,21,15,1.01,-1,1.84,1.84,166,29
-1020126039,2023-09-24 01:34:41.311976,"Reva, Aliesia",Xiaotong Wang,TENNIS,5.8,1.41,2.65,1.1,2.65,1.41,9,9
-1020126040,2023-09-24 00:23:09.072300,"Hontama, Mai","Saito, Sara",TENNIS,1.23,18,-1,3.65,1.21,3.85,1,37
-1020126041,2023-09-24 01:08:04.965783,"Friedsam, Anna-Lena","Volodko, Kateryna",TENNIS,1.91,18,-1,1.77,1.4,2.85,28,41
-1020126042,2023-09-24 00:45:56.837430,"Burrage, Jodie","Kolodynska, Jana",TENNIS,2.5,11,1.02,1.45,1.36,2.8,35,43
-1020126043,2023-09-23 10:55:00.068232,"Eysseric, J/Mayot, H","Added, D/Olivetti, A",TENNIS,2.8,2.6,1.41,1.37,2.43,1.48,9,34
-1020126067,2023-09-24 04:12:24.630919,"Bittoun Kouzmine, Constantin","Martín, Andrés",TENNIS,2.32,1.71,2,1.53,2.2,1.58,1,45
-1020126102,2023-09-24 02:54:59.599896,Xin Gao/Zhe Li,"Murray, J/Venus, M",TENNIS,14,1.21,3.85,1.01,7.5,1.08,58,24
-1020126112,2023-09-24 03:45:04.803935,"Zverev, Alexander","Kecmanovic, Miomir",TENNIS,1.41,5.6,1.13,2.7,1.17,4.6,29,53
-1020126313,2023-09-25 10:56:53.571780,CSU Atlassib Sibiu,CS Valcea 1924,BASKETBALL,1.55,31,-1,2.28,1.13,5.6,16,57
-1020126403,2023-09-24 13:59:28.610853,Ameghino de Villa María,Asociacion El Ceibo de San Francisco,BASKETBALL,4,7.5,1.05,1.2,2.32,1.54,17,31
-1020126406,2023-09-24 03:55:19.950964,"Kozarov, Katarina","Falei, Aliona",TENNIS,17,1.08,7,-1,10.5,1.03,6,0
-1020126495,2023-09-24 01:59:14.855046,Al Ahly Cairo,Zhejiang Golden Bulls,BASKETBALL,25,7.5,1.05,-1,1.15,4.75,38,3
-1020126527,2023-09-24 14:09:41.934933,"Bertola, R","Berankis, Ricardas",TENNIS,6.1,14,1.01,1.1,3.8,1.21,14,1
-1020126529,2023-09-24 02:57:43.264962,"Ilkel, Cem","Hoang, Antoine",TENNIS,2.8,2.48,1.46,1.36,1.6,2.18,62,12
-1020126531,2023-09-24 02:55:40.475102,"Paris, Tom","Poullain, Lucas",TENNIS,4.5,4.1,1.19,1.16,3.75,1.22,9,13
-1020126533,2023-09-24 10:48:58.707584,"Ferreira Silva, Frederico","Gea, Arthur",TENNIS,1.54,18,-1,2.3,1.38,2.75,6,54
-1020126535,2023-09-24 09:07:17.583236,"Bellucci, Mattia","Vincent Ruggeri, Samuel",TENNIS,6.1,16,-1,1.1,1.11,6,152,53
-1020126537,2023-09-24 12:19:22.077065,"De Loore, Joris","Bertrand, Robin",TENNIS,5.2,5.6,1.11,1.13,1.15,4.7,122,51
-1020126579,2023-09-24 03:50:53.003853,"Vale, Duarte","Sanchez-Izquierdo, Nikolas",TENNIS,3.7,1.22,3.65,1.22,3.7,1.22,0,0
-1020126583,2023-09-24 09:13:29.555430,"Araujo, Pedro","Fonio, Giovanni",TENNIS,17,2.28,1.55,-1,5,1.13,59,11
-1020126584,2023-09-24 08:49:29.969070,"Caruso, Salvatore","Kaliyanda Poonacha, Niki",TENNIS,1.19,17,-1,4.1,1.17,4.25,6,23
-1020126586,2023-09-24 03:51:13.481100,"Guinard, Manuel","Sanchez Jover, Carlos",TENNIS,1.58,2.8,1.36,2.2,1.44,2.63,10,53
-1020126587,2023-09-24 03:51:13.444643,"Fanselow, Sebastian","Taberner, Carlos",TENNIS,3.25,1.45,2.5,1.27,3.15,1.32,1,2
-1020126610,2023-09-24 10:09:40.459373,"Ugo Carabelli, Camilo","Boyer, Tristan",TENNIS,3.25,15,-1,1.28,1.42,2.6,55,53
-1020126813,2023-09-24 16:41:49.396109,"Stakusic, Marina","Kiick, Allie",TENNIS,1.77,121,-1,1.92,1.77,1.92,0,19
-1020126819,2023-09-24 10:57:15.197507,"Galarneau, Alexis","Kudla, Denis",TENNIS,151,2.28,1.56,-1,1.76,2.04,51,34
-1020126829,2023-09-24 22:30:27.422979,"Day, Kayla","Uchijima, Moyuka",TENNIS,1.81,51,-1,1.93,1.7,2.1,11,34
-1020126830,2023-09-25 21:00:46.540687,"Kalinskaya, Anna","Alexandrova, Ekaterina",TENNIS,17,2.7,1.41,-1,2.38,1.52,145,25
-1020126832,2023-09-24 21:01:13.169203,"Krueger, Ashlyn","Kalinina, Anhelina",TENNIS,181,2.18,1.61,-1,1.83,1.89,66,43
-1020126833,2023-09-25 23:42:10.196608,"Pavlyuchenkova, Anastasia","Vekic, Donna",TENNIS,2.12,1.72,2.12,1.72,2.12,1.72,0,0
-1020126835,2023-09-25 03:03:43.103290,"Maria, Tatjana","Samsonova, Liudmila",TENNIS,161,1.34,3,-1,3.65,1.29,49,22
-1020126839,2023-09-25 02:05:57.881836,"Avanesyan, Elina","Tauson, Clara",TENNIS,181,2.35,1.53,-1,2.12,1.66,74,46
-1020126842,2023-09-25 02:02:34.138587,"Zvonareva, Vera","Boulter, Katie",TENNIS,4.1,13,1.02,1.21,3.2,1.35,9,17
-1020126843,2023-09-25 05:57:41.979380,"Masarova, Rebeka","Fruhvirtova, Linda",TENNIS,3.55,8.5,1.06,1.26,1.34,3.3,87,39
-1020126844,2023-09-25 03:41:40.314162,"Saville, Daria","Putintseva, Yulia",TENNIS,251,2.43,1.5,-1,2.06,1.7,65,42
-1020126846,2023-09-25 05:24:14.036370,Yue Yuan,"Baindl, Kateryna",TENNIS,61,11,1.03,-1,1.74,2,132,58
-1020126862,2023-09-24 12:15:36.593635,"Cross, Morgan","Bouzgarrou, Mouna",TENNIS,1.46,29,-1,2.48,1.19,4,10,9
-1020126863,2023-09-24 11:46:13.297061,"Stara, Lenka","Oliver, Natalie",TENNIS,1.38,10.5,1.03,2.7,1.21,3.75,18,12
-1020126873,2023-09-24 09:03:52.281777,"Dlimi, Yassine","Mayo, Aidan",TENNIS,12,6.5,1.09,1.01,2.15,1.61,166,52
-1020126874,2023-09-24 09:03:31.808607,"Gomez, Federico Agustin","Lieberman, Henry",TENNIS,1.14,18,-1,4.9,1.02,10.5,17,54
-1020126875,2023-09-24 09:06:57.014620,"Langmo, Christian","King, Darian",TENNIS,17,7,1.08,-1,1.9,1.8,160,1
-1020126876,2023-09-24 14:51:38.711958,"Rodenas, Pedro","Ponwith, Nathan",TENNIS,3.45,7,1.08,1.25,1.52,2.33,118,4
-1020126877,2023-09-24 11:39:02.752719,"Young, Donald","Kwiatkowski, Thai-Son",TENNIS,18,1.37,2.75,-1,3.25,1.27,81,44
-1020126878,2023-09-24 13:18:09.300568,"Escobedo, Ernesto","Boulais, Justin",TENNIS,2.2,16,-1,1.58,1.25,3.5,59,40
-1020126880,2023-09-24 12:18:20.493098,"Vasa, Eero","Moller, Elmer",TENNIS,18,1.65,2.06,-1,4.6,1.15,57,49
-1020126881,2023-09-24 15:12:45.710114,"Zheng, Michael","Kozlov, Stefan",TENNIS,12.5,2.8,1.36,1.02,1.62,2.14,110,28
-1020126882,2023-09-24 17:21:57.037875,"Zhu, Evan","Dostanic, Stefan",TENNIS,17,5.4,1.12,-1,3,1.3,1010,15
-1020126883,2023-09-24 12:12:52.653649,"Schnur, Brayden","Holmgren, August",TENNIS,11,3.45,1.25,1.02,2.16,1.6,186,47
-1020126886,2023-09-24 10:32:59.721733,"Kirchheimer, Strong","Pate, Carter",TENNIS,1.05,18,-1,8.5,1.05,9.5,8,11
-1020127059,2023-09-24 13:35:15.428635,"Planelles Ripoll, Gerard","Savva, Stefanos",TENNIS,1.29,4.5,1.16,3.2,1.22,3.8,10,46
-1020127147,2023-09-24 11:58:31.584301,"Carlsson Seger, Timothy","Rogers, Foster",TENNIS,2.95,161,-1,1.33,1.68,2.04,18,40
-1020127152,2023-09-24 17:57:21.250147,"Farlie, Ethan","Ryan Ziegann, Sam",TENNIS,3.15,23,-1,1.29,2.43,1.48,15,24
-1020127208,2023-09-24 12:35:50.007884,"Zakharov, Volodymyr","Smillie, Connor",TENNIS,41,1.94,1.75,-1,1.75,1.94,32,41
-1020127214,2023-09-24 08:49:50.358036,Partizán de Belgrado,FC Bayern München,BASKETBALL,5.1,8,1.04,1.13,2.12,1.67,34,26
-1020127236,2023-09-24 21:01:33.720765,"Kamenoff, Darina","Berezov, Anastasia",TENNIS,1.86,91,-1,1.82,1.75,1.94,8,49
-1020127246,2023-09-24 20:10:05.239424,"Singh, Soha","Aiava, Destanee",TENNIS,6.5,1.88,1.81,1.09,1.81,1.88,0,27
-1020127248,2023-09-24 19:43:33.926396,"Baker, Caitlin","Lozitskaya, Eva",TENNIS,25,3.75,1.21,-1,1.77,1.91,153,37
-1020127251,2023-09-25 01:21:06.645604,"Marozava, L/Schoofs, B","Contreras Gomez, F/Papamichail, D",TENNIS,34,3.45,1.25,-1,1.72,2.05,85,19
-1020127256,2023-09-24 23:01:46.703879,"Olmos, G/Stefani, L","Kudermetova, V/Pavlyuchenkova, A",TENNIS,11.5,4.4,1.17,1.03,1.91,1.8,78,2
-1020127264,2023-09-24 22:48:49.873888,"Powell, Taya","Smith, Alicia",TENNIS,29,1.07,7.5,-1,7.5,1.07,13,42
-1020127271,2023-09-25 00:03:00.698297,"Hulme, Matthew","Dumitru, Marin",TENNIS,4.1,91,-1,1.18,1.57,2.23,74,49
-1020127272,2023-09-24 20:00:21.188543,"Scheers, Matthew","Gaal, Corey",TENNIS,5.3,1.4,2.65,1.12,4,1.2,11,3
-1020127273,2023-09-24 17:58:02.052126,"Gadecki, Thomas","Beale, Jeremy",TENNIS,126,1.6,2.16,-1,8,1.05,97,10
-1020127274,2023-09-24 22:49:51.185938,"Talic, Zaharije-Zak","Bataljin, Lawrence",TENNIS,67,2.35,1.5,-1,1.52,2.33,56,21
-1020127320,2023-09-25 09:38:32.067226,"Agamenone, Franco","Maestrelli, Francesco",TENNIS,2.23,26,-1,1.58,1.97,1.73,26,13
-1020127322,2023-09-25 07:55:26.267710,"Piros, Zsombor","Feldbausch, Kilian",TENNIS,4.2,29,-1,1.19,1.18,4.2,71,25
-1020127323,2023-09-25 10:18:57.887704,"Blancaneaux, Geoffrey","Kolar, Zdenek",TENNIS,4.25,13,1.02,1.19,2.1,1.7,137,4
-1020127327,2023-09-25 09:30:35.525709,"Choinski, Jan","Ajdukovic, Duje",TENNIS,34,13,1.01,-1,1.73,1.98,147,10
-1020127337,2023-09-25 14:16:36.055323,"Mpetshi Perricard, Giovanni","Johns, Garrett",TENNIS,9.5,3.65,1.24,1.05,1.29,3.25,94,38
-1020127339,2023-09-25 13:31:16.958025,"Couacaud, Enzo","Poljicak, Mili",TENNIS,1.27,35,-1,3.3,1.06,8,72,24
-1020127341,2023-09-25 13:08:28.388379,"Lokoli, Laurent","Krueger, Mitchell",TENNIS,2.12,30,-1,1.64,1.72,2,99,1
-1020127351,2023-09-25 12:09:51.102735,"Molcan, Alex","Van Assche, Luca",TENNIS,21,41,-1,-1,1.79,1.91,139,27
-1020127353,2023-09-25 10:14:08.531533,"Nardi, Luca","Grenier, Hugo",TENNIS,1.85,61,-1,1.84,1.6,2.28,6,1
-1020127355,2023-09-25 14:38:07.520945,"Prizmic, Dino","Gaston, Hugo",TENNIS,46,1.86,1.83,-1,1.85,1.85,117,21
-1020127356,2023-09-25 16:47:45.649979,"Diallo, Gabriel","Zeppieri, Giulio",TENNIS,35,3.45,1.26,-1,1.6,2.25,108,4
-1020127380,2023-09-25 03:23:52.722967,"Hartono, A/Tjandramulia, O","Danilina, A/Panova, A",TENNIS,51,1.5,2.4,-1,3.45,1.26,55,59
-1020127387,2023-09-25 19:02:09.689501,"Sciglitano, Lawrence","Amiryavari, Sohrob",TENNIS,4.1,9.5,1.03,1.18,1.84,1.84,0,26
-1020127388,2023-09-25 14:34:01.845897,"Sherif, Lawee","Chiu, Jordan",TENNIS,14,1.32,3,1.01,3.45,1.25,65,8
-1020127389,2023-09-25 15:15:21.468611,"Mayo, Keenan","Pane, Lautaro",TENNIS,2.05,3.6,1.24,1.67,1.29,3.15,32,35
-1020127427,2023-09-25 00:04:22.126001,"Doumbia, S/Reboul, F","Giron, M/Statham, J",TENNIS,1.82,13,1.01,1.88,1.24,3.55,22,54
-1020127428,2023-09-24 14:17:12.169916,Umf Tindastoll,Valur Reykjavik,BASKETBALL,20,5.1,1.12,-1,1.19,4.1,36,8
-1020127512,2023-09-24 22:11:23.905661,"Oshino, Suzuho","Higashitani, Nagomi",TENNIS,1.52,17,-1,2.33,1.49,2.4,90,40
-1020127514,2023-09-24 20:03:25.785112,"Kozaki, Funa","Arai, Aely",TENNIS,2.08,18,-1,1.64,1.6,2.18,18,13
-1020127515,2023-09-24 22:42:22.196370,"Katsumi, Nanari","Oigawa, Suzuna",TENNIS,1.87,14,1.01,1.82,1.2,3.95,31,26
-1020127516,2023-09-24 21:49:55.952363,"Nishimura, Kayo","Nagata, Anri",TENNIS,2.18,16,-1,1.6,1.81,1.87,18,2
-1020127517,2023-09-24 20:03:05.338175,"Rioux, Lisa-Marie","Morisaki, Kanako",TENNIS,11.5,17,-1,1.02,1.54,2.28,144,36
-1020127518,2023-09-24 20:04:47.369127,"Saigo, Yukina","Ogata, Haine",TENNIS,14,13,1.01,1.01,1.57,2.23,227,51
-1020127519,2023-09-24 20:09:44.721143,"Yoshioka, Kisa","Nishimoto, Sera",TENNIS,1.28,17,-1,3.25,1.25,3.45,42,13
-1020127526,2023-09-24 12:01:36.121482,"Fery, Arthur","Broom, Charles",TENNIS,3.35,13,1.01,1.26,1.56,2.25,53,50
-1020127527,2023-09-24 09:03:52.306083,"Gautier, Alexis","Marie, Jules",TENNIS,15,1.63,2.12,1.01,2.43,1.48,84,27
-1020127538,2023-09-25 00:03:21.052351,"Bucsa, Cristina","Saigo, Rina",TENNIS,1.18,251,-1,4.5,1.09,8.5,10,52
-1020127541,2023-09-25 04:22:29.970676,"Hontama, Mai","Hibino, Nao",TENNIS,1.8,91,-1,1.94,1.8,1.94,0,0
-1020127542,2023-09-25 04:27:39.227287,"Safiullin, Roman","Musetti, Lorenzo",TENNIS,1.86,181,-1,1.86,1.83,1.89,19,13
-1020127552,2023-09-25 21:01:27.264768,"Krueger, A/Pegula, J","Eikeri, U/Neel, I",TENNIS,18,4.35,1.18,-1,1.44,2.55,96,53
-1020127558,2023-09-24 20:06:29.461918,"O'Connell, Benjamin","Rai, Ajeet",TENNIS,18,1.04,9.5,-1,11,1.02,21,27
-1020127569,2023-09-24 21:46:10.993716,"Klintcharov, Alexander","Schoeman, Marcus",TENNIS,1.49,111,-1,2.4,1.15,5,66,2
-1020127570,2023-09-25 04:30:03.553831,"Hruncakova, Viktoria","Blinkova, Anna",TENNIS,26,2.07,1.7,-1,1.95,1.86,94,47
-1020127571,2023-09-25 02:02:34.122962,"Bronzetti, Lucia","Teichmann, Jil",TENNIS,2.28,16,1.01,1.57,1.52,2.55,52,5
-1020127572,2023-09-24 14:08:20.092786,"Hurkacz, H/Rublev, A","Shelton, B/Tiafoe, F",TENNIS,10.5,2.6,1.45,1.03,1.7,2.05,102,49
-1020127732,2023-09-25 10:01:41.286874,LCC Tarptautinis Universitetas (W),BC Neptūnas (F),BASKETBALL,14,6.75,1.06,-1,4.2,1.17,18,33
-1020127807,2023-09-25 03:33:47.923888,"Hoang, Antoine","Poullain, Lucas",TENNIS,16,1.88,1.8,-1,2.1,1.65,90,22
-1020127814,2023-09-25 04:30:44.730889,"Khachanov, Karen","Korda, Sebastian",TENNIS,3.2,111,-1,1.32,2.3,1.62,20,15
-1020127815,2023-09-25 08:25:41.741237,"Friedsam, Anna-Lena","Kvitova, Petra",TENNIS,226,1.48,2.48,-1,5.3,1.14,77,0
-1020127873,2023-09-25 04:01:32.905971,"Sanchez Jover, Carlos","Fanselow, Sebastian",TENNIS,3.7,15,1.01,1.22,1.55,2.28,65,52
-1020127875,2023-09-25 04:02:14.007946,"Stodder, Timo","Sanchez-Izquierdo, Nikolas",TENNIS,5.3,17,-1,1.12,1.84,1.84,33,19
-1020127880,2023-09-25 07:40:24.510660,"Korda, S/Mcdonald, M","Murray, J/Venus, M",TENNIS,181,1.52,2.33,-1,3.1,1.3,41,43
-1020127890,2023-09-25 03:33:27.372466,"Lamasine, Tristan","Gombos, Norbert",TENNIS,2.95,17,-1,1.33,2.25,1.55,6,53
-1020128120,2023-09-25 04:02:14.056136,"Krutykh, Oleksii","Barranco Cosano, Javier",TENNIS,13,3.95,1.2,1.01,1.58,2.23,153,3
-1020128124,2023-09-25 06:18:29.404774,"Zverev, Alexander","Dimitrov, Grigor",TENNIS,1.52,67,-1,2.43,1.48,2.48,9,0
-1020128129,2023-09-25 11:01:22.614545,"Butvilas, E/Vaise, T","Giovannini, F/Giovannini, U M",TENNIS,1.21,18,-1,3.75,1.03,10,21,45
-1020128134,2023-09-25 05:30:43.588786,"Ymer, Elias","Bourgue, Mathias",TENNIS,12.5,3.65,1.23,1.02,1.68,2.02,162,58
-1020128136,2023-09-25 06:40:41.847010,"Nishioka, Yoshihito","Karatsev, Aslan",TENNIS,3,111,-1,1.34,2.05,1.77,12,37
-1020128142,2023-09-25 06:23:15.578456,"Pereira, Tiago","Domingues, Joao",TENNIS,18,1.38,2.7,-1,3.5,1.25,64,4
-1020128199,2023-09-25 04:10:49.226261,"Pavlou, Dimitra","Gettwart, Fabienne",TENNIS,5.5,15,-1,1.12,3,1.3,187,57
-1020128200,2023-09-25 04:04:17.833152,"Rocchetti, Sofia","Steur, Joelle Lilly Sophie",TENNIS,15,4.8,1.14,1.01,1.58,2.2,240,31
-1020128201,2023-09-25 09:19:13.079265,"Christofi, Eleni","Rame, Alice",TENNIS,3.75,10,1.03,1.21,2.4,1.48,55,0
-1020128202,2023-09-25 09:39:13.601970,"Lovric, Pia","Karatancheva, Lia",TENNIS,17,10,1.04,-1,1.54,2.28,122,3
-1020128203,2023-09-25 10:39:19.777406,"Pridankina, Elena","Bojovic, Jana",TENNIS,1.62,18,-1,2.14,1.12,5.4,40,34
-1020128413,2023-09-25 03:12:14.737718,"Garcian, Axel","Muller, Rik",TENNIS,1.52,17,-1,2.33,1.52,2.33,0,16
-1020128414,2023-09-25 03:01:20.381948,"Welte, Milan","Faure, Valentin",TENNIS,1.11,18,-1,5.75,1.11,5.75,0,13
-1020128415,2023-09-25 03:13:57.229813,"Pierre, Hugo","Wallner, Mark",TENNIS,2.6,8.5,1.05,1.41,1.28,3.15,131,0
-1020128460,2023-09-25 03:12:35.320647,"Bailly, Gilles Arnaud","Carraro, Luciano",TENNIS,1.67,17,-1,2.06,1.3,3,4,38
-1020128461,2023-09-25 03:05:25.359788,"Jong, Alexander Maarten","Di Natale, Gian Matias",TENNIS,1.23,15,-1,3.55,1.19,4.1,9,44
-1020128462,2023-09-25 03:03:02.301901,"Parizzia, Nicolas","Bagnolini, Daniel",TENNIS,21,2.8,1.37,-1,1.82,1.86,114,35
-1020128464,2023-09-25 03:04:03.566944,"Pennaforti, Gabriele","La Vela, Giuseppe",TENNIS,2.12,201,-1,1.63,1.77,1.92,14,9
-1020128465,2023-09-25 03:07:48.636195,"Misasi, Giannicola","Catini, Niccolo",TENNIS,3.05,23,-1,1.32,2.63,1.41,9,25
-1020128466,2023-09-25 03:06:26.797975,"Marino, Pietro","Donders, Dax",TENNIS,41,3.05,1.3,-1,1.98,1.72,123,32
-1020128471,2023-09-25 09:48:53.939673,"Vanta, Valentin","Hrazdil, Jan",TENNIS,18,1.73,1.96,-1,3.5,1.24,102,55
-1020128475,2023-09-25 09:09:54.462514,"Pontjodikromo, Sidane","Kivattsev, Kirill",TENNIS,46,2.95,1.32,-1,2.4,1.49,85,42
-1020128476,2023-09-25 08:38:32.318806,"Massacri, Benito","Compagnucci, Tommaso",TENNIS,201,1.05,8.5,-1,8.5,1.05,9,46
-1020128477,2023-09-25 08:19:50.363174,"Andaloro, Fabrizio","Serafini, Marcello",TENNIS,5,5.75,1.11,1.13,3.25,1.28,112,20
-1020128478,2023-09-25 08:28:48.345398,"Tabacco, Fausto","Tammaro, Mariano",TENNIS,29,4,1.19,-1,1.43,2.55,154,41
-1020128481,2023-09-25 05:25:36.115047,"Bellucci, Mattia","Marie, Jules",TENNIS,1.41,16,-1,2.6,1.33,2.95,9,46
-1020128502,2023-09-25 10:19:18.543883,"King, Darian","Mayo, Aidan",TENNIS,17,2.05,1.67,-1,1.76,1.93,69,23
-1020128503,2023-09-25 07:09:40.514953,"De Jonge, Daniel","Martinez, Louroi",TENNIS,1.97,18,-1,1.72,1.97,1.72,0,47
-1020128504,2023-09-25 06:36:57.440908,"Vincent, Antoine","Schambil, Vincent",TENNIS,1.89,12.5,1.01,1.79,1.03,11,58,19
-1020128506,2023-09-25 04:47:34.990780,"Lestir, Loan","Calzi, Raphael",TENNIS,9.5,2.33,1.52,1.04,1.98,1.72,89,42
-1020128543,2023-09-25 10:34:29.952628,"Kirchheimer, Strong","Moller, Elmer",TENNIS,1.83,18,-1,1.85,1.73,1.97,6,4
-1020128557,2023-09-25 09:07:50.057448,"Gomez, Federico Agustin","Holmgren, August",TENNIS,12,1.73,1.97,1.01,1.97,1.73,79,41
-1020128693,2023-09-25 10:26:33.817840,"Muntean, Victoria","Zaar, Lisa",TENNIS,10,9.5,1.04,1.03,2.32,1.53,128,31
-1020128697,2023-09-25 06:52:16.677901,"Garcia, Maria","Jorge, Matilde",TENNIS,18,-1,15,-1,18,-1,0,19
-1020128698,2023-09-25 10:10:41.609031,"Lene, Emma","Bolkvadze, Mariam",TENNIS,18,1.57,2.23,-1,3.15,1.29,87,31
-1020128704,2023-09-25 08:10:32.150352,"Guerrero Alvarez, Eva","Ibbou, Ines",TENNIS,1.19,14,1.01,4,1.1,6.25,5,51
-1020128705,2023-09-25 06:39:20.264208,"Grechkina, Anastasia","Daavettila, Sara",TENNIS,5.5,15,1.01,1.11,4.8,1.14,18,38
-1020128709,2023-09-25 08:31:17.142639,"Ferreira Silva, Frederico","Fery, Arthur",TENNIS,15,1.77,1.91,-1,1.98,1.71,88,15
-1020128710,2023-09-25 06:59:46.800332,"Bertrand, Robin","Bertola, R",TENNIS,17,3.8,1.22,-1,1.71,1.98,90,32
-1020128715,2023-09-25 09:29:12.856304,"Tosetto, Rafael","Hess, Sean",TENNIS,17,2.8,1.37,-1,1.64,2.1,80,16
-1020128716,2023-09-25 12:16:01.463460,"Schiessl, Joao Eduardo","Zeitune, Gonzalo",TENNIS,1.18,18,-1,4.2,1.08,6.75,11,16
-1020128717,2023-09-25 10:12:45.741913,"Vazquez, Candela","Reayer, Alisha",TENNIS,1.84,11.5,1.02,1.84,1.84,1.84,0,1
-1020128718,2023-09-25 11:24:29.913736,"Bruna, Nicolas","Alvarado Berrospi, Alberto Odiseo",TENNIS,1.61,18,-1,2.14,1.36,2.95,32,59
-1020128719,2023-09-25 10:55:10.096046,"Del Pino, Mateo","Ortiz, Oscar Gabriel",TENNIS,1.84,3.75,1.22,1.84,1.82,1.86,61,22
-1020128720,2023-09-25 08:03:39.139767,"Labrana, Fernanda","Markus, Carla",TENNIS,1.32,18,-1,3,1.17,4.2,11,46
-1020128721,2023-09-25 11:31:24.134007,"Fernandez, Bruno","Lima, Franco",TENNIS,1.26,18,-1,3.4,1.26,3.4,0,6
-1020128722,2023-09-25 09:45:05.743728,"Estevez, Juan","Garcia Longo, Nicolas",TENNIS,1.07,18,-1,7.5,1.04,9.5,6,57
-1020128723,2023-09-25 08:05:22.193660,"Diaz Zayas, Lara","Ibiraba Melleiro Junior, Catarina Melleiro",TENNIS,2.08,18,-1,1.66,1.55,2.28,57,46
-1020128724,2023-09-25 08:02:37.413812,"Estable, Julieta Lara","Romero, Camila",TENNIS,1.11,18,-1,6,1.1,6.4,7,29
-1020128725,2023-09-25 08:05:01.531194,"Bovio, Martina Maria","Merlo, Rocio Daniela",TENNIS,4.4,8,1.07,1.16,2.14,1.62,65,39
-1020128726,2023-09-25 10:22:04.261155,"Giovannini, Luisina","Rodriguez, Juliana",TENNIS,-1,16,-1,16,-1,16,0,5
-1020128727,2023-09-25 08:19:08.965557,"Hinojosa Gomez, Jessica","Rabin, Sol",TENNIS,1.07,18,-1,7.5,1.07,8,0,29
-1020128728,2023-09-25 10:54:28.700161,"Lima, Enzo","Gagliardo, Lorenzo",TENNIS,18,1.14,5,-1,6.1,1.1,40,39
-1020128730,2023-09-25 08:06:44.685213,"Torres Murcia, Maria Camila","Gonzalez Daniele, Justina",TENNIS,2.4,11,1.02,1.49,1.77,1.92,134,36
-1020128738,2023-09-25 10:41:03.085115,"Escobedo, Ernesto","Rodenas, Pedro",TENNIS,2.33,17,-1,1.52,1.32,2.95,46,19
-1020128750,2023-09-25 15:22:31.582408,"Tran, Haley","Ricci, Campbell",TENNIS,16,1.62,2.14,-1,2.75,1.38,94,48
-1020128752,2023-09-25 15:45:42.797980,"Gavrea, Matei","Shelton, Robert",TENNIS,23,1.95,1.75,-1,3.15,1.29,54,55
-1020128753,2023-09-25 15:47:25.075008,"Wardy, Athena","Douglas, Paisha",TENNIS,16,1.48,2.43,-1,3.3,1.28,37,41
-1020128754,2023-09-25 08:09:09.108138,"Bocchi, L/Carnevalle, L","Donald, M W/Nicod, J",TENNIS,17,1.64,2.1,-1,7.5,1.07,25,34
-1020128970,2023-09-25 08:40:57.057573,Gyeong Seo Lee,"Radovanovic, Nina",TENNIS,8.5,11,1.02,1.05,2.25,1.56,50,49
-1020129067,2023-09-25 14:14:53.892997,"Harrison, Catherine","Smith, Alana",TENNIS,3.35,6.1,1.1,1.26,2.4,1.49,95,59
-1020129068,2023-09-25 17:49:20.454227,"Herazo Gonzalez, Maria","Corley, Ivana",TENNIS,4.5,14,1.01,1.16,1.21,3.9,115,59
-1020129069,2023-09-25 17:29:33.293253,"Corley, Carmen","Hu, Victoria",TENNIS,14,10,1.03,1.01,4.6,1.15,65,47
-1020129071,2023-09-25 14:40:51.605770,"McAdoo, Rasheeda","Vecic, Alexandra",TENNIS,34,6.5,1.09,-1,2.4,1.49,142,39
-1020129072,2023-09-25 13:17:39.875377,"Bozovic, Alexandra","Wiersholm, Katja",TENNIS,1.46,11.5,1.02,2.48,1.36,2.8,102,52
-1020129073,2023-09-25 17:11:53.873159,"McKenzie, Kylie","Miroshnichenko, Veronika",TENNIS,76,1.74,1.96,-1,4.1,1.19,117,5
-1020129075,2023-09-25 13:45:15.360683,"Mateas, Maria","Peyre, Lucia",TENNIS,29,3.85,1.21,-1,1.28,3.15,98,10
-1020129077,2023-09-25 15:41:37.471114,Hanna Chang,"Douglas, Ellie",TENNIS,1.71,91,-1,1.98,1.63,2.12,9,48
-1020129078,2023-09-25 15:37:52.377204,"Kingsley, Raveena","Kozyreva, Maria",TENNIS,13,11,1.03,1.02,1.3,3.1,110,21
-1020129080,2023-09-25 19:32:28.619102,"Partaud, Marine","Giavara, Haley",TENNIS,5.25,1.96,1.73,1.12,2.75,1.38,56,33
-1020129082,2023-09-25 12:01:17.827996,"Daniel, Jaeda","Mboko, Victoria",TENNIS,51,1.12,5.6,-1,7.5,1.07,51,52
-1020129117,2023-09-25 11:52:23.066462,Kotwica Kołobrzeg,Victoria Górnik Wałbrzych,BASKETBALL,14,15,-1,-1,1.98,1.77,10,28
-1020129159,2023-09-25 19:01:08.384046,Ganaderas de Hatillo (W),Montaneras De Morovis (W),BASKETBALL,1.58,5.8,1.08,2.2,1.47,2.45,25,10
-1020129441,2023-09-25 22:53:31.050678,"Sakatsume, Himeno","Noskova, Linda",TENNIS,9.5,1.29,3.25,1.05,3.95,1.26,40,44
-1020129776,2023-09-25 06:51:56.186076,"Pellegrino, Andrea",Dennis Novak,TENNIS,51,12.5,1.02,-1,2.28,1.56,25,47
-1020130084,2023-09-25 21:54:41.094450,"Purcell, Max",Hanwen Li,TENNIS,1.68,18,-1,2.04,1.04,9,48,44
-1020130086,2023-09-25 21:54:41.121450,"Nakashima, Brandon","Vukic, Aleksandar",TENNIS,16,3.2,1.28,-1,1.58,2.33,99,55
-1020130087,2023-09-25 21:54:41.066299,"Arnaldi, Matteo","Galan, Daniel Elahi",TENNIS,2.45,3.45,1.25,1.47,1.32,3.05,28,33
-1020130105,2023-09-25 09:04:44.276228,"Benson, Maxwell","Mikkelsen, Felipe",TENNIS,2,9.5,1.04,1.7,1.25,3.45,57,16
-1020130742,2023-09-25 12:07:06.786815,"Dostanic, Stefan","Kozlov, Stefan",TENNIS,1.89,15,-1,1.79,1.86,1.82,4,38
+1019729124	2023-09-24 17:02:32.962850	Dorados de Chihuahua	Correcaminos UAT Victoria	BASKETBALL	1.37	9.5	1.01	2.8	1.11	5.25	16.0	50.0
+1019729127	2023-09-24 17:02:32.990038	Fuerza Regia de Monterey	Libertadores de Querétaro	BASKETBALL	9.5	9.0	1.01	1.01	1.28	3.25	37.0	2.0
+1019729128	2023-09-24 19:06:09.744336	Mineros de Zacatecas	Abejas de León	BASKETBALL	16.0	3.2	1.29	-1.0	1.81	1.87	26.0	9.0
+1019930575		BMS Herlev Wolfpack	BK Amager	BASKETBALL	2.5	10.5	1.01	1.46	1.66	2.08	7.0	47.0
+1019930761		Norrköping Dolphins	Köping Stars	BASKETBALL	1.1	11.0	1.01	5.6	1.07	7.5	17.0	51.0
+1019930773	2023-09-25 12:00:15.926966	Jämtland Basket	BC Luleå	BASKETBALL	2.8	14.0	-1.0	1.38	1.88	1.88	12.0	13.0
+1019931548	2023-09-25 13:29:14.062279	BK Levickí Patrioti	AEK Larnaca	BASKETBALL	19.0	2.43	1.54	-1.0	1.61	2.33	37.0	15.0
+1019931549	2023-09-26 08:28:22.172417	Kauhajoki	Ironi Ness Ziona	BASKETBALL	4.1	1.52	2.38	1.19	3.1	1.37	6.0	45.0
+1019931558	2023-09-25 08:29:29.385561	BC Kalev/Cramo	Norrköping Dolphins	BASKETBALL	2.7	10.0	1.01	1.42	1.34	3.25	38.0	37.0
+1019931559	2023-09-25 10:58:36.981960	SL Benfica	Tbilisi State University	BASKETBALL	1.1	16.0	-1.0	5.6	1.02	14.0	3.0	23.0
+1019945019	2023-09-23 11:29:00.614760	Bourg-en-Bresse	Boulogne-Levallois	BASKETBALL	1.23	10.5	1.01	3.65	1.19	4.75	17.0	33.0
+1019945023	2023-09-24 09:29:42.027678	Dijon JDA	Cholet	BASKETBALL	6.5	4.6	1.16	1.07	1.25	4.0	39.0	48.0
+1019945025	2023-09-23 13:58:30.701907	Gravelines-Dunkerque	Asvel Lyon-Villeurbanne	BASKETBALL	8.5	2.38	1.5	1.03	3.8	1.26	32.0	19.0
+1019945027	2023-09-23 11:30:01.893133	Saint-Quentin	Paris Basket	BASKETBALL	10.5	1.48	2.55	1.01	2.6	1.47	21.0	13.0
+1019945031	2023-09-23 08:56:46.873907	Strasbourg	Limoges CSP	BASKETBALL	4.3	4.25	1.18	1.17	1.32	3.45	34.0	10.0
+1019945032	2023-09-23 11:29:41.419682	Le Mans BC	ADA Blois Basket 41	BASKETBALL	1.55	14.0	-1.0	2.3	1.17	4.35	10.0	12.0
+1019945034	2023-09-24 11:58:51.980786	Elan Chalon	AS Monaco	BASKETBALL	10.5	1.1	5.6	1.01	7.5	1.09	6.0	41.0
+1019945039	2023-09-23 11:29:21.010608	Chorale Roanne	Nancy SLUC	BASKETBALL	1.66	9.5	1.01	2.1	1.56	2.43	2.0	37.0
+1019962821	2023-09-23 09:01:53.465093	Sporting	AD Galomar	BASKETBALL	1.1	19.0	-1.0	5.5	1.01	10.5	21.0	14.0
+1019962825	2023-09-23 08:56:46.895908	CD Povoa	Porto	BASKETBALL	51.0	1.41	2.7	-1.0	4.4	1.17	36.0	40.0
+1019975525	2023-09-23 13:46:15.046363	Germani Basket Brescia	Bertram Tortona	BASKETBALL	1.67	10.5	1.01	2.06	1.66	2.08	0.0	20.0
+1019993052	2023-09-23 10:59:45.259601	C.B. Granada	UCAM Murcia	BASKETBALL	20.0	4.25	1.17	-1.0	1.92	1.81	48.0	47.0
+1019993054	2023-09-23 10:59:45.287254	Valencia Basket Club	Club Basquet Girona 2014	BASKETBALL	6.5	7.0	1.06	1.07	1.14	5.0	38.0	32.0
+1019993086	2023-09-24 11:28:47.599805	FC Barcelona	Divina Seguros Joventut	BASKETBALL	1.25	10.5	1.01	3.5	1.18	4.35	4.0	38.0
+1019993098	2023-09-23 13:45:54.612478	Unicaja Málaga	Iberostar Tenerife	BASKETBALL	1.66	10.5	1.01	2.1	1.27	3.35	13.0	1.0
+1020011959	2023-09-24 18:01:26.162407	Freseros de Irapuato	Plateros de Fresnillo	BASKETBALL	9.5	1.67	2.05	1.01	2.05	1.67	21.0	23.0
+1020012896		GTK Gliwice	Asseco Arka Gdynia	BASKETBALL	10.5	11.0	1.01	1.01	1.42	2.8	36.0	16.0
+1020012899		Legia de Varsovia	Zastal Enea BC Zielona Góra	BASKETBALL	1.3	10.5	1.01	3.15	1.08	6.0	17.0	18.0
+1020023023	2023-09-25 10:48:16.851652	BC Lietkabelis	BC Pieno žvaigždės	BASKETBALL	1.3	18.0	-1.0	3.2	1.09	6.1	16.0	51.0
+1020048925	2023-09-25 10:26:54.311666	KK Cedevita Olimpija	Helios Domžale	BASKETBALL	1.68	17.0	-1.0	2.05	1.13	5.2	6.0	40.0
+1020086662		BK Levickí Patrioti	Spisski Rytieri	BASKETBALL	1.82	14.0	-1.0	1.87	1.56	2.28	5.0	9.0
+1020087897		BC Kalev/Cramo	Tartu Ülikool	BASKETBALL	1.53	16.0	-1.0	2.35	1.19	4.2	8.0	57.0
+1020087899		AVIS Rapla	Tallinna Kalev	BASKETBALL	10.5	1.97	1.74	1.01	1.75	1.96	24.0	53.0
+1020087900	2023-09-23 08:56:46.850920	TalTech	Pärnu Sadam	BASKETBALL	4.2	6.5	1.07	1.18	1.56	2.28	7.0	30.0
+1020090269	2023-09-23 12:59:16.875357	Aris Leeuwarden	Landstede Zwolle	BASKETBALL	9.0	2.38	1.52	1.03	1.68	2.14	25.0	41.0
+1020090270	2023-09-23 12:29:41.095757	Donar Groningen	New Heroes Den Bosch	BASKETBALL	2.8	10.5	1.01	1.38	2.55	1.5	4.0	45.0
+1020090271	2023-09-23 12:29:41.069164	Den Helder Suns	BS Leiden	BASKETBALL	10.5	1.09	6.0	1.01	9.5	1.04	2.0	8.0
+1020090274	2023-09-24 08:50:10.864709	Yoast United	Basketball Academie Limburg	BASKETBALL	16.0	6.1	1.08	-1.0	1.3	3.4	36.0	35.0
+1020092107	2023-09-23 12:59:37.270141	Antwerp Giants	Leuven Bears	BASKETBALL	2.55	10.5	1.01	1.45	1.46	2.65	21.0	27.0
+1020092109	2023-09-23 13:29:34.961925	BC Oostende	Okapi Aalstar	BASKETBALL	1.33	19.0	-1.0	3.05	1.08	7.5	17.0	30.0
+1020092129		Liège Basket	Mons-Hainaut	BASKETBALL	2.85	26.0	-1.0	1.37	1.42	2.75	28.0	42.0
+1020092130		Spirou Basket	Kangoeroes Basket Mechelen	BASKETBALL	2.25	31.0	-1.0	1.57	1.61	2.17	23.0	29.0
+1020099854		TED Ankara Kolejliler	OGM Ormanspor	BASKETBALL	1.28	14.0	-1.0	3.35	1.23	3.7	1.0	41.0
+1020099961	2023-09-22 19:46:31.656389	CA San Isidro	Asociacion El Ceibo de San Francisco	BASKETBALL	4.7	17.0	-1.0	1.15	1.05	7.5	16.0	25.0
+1020104298		Tasmania JackJumpers	Adelaide 36ers	BASKETBALL	2.3	10.5	1.01	1.57	1.07	8.0	17.0	8.0
+1020104322		Perth Wildcats	New Zealand Breakers	BASKETBALL	7.5	3.0	1.35	1.05	1.42	2.8	25.0	21.0
+1020106450	2023-09-25 18:31:50.234943	Adiee/Avai/FME	Basket Joacaba	BASKETBALL	3.3	6.5	1.06	1.27	2.07	1.65	12.0	26.0
+1020107044	2023-09-23 08:25:31.966910	Konyaspor	Mersin Büyükşehir Bld.	BASKETBALL	4.1	1.48	2.45	1.19	2.48	1.48	8.0	42.0
+1020108473		Glasspool, L/Heliovaara, H	Nedunchezhiyan, J/Raja, P	TENNIS	1.13	15.0	1.01	5.25	1.1	6.1	14.0	5.0
+1020108478		Johnson, L/Patten, H	Arneodo, R/Weissborn, T-S	TENNIS	15.0	3.0	1.32	-1.0	2.1	1.65	52.0	32.0
+1020109344		Bristol Flyers	Newcastle Eagles	BASKETBALL	5.75	6.25	1.08	1.09	1.76	1.95	38.0	13.0
+1020111650		Port of Antwerp Giants B	Basket Skt Ieper Hse A	BASKETBALL	14.0	1.46	2.55	-1.0	2.63	1.45	27.0	32.0
+1020112490		Kovacevic, Aleksandar	Coppejans, Kimmer	TENNIS	226.0	2.6	1.45	-1.0	1.61	2.18	77.0	5.0
+1020112491		Murray, Andy	Ye Cong Mo	TENNIS	1.12	276.0	-1.0	5.75	1.01	15.0	56.0	58.0
+1020112492		Yi Zhou	Garin, Cristian	TENNIS	276.0	1.6	2.23	-1.0	9.5	1.05	140.0	53.0
+1020112496		Arnaldi, Matteo	Karatsev, Aslan	TENNIS	226.0	12.0	1.03	-1.0	1.71	2.04	170.0	31.0
+1020112497		Muller, Alexandre	Hijikata, Rinky	TENNIS	1.86	101.0	-1.0	1.87	1.86	1.87	0.0	24.0
+1020112498		Juncheng Shang	McDonald, Mackenzie	TENNIS	51.0	2.0	1.74	-1.0	2.3	1.56	160.0	37.0
+1020112509		Jie Cui	Varillas, Juan Pablo	TENNIS	101.0	1.11	6.1	-1.0	6.1	1.11	58.0	29.0
+1020112512		Purcell, Max	Thompson, Jordan	TENNIS	17.0	2.35	1.54	-1.0	1.75	1.98	66.0	2.0
+1020112513		Bergs, Zizou	Lajovic, Dusan	TENNIS	23.0	2.3	1.57	-1.0	2.05	1.7	104.0	55.0
+1020112515	2023-09-23 00:04:44.501603	O'Connell, C/Vukic, A	Cabral, F/Matos, R	TENNIS	5.25	1.42	2.6	1.12	2.6	1.42	18.0	56.0
+1020112516		Demoliner, M/Middelkoop, M	Giron, M/Statham, J	TENNIS	1.43	9.0	1.05	2.55	1.33	2.95	52.0	40.0
+1020112886	2023-09-25 09:57:11.525902	Harem Spor Kulübü	Final Gençlik	BASKETBALL	5.8	3.35	1.27	1.09	2.18	1.6	31.0	34.0
+1020113062		Doumbia, S/Reboul, F	Haase, R/Stevens, B	TENNIS	2.33	9.0	1.05	1.52	1.4	2.7	78.0	0.0
+1020113064		Borges, N/Rinderknech, A	Barrientos, N/Goransson, A	TENNIS	2.3	76.0	-1.0	1.55	1.89	1.8	8.0	57.0
+1020113065	2023-09-23 01:19:32.179373	Purcell, M/Thompson, J	Behar, A/Niklas-Salminen, P	TENNIS	1.3	111.0	-1.0	3.15	1.3	3.15	0.0	3.0
+1020113066		Jie Cui/Aoran Wang	Peers, J/Safiullin, R	TENNIS	18.0	1.47	2.45	-1.0	8.0	1.07	23.0	2.0
+1020113465		Nava, Emilio	Zeppieri, Giulio	TENNIS	34.0	2.08	1.67	-1.0	1.81	1.9	98.0	16.0
+1020114279		Cagdas Bodrum Spor	Tofaş	BASKETBALL	9.0	2.85	1.37	1.02	2.3	1.57	31.0	7.0
+1020114280		Galatasaray S.K.	Bursaspor	BASKETBALL	2.3	10.5	1.01	1.55	1.9	1.8	36.0	37.0
+1020114313		Darüşşafaka	Cagdas Bodrum Spor	BASKETBALL	8.0	6.5	1.07	1.04	1.42	2.75	32.0	14.0
+1020114314		Bahcesehir Koleji	Galatasaray S.K.	BASKETBALL	11.0	2.07	1.67	1.01	1.98	1.77	15.0	58.0
+1020114321		BC Goverla	BC Budivelnik	BASKETBALL	13.0	1.44	2.55	-1.0	3.45	1.25	20.0	12.0
+1020114358		Al Naft SC	Al Hilla	BASKETBALL	1.55	8.0	1.03	2.25	1.04	7.0	11.0	14.0
+1020114425	2023-09-23 08:57:07.300995	Anadolu Efes	Partizán de Belgrado	BASKETBALL	9.0	9.0	1.03	1.03	1.58	2.3	26.0	18.0
+1020114527		Ercan, Melisa	Yamazaki, Ikumi	TENNIS	16.0	12.0	1.02	-1.0	1.11	5.6	229.0	11.0
+1020114532		Matsuda, Rinko	Saito, Sara	TENNIS	16.0	1.27	3.3	-1.0	4.25	1.18	73.0	23.0
+1020114533		Chia Yi Tsao	Naklo, Thasaporn	TENNIS	3.85	2.9	1.34	1.2	2.04	1.67	34.0	7.0
+1020114611		Yoshimoto, Natsuki	Kulikova, Anastasia	TENNIS	16.0	1.8	1.88	-1.0	1.88	1.8	55.0	25.0
+1020114861		Boisson, Lois	Karatancheva, Lia	TENNIS	23.0	4.6	1.15	-1.0	1.33	2.95	140.0	26.0
+1020115020		Piros, Zsombor	Paulson, Andrew	TENNIS	1.55	111.0	-1.0	2.3	1.45	2.55	43.0	44.0
+1020115255		Angers	Nantes	BASKETBALL	14.0	2.5	1.46	-1.0	1.62	2.2	27.0	41.0
+1020115258		Antibes	Fos Ouest Provence Basket	BASKETBALL	1.83	10.5	1.01	1.87	1.76	1.96	3.0	55.0
+1020115265		Hemery, Calvin	Artnak, Bor	TENNIS	1.52	181.0	-1.0	2.33	1.52	2.38	1.0	22.0
+1020115273	2023-09-25 21:01:27.217995	Halcones UV Xalapa	Santos De San Luis	BASKETBALL	1.88	14.0	-1.0	1.8	1.52	2.33	7.0	43.0
+1020115274	2023-09-24 19:02:45.767647	Halcones UV Xalapa	Santos De San Luis	BASKETBALL	4.5	3.4	1.25	1.14	1.45	2.5	28.0	32.0
+1020115297		Albot, Radu	Gojowczyk, Peter	TENNIS	1.3	81.0	-1.0	3.1	1.24	3.6	17.0	38.0
+1020115509	2023-09-25 17:00:41.089463	Corinthians-SP	AERC Osasco	BASKETBALL	1.14	11.0	1.01	4.8	1.04	7.5	14.0	17.0
+1020115518		Mmoh, Michael	Coulibaly, Eliakim	TENNIS	1.23	181.0	-1.0	3.6	1.22	3.75	5.0	55.0
+1020115522		Milovanovic, Elena	De Stefano, Samira	TENNIS	1.6	16.0	-1.0	2.18	1.37	2.8	24.0	18.0
+1020115523		Shinagawa City Basketball Club	Tenri University	BASKETBALL	1.2	5.6	1.1	3.9	1.2	3.9	0.0	0.0
+1020115608		Lestienne, Constant	Mayot, Harold	TENNIS	2.48	67.0	-1.0	1.47	1.67	2.04	1161.0	52.0
+1020115673		Pattinama Kerkhove, Lesley	Muntean, Victoria	TENNIS	1.37	17.0	-1.0	2.75	1.17	4.4	19.0	59.0
+1020115944		Stoiber, Ranah Akua	Waligora, Amelia	TENNIS	17.0	5.8	1.11	-1.0	2.85	1.36	77.0	32.0
+1020116027		Vanshelboim, Eric	Paty, Daniel	TENNIS	1.83	17.0	-1.0	1.85	1.83	1.85	0.0	22.0
+1020116028		Dodig, Matej	Rajski, Maciej	TENNIS	1.52	18.0	-1.0	2.33	1.36	2.8	81.0	37.0
+1020116029		Erhard, Mathys	Forejtek, Jonas	TENNIS	17.0	3.2	1.29	-1.0	2.12	1.63	103.0	57.0
+1020116030		Kawa, K/Lechemia, E	Haverlag, I/Vedder, E	TENNIS	61.0	3.95	1.2	-1.0	1.28	3.2	56.0	1.0
+1020116308		Krutykh, Oleksii	Ofner, Sebastian	TENNIS	19.0	2.95	1.33	-1.0	2.45	1.48	107.0	39.0
+1020116347		Ramos-Viñolas, Albert	Nouza, Petr	TENNIS	1.4	181.0	-1.0	2.75	1.29	3.25	8.0	49.0
+1020116402		Vanlangendonck, Eliessa	Bhasin, Smriti	TENNIS	1.09	18.0	-1.0	6.5	1.07	7.5	7.0	33.0
+1020116484		Mansouri, Yasmine	Colmegna, Martina	TENNIS	26.0	1.42	2.6	-1.0	2.7	1.4	82.0	13.0
+1020116487		Molleker, Rudolf	Kopriva, Vit	TENNIS	30.0	5.4	1.12	-1.0	1.84	1.86	103.0	24.0
+1020116489		Hennemann, C W/Hietaranta, L	Chiesa, D/Colmegna, M	TENNIS	29.0	1.58	2.2	-1.0	3.05	1.3	67.0	51.0
+1020116536		Ferro, Fiona	Hesse, Amandine	TENNIS	6.5	8.5	1.05	1.09	1.21	3.85	98.0	58.0
+1020116538		Barrere, Gregoire	Cazaux, Arthur	TENNIS	23.0	2.7	1.4	-1.0	1.9	1.8	123.0	16.0
+1020116549		Jeanjean, L/Pigossi, L	Grey, B/Silva, E	TENNIS	8.0	4.2	1.18	1.06	1.87	1.81	79.0	29.0
+1020116604		Klein, Lukas	Broady, Liam	TENNIS	181.0	1.61	2.17	-1.0	2.28	1.56	1113.0	28.0
+1020116639		Lajal, Mark	Brouwer, Gijs	TENNIS	161.0	2.2	1.58	-1.0	2.0	1.72	71.0	31.0
+1020116640		Bondar, A/Zimmermann, K	Brancaccio, N/Errani, S	TENNIS	2.23	41.0	-1.0	1.58	1.46	2.5	18.0	32.0
+1020116726		Leicester Riders	Plymouth City Patriots	BASKETBALL	2.65	10.0	1.01	1.41	1.05	8.0	27.0	28.0
+1020116729		Dellien, Hugo	Reis DA Silva, Joao Lucas	TENNIS	16.0	16.0	-1.0	-1.0	1.26	3.4	183.0	11.0
+1020116746		Lama, Gonzalo	Boscardin Dias, Pedro	TENNIS	2.3	9.5	1.04	1.53	2.25	1.56	6.0	47.0
+1020116831		Chandrasekar, A/Prashanth, N V S	Kadhe, A/Qureshi, A	TENNIS	2.32	26.0	-1.0	1.53	1.91	1.79	83.0	9.0
+1020116832		Lammons, N/Withrow, J	Matsui, T/Nishioka, Y	TENNIS	1.15	29.0	-1.0	4.8	1.1	6.1	35.0	11.0
+1020116833		King, E/Stalder, R	Yecong Mo/Xiaofei Wang	TENNIS	1.27	141.0	-1.0	3.35	1.14	5.1	33.0	49.0
+1020116834	2023-09-23 05:13:36.527789	Etcheverry, T/Garin, C	Murray, J/Venus, M	TENNIS	141.0	1.15	4.75	-1.0	5.6	1.12	68.0	14.0
+1020116837	2023-09-23 03:45:18.527512	Balaji, N S/Begemann, A	Korda, S/Mcdonald, M	TENNIS	121.0	1.38	2.75	-1.0	3.3	1.28	71.0	23.0
+1020116838		Gille, S/Vliegen, J	Harris, A/Hijikata, R	TENNIS	1.68	151.0	-1.0	2.05	1.68	2.05	0.0	1.0
+1020117133		Andreozzi, G/Hach Verdugo, H	Clark, E/Kingsley, C	TENNIS	2.18	17.0	-1.0	1.6	1.28	3.2	80.0	25.0
+1020117139		Ngo Gwodog, Eugenie Christine	Koskel, Anet Angelika	TENNIS	17.0	-1.0	15.0	-1.0	15.0	-1.0	0.0	5.0
+1020117183		Jabeur, Ons	Trevisan, Martina	TENNIS	11.0	46.0	-1.0	1.03	1.16	4.9	186.0	40.0
+1020117203		Nakagawa, Naoki	Sumizawa, Daisuke	TENNIS	1.38	4.25	1.18	2.7	1.22	3.75	25.0	44.0
+1020117236		Eikeri, U/Neel, I	Dabrowski, G/Routliffe, E	TENNIS	8.0	1.72	2.0	1.06	3.25	1.29	85.0	39.0
+1020117251		Fairclough, Lily	Sato, Naho	TENNIS	226.0	1.1	6.1	-1.0	8.0	1.07	31.0	53.0
+1020117301	2023-09-24 15:59:02.816518	Las Vegas Aces	Dallas Wings	BASKETBALL	1.22	11.0	1.01	3.8	1.16	5.4	7.0	56.0
+1020117367		Hon, Priscilla	Barry, Monique	TENNIS	1.68	17.0	-1.0	2.02	1.06	8.5	33.0	45.0
+1020117368		Arakawa, Haruna	Aiava, Destanee	TENNIS	161.0	1.22	3.7	-1.0	5.0	1.14	37.0	37.0
+1020117451		Saville, Luke	Etcheverry, Tomas Martin	TENNIS	101.0	1.16	4.7	-1.0	5.0	1.15	83.0	15.0
+1020117452		Bolt, Alex	Schwartzman, Diego	TENNIS	2.85	10.5	1.04	1.38	2.6	1.44	11.0	46.0
+1020117453		Polmans, Marc	Sweeny, Dane	TENNIS	1.58	251.0	-1.0	2.25	1.43	2.65	5.0	30.0
+1020117610		Altamirano, Collin	Ehara, Hiroyasu	TENNIS	1.43	3.85	1.21	2.55	1.43	2.55	0.0	2.0
+1020117623		O'Connell, Christopher	Kachmazov, Alibek	TENNIS	1.4	41.0	-1.0	2.75	1.13	5.4	37.0	28.0
+1020117624		Lock, Benjamin	Kecmanovic, Miomir	TENNIS	141.0	1.08	8.0	-1.0	9.5	1.05	26.0	3.0
+1020117625		Galan, Daniel Elahi	Kotov, Pavel	TENNIS	81.0	2.33	1.56	-1.0	2.18	1.63	109.0	14.0
+1020117626		Sekulic, Philip	Borges, Nuno	TENNIS	6.75	13.0	1.02	1.09	4.2	1.19	7.0	1.0
+1020117642		Aikawa, Mayuka	Oshino, Suzuho	TENNIS	1.22	18.0	-1.0	3.8	1.22	3.8	0.0	22.0
+1020117673		Ito, A/Chia Yi Tsao	I-Hsuan Cho/Yi-Tsen Cho	TENNIS	3.55	15.0	-1.0	1.24	2.14	1.62	44.0	48.0
+1020117675		Hanatani, N/Ogata, H	Ivanova, D/Yu-Yun Li	TENNIS	18.0	1.15	4.6	-1.0	4.6	1.15	35.0	43.0
+1020117678		Akita, S/Kinoshita, H	Abe, H/Nagata, A	TENNIS	6.1	3.65	1.23	1.1	1.88	1.8	93.0	44.0
+1020117679		Hayashi, E/Imamura, S	Yu-Chieh Hsieh/Okuwaki, R	TENNIS	1.32	15.0	-1.0	3.0	1.27	3.3	2.0	1.0
+1020117746		Maklakova, Ekaterina	Sakellaridi, Sapfo	TENNIS	67.0	1.62	2.15	-1.0	2.15	1.62	77.0	46.0
+1020117766		Safiullin, Roman	Evans, Daniel	TENNIS	1.88	31.0	-1.0	1.85	1.87	1.85	0.0	9.0
+1020117888		Nishioka, Yoshihito	Harris, Lloyd	TENNIS	2.14	8.0	1.07	1.64	1.97	1.77	15.0	12.0
+1020117890		Sema, E/Smith, Ali	Bavisetti, S/Chilakalapudi, S S	TENNIS	1.3	121.0	-1.0	3.1	1.25	3.5	7.0	4.0
+1020117891		Culley, J/Nurkic, E	Aiava, D/Inglis, M	TENNIS	18.0	1.04	9.5	-1.0	10.0	1.03	8.0	52.0
+1020117893		Mays, L/Parnaby, A	Barry, M/Bhamidipaty, S R	TENNIS	2.18	30.0	-1.0	1.6	1.76	1.93	37.0	0.0
+1020117897		Jovic, Viktor	Nesterov, Petr	TENNIS	11.0	5.5	1.12	1.02	2.65	1.4	191.0	3.0
+1020117902		Brancaccio, Raul	Moeller, Marvin	TENNIS	23.0	2.25	1.56	-1.0	1.71	2.02	76.0	0.0
+1020117911		Zahraj, Patrick	Wessels, Louis	TENNIS	18.0	1.79	1.9	-1.0	3.85	1.21	152.0	28.0
+1020117914		Nicod, Jakub	Barton, Hynek	TENNIS	2.6	14.0	1.01	1.41	2.28	1.54	7.0	24.0
+1020117922		Artnak, B/Cazacu, D N	Kaliyanda Poonacha, N/Sharan, D	TENNIS	11.0	2.33	1.52	1.02	5.6	1.11	101.0	23.0
+1020117923		Linette, Magda	Masarova, Rebeka	TENNIS	3.2	8.0	1.07	1.33	1.67	2.12	51.0	46.0
+1020117924		Michalski, Daniel	Caruso, Antonio	TENNIS	1.82	201.0	-1.0	1.86	1.82	1.86	0.0	28.0
+1020117928		Mchugh, Aidan	Pereira, Tiago	TENNIS	1.18	18.0	-1.0	4.2	1.18	4.2	0.0	4.0
+1020117971		Javia, Dev	Delage, Pierre	TENNIS	17.0	1.44	2.55	-1.0	2.7	1.38	54.0	32.0
+1020117972		Ajdukovic, Duje	Fonio, Giovanni	TENNIS	3.05	30.0	-1.0	1.32	1.57	2.25	59.0	37.0
+1020117976		Jeanjean, Leolia	Rouvroy, Margaux	TENNIS	2.04	17.0	-1.0	1.68	1.78	1.91	3.0	17.0
+1020117980		Cortez Llorca, Lucia	Pavlova, Kira	TENNIS	18.0	1.93	1.76	-1.0	3.6	1.24	57.0	39.0
+1020117981		Topalova, Gergana	Hercog, Polona	TENNIS	111.0	1.62	2.14	-1.0	3.15	1.29	83.0	13.0
+1020118037		Silva, Eden	Kartal, Sonay	TENNIS	17.0	1.81	1.88	-1.0	1.88	1.81	47.0	9.0
+1020118040		Carle, Maria Lourdes	Krunic, Aleksandra	TENNIS	1.19	121.0	-1.0	4.0	1.1	6.0	5.0	27.0
+1020118060		Robbe, Alice	Parrizas Diaz, Nuria	TENNIS	2.9	8.0	1.06	1.34	1.82	1.87	54.0	10.0
+1020118061		Pislak, Manca	Gettwart, Fabienne	TENNIS	17.0	1.28	3.2	-1.0	6.0	1.11	56.0	27.0
+1020118068		Milev, Yanaki	Arutiunian, Erik	TENNIS	1.38	17.0	-1.0	2.75	1.21	3.75	7.0	6.0
+1020118178		Chiesa, Deborah	Pieri, Jessica	TENNIS	2.55	34.0	-1.0	1.44	1.92	1.78	17.0	5.0
+1020118212		Lavagno, Edoardo	Cobolli, Flavio	TENNIS	151.0	1.68	2.06	-1.0	3.3	1.27	94.0	48.0
+1020118214		Misolic, Filip	Fognini, Fabio	TENNIS	2.45	7.5	1.07	1.48	2.38	1.52	14.0	44.0
+1020118225		Radanovic, Dejana	Ristic, Mia	TENNIS	61.0	2.65	1.4	-1.0	1.64	2.1	104.0	14.0
+1020118226		Chopra, Keshav	Gray, Timothy	TENNIS	4.5	17.0	-1.0	1.16	1.25	3.45	96.0	5.0
+1020118238		Minnen, Greet	Bronzetti, Lucia	TENNIS	4.4	91.0	-1.0	1.18	1.84	1.92	80.0	40.0
+1020118406		Todoni, Anca Alexia	Craciun, Georgia Andreea	TENNIS	1.14	18.0	-1.0	4.9	1.14	4.9	0.0	4.0
+1020118411		Badenhorst, Devin	Bronzetti, Alberto	TENNIS	1.77	11.0	1.02	1.92	1.34	2.9	10.0	57.0
+1020118428		Cook, Ethan	Sorensen, Luke	TENNIS	18.0	2.95	1.33	-1.0	1.45	2.5	147.0	32.0
+1020118433		Tirunelveli, Teja	Llinares Domingo, Lucia	TENNIS	8.5	10.5	1.03	1.05	4.1	1.19	15.0	44.0
+1020118434		Sacco, Federica	Podlinska, Marcelina	TENNIS	18.0	14.0	1.01	-1.0	1.84	1.84	93.0	34.0
+1020118435		Smith, Tina Nadine	Cherubini, Diletta	TENNIS	15.0	6.25	1.09	1.01	1.95	1.74	117.0	36.0
+1020118452		Kozarov, Katarina	Petretic, Laia	TENNIS	2.48	17.0	-1.0	1.46	1.2	3.95	64.0	38.0
+1020118475		Rai, Ajeet	Crowther, Corban	TENNIS	1.58	17.0	-1.0	2.2	1.14	5.0	55.0	58.0
+1020118534		Klok, D/Matsuda, R	Paulson, A/Vrbensky, M	TENNIS	15.0	1.17	4.4	1.01	4.7	1.15	32.0	7.0
+1020118537		Gaal, Corey	Pearson, Kody	TENNIS	7.5	1.24	3.5	1.06	3.7	1.22	16.0	29.0
+1020118538		Delaney, Jake	Talic, Zaharije-Zak	TENNIS	1.35	14.0	1.01	2.85	1.2	3.85	8.0	8.0
+1020118539		Bittoun Kouzmine, Constantin	Wiskandt, Max	TENNIS	1.56	12.0	1.02	2.25	1.56	2.25	0.0	31.0
+1020118542		Delaney, J/Kelly, D	Fancutt, T/Rai, A	TENNIS	8.0	1.75	1.94	1.06	2.14	1.62	66.0	24.0
+1020118545		Martín, Andrés	Cina, Federico	TENNIS	14.0	17.0	-1.0	1.01	1.58	2.2	72.0	24.0
+1020118546		Bojovic, Jana	Buyukakcay, Cagla	TENNIS	51.0	1.46	2.48	-1.0	3.3	1.27	64.0	56.0
+1020118547		Vlasselaer, Clara	Sieg, Madison	TENNIS	5.75	12.0	1.01	1.11	2.4	1.49	78.0	22.0
+1020118572		Kargina, Valerija Maija	Tucakovic, Suana	TENNIS	12.5	4.25	1.18	1.02	3.35	1.27	117.0	27.0
+1020118573		Choinski, Jan	Dennis Novak	TENNIS	251.0	1.9	1.8	-1.0	1.8	1.9	42.0	14.0
+1020118576		BC Prievidza	Lucenec	BASKETBALL	1.23	14.0	-1.0	3.75	1.23	3.75	0.0	0.0
+1020118583		Kountourakis, Ioannis	Popovic, Stefan	TENNIS	18.0	1.47	2.48	-1.0	2.75	1.37	35.0	7.0
+1020118587		Zhukov, Maxim	Cid Subervi, Roberto	TENNIS	18.0	1.29	3.15	-1.0	4.9	1.14	57.0	57.0
+1020118588		Chidekh, Clement	Faria, Jaime	TENNIS	12.5	2.75	1.38	1.02	1.41	2.6	28.0	7.0
+1020118590		Glinka, Daniil	Zuk, Kacper	TENNIS	4.9	13.0	1.01	1.14	4.2	1.18	5.0	56.0
+1020118591		Turriziani Alvarez, Alejandro	Fanselow, Sebastian	TENNIS	18.0	1.44	2.55	-1.0	7.5	1.07	71.0	53.0
+1020118595		Stollar, Fanny	Radisic, Nika	TENNIS	16.0	3.85	1.21	-1.0	1.54	2.28	96.0	9.0
+1020118596		Curovic, Tamara	Malaescu, Daria Stefania	TENNIS	1.18	18.0	-1.0	4.2	1.09	6.75	10.0	41.0
+1020118599		Braithwaite, Thomas	Wiedenmann, Luca	TENNIS	17.0	12.0	1.01	-1.0	5.0	1.13	75.0	47.0
+1020118606		Arnaboldi, Federico	Lopez Montagud, Carlos	TENNIS	20.0	13.0	1.01	-1.0	3.15	1.29	89.0	27.0
+1020118607		Korneeva, Alina	Snigur, Daria	TENNIS	1.89	16.0	-1.0	1.8	1.88	1.81	3.0	54.0
+1020118608		Mrva, Maxim	Barnat, Jiri	TENNIS	15.0	1.44	2.5	-1.0	2.75	1.37	49.0	16.0
+1020118609		Donald, M W/Nicod, J	Benson, M/Horak, V	TENNIS	1.12	17.0	-1.0	5.3	1.08	6.5	4.0	57.0
+1020118610		Barton, H/Lusovsky, M	Raynel, A/Vanshelboim, E	TENNIS	4.8	17.0	-1.0	1.15	1.85	1.84	82.0	9.0
+1020118611		Maria, Tatjana	Putintseva, Yulia	TENNIS	141.0	2.0	1.74	-1.0	2.04	1.72	163.0	42.0
+1020118616		Dinu, Cristina	Vismane, Daniela	TENNIS	1.83	23.0	-1.0	1.85	1.7	2.02	30.0	44.0
+1020118617		Prihodko, Oleg	Chazal, Maxime	TENNIS	7.5	4.0	1.19	1.07	1.75	1.95	113.0	55.0
+1020118672		Pigossi, Laura	Hewitt, Dalayna	TENNIS	1.98	17.0	-1.0	1.72	1.52	2.35	7.0	53.0
+1020118693		Ruehl, T/Zahraj, P	Recek, D/Siniakov, D	TENNIS	10.5	2.95	1.32	1.03	2.85	1.35	89.0	26.0
+1020118951		Panak, Y/Schuetze, C	Alcala Gurri, M/Barreto Sanchez, D A	TENNIS	15.0	1.06	8.0	1.01	10.5	1.03	26.0	45.0
+1020119017		Naharro, D/Stepanian, A	Genov, A/Lopez, N	TENNIS	17.0	1.25	3.4	-1.0	3.4	1.25	27.0	52.0
+1020119018		Serban, Isabella Maria	Kenzhibayeva, Sandugash	TENNIS	16.0	2.33	1.52	-1.0	1.75	1.95	87.0	49.0
+1020119019		Kovalik, Jozef	Pellegrino, Andrea	TENNIS	11.0	4.9	1.14	1.02	1.61	2.18	97.0	39.0
+1020119022		Meliss, V/Muntean, V	Cortez Llorca, L/Parres Azcoitia, O	TENNIS	7.0	9.5	1.04	1.08	3.2	1.28	23.0	25.0
+1020119037		Bouzas Maneiro, Jessica	Kawa, Katarzyna	TENNIS	10.5	3.6	1.26	1.04	1.5	2.43	139.0	9.0
+1020119038		Schmiedlova, Anna Karolina	Juvan, Kaja	TENNIS	3.05	26.0	-1.0	1.33	1.94	1.79	116.0	12.0
+1020119041		Sabanov, I/Sabanov, M	Frantzen, C/Jebens, H	TENNIS	18.0	1.8	1.88	-1.0	2.16	1.6	73.0	33.0
+1020119044		Xiyu Wang	Hruncakova, Viktoria	TENNIS	2.4	26.0	-1.0	1.52	1.3	3.4	108.0	35.0
+1020119046		Soboleva, A K/Zaparyniuk, A	Ghioroaie, I G/Prisacariu, A	TENNIS	14.0	1.16	4.4	1.01	4.5	1.16	54.0	46.0
+1020119047		Gavrila, O/Strakhova, V	Ionescu, I A/Safta, A	TENNIS	1.43	18.0	-1.0	2.55	1.24	3.55	7.0	10.0
+1020119048		Benoit, M/Seidel, E	Forys, W J/Olianovskaia, V	TENNIS	1.27	17.0	-1.0	3.3	1.27	3.3	0.0	23.0
+1020119067		Ferreira Silva, Frederico	Blanch, Dali	TENNIS	14.0	6.5	1.08	1.01	1.13	5.25	89.0	36.0
+1020119071		Blockx, A/Colson, T	Dahlin, M/Steinegger, Y	TENNIS	2.08	2.2	1.6	1.65	1.91	1.78	23.0	32.0
+1020119080		Falcao, G/Pereira, T	Oliveira, F/Portugal, A	TENNIS	1.17	18.0	-1.0	4.3	1.17	4.35	10.0	6.0
+1020119081		Faria, J/Rocha, H	Vance, J/Whiting, T	TENNIS	1.19	18.0	-1.0	4.1	1.15	4.7	19.0	14.0
+1020119088		Guillen Meza, Alvaro	Cigarran, Thiago	TENNIS	1.86	14.0	1.01	1.82	1.86	1.82	0.0	22.0
+1020119095		Arribage, T/Sanchez, L	Bortolotti, M/Passaro, F	TENNIS	17.0	2.75	1.38	-1.0	1.6	2.18	104.0	45.0
+1020119099		Adkar, Vaishnavi	Viviani, Maria Vittoria	TENNIS	13.0	6.4	1.09	1.02	1.25	3.45	86.0	24.0
+1020119102		Cristian, Jaqueline Adina	Bogdan, Ana	TENNIS	34.0	4.1	1.2	-1.0	2.18	1.67	149.0	33.0
+1020119103		Bolkvadze, M/Miyazaki, Y L	Jorge, F/Jorge, M	TENNIS	11.0	3.3	1.27	1.03	1.41	2.65	52.0	7.0
+1020119109		Heide, Gustavo	Boyer, Tristan	TENNIS	17.0	3.4	1.26	-1.0	1.64	2.1	154.0	44.0
+1020119110		Alvisi, E/Ruggeri, J	Anshba, A/Appleton, E	TENNIS	121.0	1.41	2.65	-1.0	3.55	1.25	52.0	30.0
+1020119114		Parres Azcoitia, Olga	Glushko, Lina	TENNIS	17.0	1.14	4.9	-1.0	5.1	1.14	65.0	23.0
+1020119115		Hamza Reguig, Samir	Reitano, Stefano	TENNIS	15.0	1.97	1.73	-1.0	1.82	1.86	138.0	10.0
+1020119125		Detiuc, A/Piter, K	Hozumi, E/Ninomiya, M	TENNIS	18.0	2.15	1.63	-1.0	2.4	1.5	75.0	29.0
+1020119126		Szostak, Marine	Gulin, Georgia	TENNIS	1.62	16.0	-1.0	2.12	1.18	4.25	56.0	54.0
+1020119127		Hamza Reguig, S/Reitano, S	Braithwaite, T/Wiskandt, M	TENNIS	7.0	4.6	1.15	1.08	1.6	2.17	74.0	50.0
+1020119128		Ciocanu, A/Morandais, J-C	Nortey, I/Singh, K	TENNIS	9.5	1.44	2.55	1.04	3.3	1.28	24.0	49.0
+1020119129		La Cagnina, N/Paterno, G	Melosch, A/Ortega Redondo, P	TENNIS	2.63	18.0	-1.0	1.41	1.87	1.81	22.0	52.0
+1020119131		Christofi, E/Jokic, K	Gynina, V/Vojcinakova, I	TENNIS	1.26	14.0	1.01	3.4	1.26	3.4	0.0	16.0
+1020119132		Krumich, Martin	Recek, Dominik	TENNIS	1.18	15.0	-1.0	4.2	1.08	6.75	27.0	15.0
+1020119134		Coman, M A/Ludoski, Z	Arutiunian, E/Chepik, A	TENNIS	8.5	15.0	-1.0	1.05	2.17	1.6	41.0	44.0
+1020119135		Cirotte, A/Szostak, M	Iila, E/Tran, D	TENNIS	2.65	17.0	-1.0	1.4	1.52	2.35	78.0	45.0
+1020119136		Drugdova, S/Yesypchuk, D	Guth, M/Pridankina, E	TENNIS	16.0	1.49	2.4	-1.0	2.4	1.49	37.0	39.0
+1020119137		Eraydin, B/Simunyu, C	Garkusha, E/Tkacheva, M	TENNIS	2.55	17.0	-1.0	1.44	1.58	2.2	29.0	9.0
+1020119138		Milev, Y/Nesterov, P	Pisaric, A/Radjenovic, V	TENNIS	16.0	16.0	-1.0	-1.0	1.3	3.05	97.0	42.0
+1020119140		Adaloglou, M/Vozniak, K	Jamshidi, E/Tirunelveli, T	TENNIS	16.0	4.0	1.19	-1.0	1.5	2.35	63.0	28.0
+1020119142		Llinares Domingo, L/Marandel, L	Adkar, V/Gulin, G	TENNIS	9.0	2.9	1.34	1.05	1.34	2.9	47.0	17.0
+1020119149		Di Sarra, Federica	Bilardo, Federica	TENNIS	30.0	1.81	1.88	-1.0	1.88	1.81	41.0	13.0
+1020119153		Piraino, Gabriele	La Vela, Giuseppe	TENNIS	2.7	141.0	-1.0	1.38	1.85	1.84	13.0	17.0
+1020119154		Baroni, N/Speziali, F	Galoppini, D/Piraino, G	TENNIS	2.88	26.0	-1.0	1.35	2.6	1.42	7.0	53.0
+1020119155		Lokoli, Laurent	Galarneau, Alexis	TENNIS	31.0	1.75	1.97	-1.0	2.08	1.66	135.0	21.0
+1020119211		Aguilar, Federico Juan	Descotte, Matias Franco	TENNIS	17.0	1.05	9.0	-1.0	9.5	1.04	17.0	45.0
+1020119236		Cina, F/Giunta, M	Kroslak, J/Privara, P B	TENNIS	14.0	2.3	1.54	1.01	1.54	2.28	57.0	4.0
+1020119292		Paolini, J/Sherif, M	Fernandez, L A/Townsend, T	TENNIS	5.0	4.4	1.17	1.14	4.75	1.15	8.0	10.0
+1020119298		Catini, Niccolo	Oradini, Giovanni	TENNIS	126.0	1.01	13.0	-1.0	23.0	-1.0	0.0	23.0
+1020119299		Herea, Carmen Andreea	Jokic, Katarina	TENNIS	18.0	1.92	1.77	-1.0	2.02	1.7	145.0	21.0
+1020119306		Topalova, G/Vismane, D	Dencheva, R/Tran, L	TENNIS	1.47	111.0	-1.0	2.48	1.12	5.25	19.0	57.0
+1020119307		Harrison, Christian	Svajda, Zachary	TENNIS	6.4	21.0	-1.0	1.1	2.85	1.36	22.0	28.0
+1020119328		Bergevi, F/Veldheer, M	Choinski, J/Kolar, Z	TENNIS	1.95	17.0	-1.0	1.75	1.84	1.84	8.0	37.0
+1020119329		Moratelli, A/Rosatello, C	Jakupovic, D/Khromacheva, I	TENNIS	46.0	2.33	1.52	-1.0	1.68	2.06	77.0	34.0
+1020119330		Tracy, James	Pospisil, Vasek	TENNIS	121.0	1.47	2.48	-1.0	4.1	1.19	103.0	9.0
+1020119331		Bondar, Anna	Tomova, Viktoriya	TENNIS	2.35	56.0	-1.0	1.55	1.56	2.32	15.0	6.0
+1020119332		Maloney, E/Rushiti, A	Kozarov, K/Sieg, M	TENNIS	13.0	2.15	1.62	1.01	2.55	1.43	106.0	39.0
+1020119337		Roncadelli, Franco	Nusdeo, Joao Marcos	TENNIS	1.08	151.0	-1.0	7.0	1.06	8.0	7.0	43.0
+1020119338		Lahey, A/Tian, F	Babos, T/Radwanska, U	TENNIS	3.95	9.0	1.04	1.2	3.0	1.32	4.0	40.0
+1020119340		Vilicich, Bautista	Aguilar Cardozo, Joaquin	TENNIS	4.6	9.5	1.05	1.15	3.6	1.23	12.0	28.0
+1020119345		Blanchet, U/Jacquet, K	Added, D/Olivetti, A	TENNIS	16.0	1.34	2.9	-1.0	3.55	1.24	54.0	30.0
+1020119350		Burruchaga, Roman Andres	Comesana, Francisco	TENNIS	3.6	9.5	1.04	1.23	3.55	1.24	7.0	50.0
+1020119384		Brengle, Madison	Svendsen, Johanne Christine	TENNIS	1.12	16.0	-1.0	5.4	1.06	8.0	10.0	56.0
+1020119385		Eysseric, J/Mayot, H	Brouwer, G/de Jong, J	TENNIS	5.2	4.5	1.16	1.13	2.1	1.64	49.0	33.0
+1020119390		Chang, Sophie	Jacquemot, Elsa	TENNIS	10.0	7.5	1.07	1.03	1.62	2.14	181.0	23.0
+1020119430		Stakusic, Marina	Mboko, Victoria	TENNIS	2.55	13.0	1.01	1.44	1.66	2.08	4.0	19.0
+1020119433		Hess, Sean	Mouilleron Salvo, Manuel	TENNIS	13.0	14.0	1.01	1.02	1.4	2.63	163.0	51.0
+1020119439		Britto, L/Schiessl, J E	Cigarran, T/Roncadelli, F	TENNIS	2.43	46.0	-1.0	1.48	2.12	1.63	7.0	33.0
+1020119440		Augusto Dos Santos, R/Nusdeo, J M	Aguilar Cardozo, F/Aguilar Cardozo, J	TENNIS	81.0	1.33	2.9	-1.0	3.05	1.3	46.0	48.0
+1020119442		Trotter, James Kent	Kingsley, Cannon	TENNIS	91.0	1.84	1.86	-1.0	2.0	1.72	139.0	24.0
+1020119445		Defalco, Jenna	Lulu Sun	TENNIS	4.1	11.0	1.03	1.18	1.88	1.81	7.0	5.0
+1020119450		Simonit, Ezequiel	Barreiros Reyes, Mateo	TENNIS	41.0	2.17	1.6	-1.0	2.45	1.47	107.0	49.0
+1020119451		Arango, Emiliana	Sakkari, Maria	TENNIS	201.0	1.22	4.0	-1.0	5.5	1.15	45.0	46.0
+1020119677		Sebov, Katherine	Douglas, Ellie	TENNIS	11.5	6.75	1.08	1.02	1.1	6.25	116.0	7.0
+1020119681		Prozorova, Tatiana	Kessler, Mccartney	TENNIS	1.79	20.0	-1.0	1.9	1.79	1.9	0.0	24.0
+1020119682		Alsola, Jessica Luisa	Kiick, Allie	TENNIS	81.0	2.18	1.6	-1.0	3.15	1.28	77.0	40.0
+1020119683		Hovde, L/Ngounoue, C	Corley, C/Corley, I	TENNIS	4.0	3.55	1.24	1.2	1.77	1.92	82.0	1.0
+1020119684		Jones, M/Loeb, J	Mcadoo, R/Partaud, M	TENNIS	2.32	8.0	1.06	1.52	1.7	2.02	72.0	38.0
+1020119689		Fernandez, Leylah Annie	Kenin, Sofia	TENNIS	67.0	2.48	1.49	-1.0	1.88	1.84	163.0	39.0
+1020119694		Dolehide, C/Muhammad, A	Kato, Mi/Sutjiadi, A	TENNIS	2.6	20.0	-1.0	1.42	2.0	1.72	15.0	26.0
+1020119695		Harrison, C/Libietis, M	Perez, A/Quinn, E	TENNIS	15.0	3.1	1.3	1.01	1.43	2.55	71.0	14.0
+1020119698		Nha Trang Dolphins	Saigon Heat	BASKETBALL	10.0	2.7	1.41	1.01	1.66	2.08	29.0	10.0
+1020119705		Schoolkate, Tristan	Kudla, Denis	TENNIS	111.0	1.57	2.25	-1.0	2.25	1.57	71.0	37.0
+1020119706		Rollins, Pierce	Emesz, Benedikt	TENNIS	1.87	51.0	-1.0	1.81	1.86	1.82	25.0	22.0
+1020119708		Pernas, Thiago	Okonkwo, Alexander	TENNIS	1.37	5.0	1.13	2.75	1.22	3.7	38.0	1.0
+1020119709		Zakharov, Volodymyr	Barun, Bozo	TENNIS	111.0	1.32	3.0	-1.0	3.5	1.24	69.0	49.0
+1020119710		Shuler, Jason	Tosetto, Victor	TENNIS	1.6	101.0	-1.0	2.17	1.58	2.23	4.0	41.0
+1020119711		Carlsson Seger, Timothy	Planelles Ripoll, Gerard	TENNIS	151.0	2.32	1.52	-1.0	4.0	1.19	122.0	16.0
+1020119712		Bracks, Luke	Savva, Stefanos	TENNIS	3.35	41.0	-1.0	1.26	2.65	1.4	11.0	52.0
+1020119714		Manuel, Melvin	Stevenson, David	TENNIS	2.43	51.0	-1.0	1.48	1.55	2.28	48.0	14.0
+1020119716		Vadyala, Mansi	Stara, Lenka	TENNIS	41.0	1.63	2.12	-1.0	2.12	1.63	85.0	44.0
+1020119718		Gelber, Emily	Osabuohien, Adesuwa	TENNIS	1.62	111.0	-1.0	2.14	1.34	2.9	12.0	31.0
+1020119719		Wiskowski, Anna	Oliver, Natalie	TENNIS	17.0	2.4	1.49	-1.0	1.78	1.91	85.0	7.0
+1020119722		Kyselova, Aleksandra	Cross, Morgan	TENNIS	141.0	1.3	3.0	-1.0	3.75	1.21	40.0	10.0
+1020119723		Ngounoue, Malkia	Bouzgarrou, Mouna	TENNIS	1.13	121.0	-1.0	5.1	1.07	7.5	57.0	25.0
+1020119727		Brengle, M/Zacarias, M	Aney, J/Herazo Gonzalez, M F	TENNIS	9.0	6.5	1.09	1.04	2.55	1.44	44.0	37.0
+1020119733		Azarenka, Victoria	Garcia, Caroline	TENNIS	91.0	2.95	1.37	-1.0	1.48	2.55	101.0	15.0
+1020119734		Hunter, S/Mertens, E	Guarachi, A/Niculescu, M	TENNIS	1.24	141.0	-1.0	3.6	1.17	4.4	6.0	29.0
+1020119735		Krueger, M/Kudla, D	Schoolkate, T/Walton, A	TENNIS	16.0	2.9	1.34	-1.0	1.71	2.0	78.0	56.0
+1020119740	2023-09-24 11:58:51.918740	New York Liberty	Connecticut Sun	BASKETBALL	17.0	4.1	1.19	-1.0	1.26	3.95	31.0	40.0
+1020119772		Inglis, Maddison	Preston, Taylah	TENNIS	6.4	3.25	1.28	1.09	1.58	2.2	125.0	47.0
+1020119794		Cash, R/Trotter, J K	Blumberg, W/Martinez, L D	TENNIS	4.4	12.0	1.02	1.17	3.45	1.25	14.0	23.0
+1020119796		Brymer, Gage	Ochi, Makoto	TENNIS	17.0	1.3	3.05	-1.0	3.4	1.25	45.0	25.0
+1020119811		Chia Yi Tsao	Lansere, Sofya	TENNIS	18.0	2.04	1.67	-1.0	3.85	1.21	47.0	53.0
+1020119832		Rinderknech, Arthur	Tu, Li	TENNIS	1.62	8.0	1.07	2.2	1.32	3.15	85.0	5.0
+1020119835		Gibson, Talia	Aiava, Destanee	TENNIS	3.4	67.0	-1.0	1.25	2.3	1.53	42.0	12.0
+1020119836		Akita, Shiho	Kuwata, Hiroko	TENNIS	16.0	2.88	1.34	-1.0	1.88	1.8	81.0	4.0
+1020119837		Linghao Zhang	Yang, Jimmy	TENNIS	18.0	1.13	5.0	-1.0	5.0	1.13	20.0	50.0
+1020119850		Trevisan, Martina	Dolehide, Caroline	TENNIS	67.0	19.0	-1.0	-1.0	1.7	2.08	164.0	42.0
+1020119855		Nishiwaki, Kazuki	Altamirano, Collin	TENNIS	18.0	3.55	1.24	-1.0	1.73	1.97	65.0	35.0
+1020119861		Nakagawa, Naoki	Shiraishi, Hikaru	TENNIS	3.2	4.75	1.15	1.28	1.25	3.4	53.0	16.0
+1020119880	2023-09-23 07:17:39.314380	Polmans, Marc	Norrie, Cameron	TENNIS	91.0	1.22	4.1	-1.0	4.4	1.22	41.0	21.0
+1020119881		Sema, Erika	Sato, Naho	TENNIS	2.18	61.0	-1.0	1.6	2.02	1.7	84.0	33.0
+1020119980		Contreras Gomez, Fernanda	Saito, Sara	TENNIS	1.81	15.0	1.01	1.88	1.72	1.97	4.0	56.0
+1020119990		Zhao Zhao	Cing-Yang Meng	TENNIS	1.94	15.0	-1.0	1.75	1.93	1.76	0.0	56.0
+1020120304		Bang Shuo Yin	Qiulin Wang	TENNIS	1.14	17.0	-1.0	4.8	1.07	7.5	9.0	20.0
+1020120305		O'Connell, Christopher	Daniel, Taro	TENNIS	2.45	26.0	-1.0	1.5	1.86	1.86	68.0	37.0
+1020120411		Ito, Tatsuma	Fukuda, Sora	TENNIS	10.0	1.58	2.2	1.03	2.2	1.58	82.0	1.0
+1020120416	2023-09-23 00:05:45.760577	Dimitrov, Grigor	Varillas, Juan Pablo	TENNIS	1.15	71.0	-1.0	5.2	1.12	5.6	24.0	14.0
+1020120422		Ivanova, D/Yu-Yun Li	Abe, H/Nagata, A	TENNIS	9.5	5.3	1.12	1.04	1.36	2.8	99.0	9.0
+1020120430		Piros, Zsombor	Hemery, Calvin	TENNIS	2.85	111.0	-1.0	1.37	1.53	2.33	109.0	41.0
+1020120431		Explosivas de Moca (F)	Cangrejeras de Santurce (F)	BASKETBALL	10.0	6.1	1.07	1.01	1.47	2.5	35.0	31.0
+1020120437	2023-09-24 17:02:53.451088	Montaneras De Morovis (W)	Ganaderas de Hatillo (W)	BASKETBALL	4.3	14.0	-1.0	1.16	1.75	1.95	10.0	44.0
+1020120452		Hon, Priscilla	Yamazaki, Ikumi	TENNIS	1.16	18.0	-1.0	4.5	1.08	6.75	80.0	54.0
+1020120468		Hayashi, E/Imamura, S	Ito, A/Chia Yi Tsao	TENNIS	11.0	2.12	1.63	1.03	1.65	2.1	55.0	12.0
+1020120469	2023-09-25 18:29:27.166670	Club Libertad	Club Olimpia	BASKETBALL	11.0	1.6	2.2	1.01	4.2	1.2	21.0	54.0
+1020120504		Ichikawa, T/Kawachi, K	Kono, Y/Kusuhara, Y	TENNIS	2.25	4.25	1.18	1.56	1.85	1.83	12.0	53.0
+1020120505		Watanabe, S/Yuzuki, T	Ochi, M/Tanuma, R	TENNIS	2.23	17.0	-1.0	1.58	1.63	2.12	15.0	44.0
+1020120506		Friedsam, A-L/Kichenok, N	Hanyu Guo/Xinyu Jiang	TENNIS	6.4	3.4	1.27	1.1	1.81	1.9	102.0	39.0
+1020120509		Khachanov, Karen	Bolt, Alex	TENNIS	1.32	201.0	-1.0	3.1	1.26	3.5	44.0	52.0
+1020120579		Jones, Scott	Court, Jayden	TENNIS	15.0	7.0	1.08	1.01	1.32	2.95	180.0	41.0
+1020120587		Kucmova, Aneta	Ciric-Bagaric, Lucija	TENNIS	16.0	2.38	1.49	-1.0	1.58	2.2	65.0	22.0
+1020120596	2023-09-23 01:44:23.663294	Sekulic, Philip	Musetti, Lorenzo	TENNIS	276.0	1.37	2.88	-1.0	7.5	1.07	163.0	27.0
+1020120637		Erel, Yanki	Habib, Hady	TENNIS	10.5	1.95	1.74	1.03	2.25	1.55	68.0	7.0
+1020120651		Pavlova, Kira	Costoulas, Sofia	TENNIS	16.0	1.5	2.35	-1.0	3.85	1.21	89.0	54.0
+1020120653		Christofi, Eleni	Guth, Mara	TENNIS	13.0	1.78	1.9	1.01	3.1	1.3	135.0	6.0
+1020120674	2023-09-23 00:06:26.722346	Giron, Marcos	Rinderknech, Arthur	TENNIS	56.0	3.75	1.23	-1.0	1.76	2.0	101.0	34.0
+1020120678	2023-09-23 02:07:12.434628	Svrcina, Dalibor	Etcheverry, Tomas Martin	TENNIS	91.0	1.34	3.0	-1.0	3.45	1.32	58.0	55.0
+1020120680		Dinu, Cristina	Karatancheva, Lia	TENNIS	1.52	201.0	-1.0	2.33	1.42	2.6	10.0	41.0
+1020120689		Thompson, Jordan	Lajovic, Dusan	TENNIS	1.66	201.0	-1.0	2.12	1.5	2.43	11.0	14.0
+1020120724		Dodig, Matej	Wessels, Louis	TENNIS	18.0	4.9	1.14	-1.0	1.7	2.02	84.0	15.0
+1020120738		van Wyk, Kris	Rossi, Leonardo	TENNIS	2.23	17.0	-1.0	1.56	1.57	2.23	46.0	14.0
+1020120744	2023-09-23 04:55:10.122977	Zverev, Alexander	Kotov, Pavel	TENNIS	1.85	226.0	-1.0	1.87	1.1	6.4	121.0	52.0
+1020120748		Kopriva, Vit	Moeller, Marvin	TENNIS	1.88	41.0	-1.0	1.82	1.4	2.7	45.0	59.0
+1020120751		Olyanovskaya, Valeriya	Seidel, Ella	TENNIS	18.0	1.48	2.4	-1.0	2.4	1.48	44.0	42.0
+1020120752	2023-09-23 04:09:50.208265	Murray, Andy	Karatsev, Aslan	TENNIS	111.0	4.9	1.16	-1.0	1.66	2.12	157.0	47.0
+1020120753	2023-09-23 02:03:27.735102	Moutet, Corentin	Kecmanovic, Miomir	TENNIS	201.0	1.7	2.08	-1.0	2.23	1.6	94.0	52.0
+1020120783		Hercog, Polona	Sakellaridi, Sapfo	TENNIS	1.37	71.0	-1.0	2.75	1.27	3.3	5.0	26.0
+1020120795		Oetzbach, Adrian	Rosenkranz, Mats	TENNIS	18.0	1.29	3.1	-1.0	3.1	1.29	41.0	0.0
+1020120797		Delaney, Jake	Sorensen, Luke	TENNIS	1.2	15.0	1.01	4.0	1.2	4.0	0.0	18.0
+1020120799		Wiersholm, Henrik	Pearson, Kody	TENNIS	17.0	7.5	1.07	-1.0	1.42	2.6	155.0	51.0
+1020120800		Rai, Ajeet	Mott, Blake	TENNIS	18.0	2.2	1.58	-1.0	2.6	1.42	70.0	13.0
+1020120819		Min Liu	Lackova, Viktoria	TENNIS	1.78	51.0	-1.0	1.9	1.48	2.43	22.0	43.0
+1020120820		Martinez Martinez, Jorge	Alcala Gurri, Max	TENNIS	15.0	2.07	1.66	1.01	1.66	2.07	112.0	44.0
+1020120821	2023-09-23 00:04:03.710459	Korda, Sebastian	Muller, Alexandre	TENNIS	2.18	51.0	-1.0	1.62	1.27	3.5	100.0	51.0
+1020120823		Ayala Serra, Nora	Lopez, Esther	TENNIS	11.0	2.05	1.67	1.03	3.3	1.27	93.0	11.0
+1020120836		Hussey, Giles	Schnaitter, Jakob	TENNIS	2.0	18.0	-1.0	1.7	1.65	2.08	11.0	20.0
+1020120837		Radisic, Nika	Buyukakcay, Cagla	TENNIS	14.0	2.3	1.53	1.01	1.92	1.77	126.0	0.0
+1020120844		Kozarov, Katarina	Vlasselaer, Clara	TENNIS	1.87	18.0	-1.0	1.81	1.6	2.15	28.0	54.0
+1020120859		Malige, M/Paris, T	Arneodo, R/Weissborn, T-S	TENNIS	17.0	1.34	2.88	-1.0	9.5	1.04	42.0	22.0
+1020120863		Garin, Cristian	Struff, Jan-Lennard	TENNIS	35.0	2.23	1.6	-1.0	1.94	1.79	128.0	3.0
+1020120886		Jeanjean, Leolia	Kartal, Sonay	TENNIS	6.1	17.0	-1.0	1.1	1.75	1.95	80.0	51.0
+1020120888		Milev, Yanaki	Nesterov, Petr	TENNIS	1.81	17.0	-1.0	1.88	1.64	2.1	0.0	31.0
+1020121211		Ajdukovic, Duje	Cobolli, Flavio	TENNIS	141.0	1.92	1.78	-1.0	2.55	1.45	80.0	14.0
+1020121229		Kenzhibayeva, Sandugash	Tirunelveli, Teja	TENNIS	2.02	18.0	-1.0	1.7	1.11	5.6	109.0	53.0
+1020121234		Vanlangendonck, Eliessa	Szostak, Marine	TENNIS	11.0	1.88	1.81	1.03	1.81	1.88	101.0	44.0
+1020121242		Paulson, A/Vrbensky, M	Kaliyanda Poonacha, N/Sharan, D	TENNIS	1.44	18.0	-1.0	2.55	1.36	2.8	6.0	7.0
+1020121246		Linette, Magda	Putintseva, Yulia	TENNIS	1.71	81.0	-1.0	2.08	1.71	2.1	0.0	36.0
+1020121252		Inoue, G /Yamanaka, T	Fancutt, T/Rai, A	TENNIS	18.0	1.14	4.8	-1.0	5.25	1.12	36.0	26.0
+1020121255		Carle, Maria Lourdes	Ristic, Mia	TENNIS	3.1	91.0	-1.0	1.3	1.75	1.94	52.0	56.0
+1020121256		Mmoh, Michael	Zeppieri, Giulio	TENNIS	3.15	29.0	-1.0	1.3	1.58	2.23	30.0	8.0
+1020121262	2023-09-23 02:40:33.046122	Doumbia, S/Reboul, F	Peers, J/Safiullin, R	TENNIS	1.7	67.0	-1.0	2.04	1.61	2.16	16.0	38.0
+1020121264		Milovanovic, Elena	Viviani, Maria Vittoria	TENNIS	1.82	17.0	-1.0	1.86	1.68	2.02	1.0	13.0
+1020121274		Pattinama Kerkhove, Lesley	Glushko, Lina	TENNIS	2.28	16.0	-1.0	1.55	1.3	3.05	27.0	45.0
+1020121275		Curovic, Tamara	Kargina, Valerija Maija	TENNIS	1.38	18.0	-1.0	2.7	1.35	2.8	1.0	5.0
+1020121295		Gill, Felix	Lopez, Noah	TENNIS	1.29	18.0	-1.0	3.15	1.1	6.0	80.0	58.0
+1020121643		Jakupovic, D/Khromacheva, I	Anshba, A/Appleton, E	TENNIS	2.0	56.0	-1.0	1.71	1.61	2.18	34.0	47.0
+1020121804		Marcinko, Petra	Robbe, Alice	TENNIS	1.54	17.0	-1.0	2.28	1.3	3.15	13.0	51.0
+1020121843		Ramos-Viñolas, Albert	Misolic, Filip	TENNIS	4.8	15.0	1.01	1.15	1.56	2.28	98.0	17.0
+1020121867		Bergevi, F/Veldheer, M	Frantzen, C/Jebens, H	TENNIS	5.75	5.3	1.13	1.11	1.96	1.73	122.0	9.0
+1020121868		Coppejans, Kimmer	McDonald, Mackenzie	TENNIS	126.0	2.05	1.7	-1.0	3.55	1.25	114.0	33.0
+1020121869		Chopra, Keshav	Braithwaite, Thomas	TENNIS	2.55	17.0	-1.0	1.43	2.55	1.43	0.0	19.0
+1020121883		Sanchez Quilez, Alejo	Barreto Sanchez, Diego Augusto	TENNIS	6.5	18.0	-1.0	1.08	5.1	1.13	16.0	1.0
+1020121887		Krumich, Martin	Prihodko, Oleg	TENNIS	1.4	18.0	-1.0	2.63	1.35	2.88	95.0	9.0
+1020121888		Oradini, Giovanni	Arnaboldi, Federico	TENNIS	15.0	1.11	5.75	-1.0	6.4	1.09	7.0	10.0
+1020121889		Bittoun Kouzmine, Constantin	Delage, Pierre	TENNIS	1.19	17.0	-1.0	4.0	1.19	4.0	0.0	14.0
+1020121895		Masiianskaia, Mariia	Gettwart, Fabienne	TENNIS	9.5	2.33	1.52	1.04	3.1	1.3	33.0	9.0
+1020121900		Mchugh, Aidan	Rocha, Henrique	TENNIS	2.16	18.0	-1.0	1.6	2.16	1.6	0.0	19.0
+1020121922		Wendelken, Harry	Colson, Tibo	TENNIS	2.32	18.0	-1.0	1.53	1.82	1.86	21.0	2.0
+1020121926		Waligora, Amelia	Sacco, Federica	TENNIS	1.2	18.0	-1.0	3.9	1.2	3.9	0.0	15.0
+1020121930		Gavrila, O/Strakhova, V	Benoit, M/Seidel, E	TENNIS	1.57	16.0	-1.0	2.23	1.5	2.38	2.0	6.0
+1020121935		Friberg, Karl	Stewart, Hamish	TENNIS	1.66	11.5	1.02	2.06	1.44	2.5	49.0	52.0
+1020121944		Dinu, C/Zelnickova, R	Karatancheva, L/Sakellaridi, S	TENNIS	4.0	5.4	1.12	1.19	2.65	1.4	16.0	29.0
+1020121948		Reitano, Stefano	Badenhorst, Devin	TENNIS	17.0	1.68	2.04	-1.0	2.7	1.38	63.0	47.0
+1020121955		Minnen, Greet	Xiyu Wang	TENNIS	46.0	2.25	1.58	-1.0	2.06	1.7	56.0	4.0
+1020121974		Martín, Andrés	Cid Subervi, Roberto	TENNIS	2.32	14.0	1.01	1.53	1.37	2.75	35.0	39.0
+1020121980		Parravicini, G/Valente, D	Falkner, Z/Hobgarski, K	TENNIS	34.0	1.13	5.25	-1.0	5.8	1.1	33.0	5.0
+1020121984		Martinez Martinez, J/Winter Lopez, B	Caldes, J/Francisco, L	TENNIS	1.27	16.0	-1.0	3.3	1.24	3.5	6.0	59.0
+1020121985		Alcala Gurri, M/Barreto Sanchez, D A	Genov, A/Lopez, N	TENNIS	16.0	2.85	1.35	-1.0	1.6	2.16	83.0	58.0
+1020121999		Pisaric, A/Radjenovic, V	Katuch, J/Michalik, R	TENNIS	1.72	18.0	-1.0	1.97	1.68	2.04	0.0	38.0
+1020122000		Bulatova, Ar/Herea, C A	Guth, M/Pridankina, E	TENNIS	14.0	3.4	1.25	1.01	7.0	1.08	17.0	44.0
+1020122001		Christofi, E/Jokic, K	Eraydin, B/Simunyu, C	TENNIS	3.55	4.5	1.16	1.24	1.48	2.4	96.0	26.0
+1020122005		Pigossi, Laura	Babos, Timea	TENNIS	2.6	10.5	1.03	1.42	2.04	1.68	15.0	30.0
+1020122020		Oetzbach, A/Rosenkranz, M	Dahlin, M/Steinegger, Y	TENNIS	1.94	15.0	-1.0	1.76	1.57	2.23	67.0	1.0
+1020122022		Kozarov, K/Sieg, M	Meliss, V/Muntean, V	TENNIS	2.45	11.0	1.03	1.47	1.26	3.35	70.0	39.0
+1020122023		Bondar, Anna	Bogdan, Ana	TENNIS	51.0	2.88	1.37	-1.0	1.91	1.81	93.0	12.0
+1020122025		Blanch, Dali	Fanselow, Sebastian	TENNIS	12.0	15.0	-1.0	1.01	2.95	1.32	89.0	0.0
+1020122035		Guillen Meza, Alvaro	Vilicich, Bautista	TENNIS	1.55	20.0	-1.0	2.25	1.09	6.25	147.0	8.0
+1020122049		Adaloglou, M/Vozniak, K	La Cagnina, N/Paterno, G	TENNIS	2.05	18.0	-1.0	1.67	2.05	1.67	0.0	27.0
+1020122050		Cirotte, A/Szostak, M	Adkar, V/Gulin, G	TENNIS	15.0	2.9	1.34	-1.0	1.34	2.9	100.0	21.0
+1020122051		Chopra, K/Martín, A	Nortey, I/Singh, K	TENNIS	1.98	6.75	1.08	1.71	1.54	2.28	23.0	37.0
+1020122052		Braithwaite, T/Wiskandt, M	Kroslak, J/Privara, P B	TENNIS	2.6	14.0	1.01	1.42	1.52	2.38	54.0	35.0
+1020122059		Reis DA Silva, Joao Lucas	Boyer, Tristan	TENNIS	14.0	2.88	1.35	1.01	1.93	1.77	91.0	25.0
+1020122061		De Jonge, D/Schnaitter, J	Davis, J/Jones, B	TENNIS	1.76	15.0	1.01	1.93	1.62	2.14	7.0	31.0
+1020122065	2023-09-22 15:03:09.846732	Fils, Arthur	Shelton, Ben	TENNIS	181.0	2.25	1.58	-1.0	2.5	1.47	73.0	35.0
+1020122066	2023-09-22 16:54:52.187384	Davidovich Fokina, Alejandro	Cerundolo, Francisco	TENNIS	14.0	2.95	1.35	1.02	1.52	2.4	99.0	4.0
+1020122071	2023-09-22 20:56:24.752110	Monfils, Gael	Auger Aliassime, Felix	TENNIS	91.0	2.0	1.74	-1.0	2.06	1.77	62.0	46.0
+1020122072		Hesse, Amandine	Korneeva, Alina	TENNIS	18.0	1.19	4.1	-1.0	4.4	1.16	15.0	25.0
+1020122081		Couacaud, Enzo	Galarneau, Alexis	TENNIS	21.0	2.15	1.62	-1.0	1.83	1.86	97.0	45.0
+1020122100		Schmiedlova, Anna Karolina	Kawa, Katarzyna	TENNIS	1.9	26.0	-1.0	1.83	1.46	2.55	35.0	29.0
+1020122101		Gil, F/Marques, D	Araujo, P/Schoen, P	TENNIS	2.1	17.0	-1.0	1.63	2.1	1.63	0.0	18.0
+1020122102		Faria, J/Rocha, H	Falcao, G/Pereira, T	TENNIS	1.41	18.0	-1.0	2.6	1.3	3.15	7.0	6.0
+1020122107		Kestelboim, Mariano	Descotte, Matias Franco	TENNIS	4.9	25.0	-1.0	1.14	3.85	1.21	1.0	13.0
+1020122108		Grey, B/Silva, E	Jorge, F/Jorge, M	TENNIS	15.0	1.98	1.71	1.01	2.65	1.41	87.0	41.0
+1020122118		Kingsley, Cannon	Harrison, Christian	TENNIS	3.1	26.0	-1.0	1.32	1.49	2.43	21.0	54.0
+1020122123		Mouilleron Salvo, Manuel	Kuzuhara, Bruno	TENNIS	29.0	1.64	2.1	-1.0	2.1	1.64	36.0	24.0
+1020122132		Peniston, Ryan	Pospisil, Vasek	TENNIS	5.4	12.5	1.02	1.13	1.66	2.08	158.0	43.0
+1020122133		Prozorova, Tatiana	Kiick, Allie	TENNIS	4.6	10.5	1.03	1.15	1.45	2.5	102.0	56.0
+1020122150		Roncadelli, Franco	Barreiros Reyes, Mateo	TENNIS	1.17	51.0	-1.0	4.5	1.17	4.5	0.0	30.0
+1020122154		Britto, L/Schiessl, J E	Aguilar Cardozo, F/Aguilar Cardozo, J	TENNIS	1.11	5.8	1.11	5.8	1.11	5.8	0.0	1.0
+1020122159		Hu, Victoria	Jacquemot, Elsa	TENNIS	151.0	1.32	3.05	-1.0	3.3	1.27	54.0	29.0
+1020122160	2023-09-25 18:12:05.588738	Club Atlético Welcome	Atlético Olimpia	BASKETBALL	4.2	5.5	1.1	1.17	3.2	1.3	38.0	9.0
+1020122162	2023-09-25 18:12:26.009499	Miramar	Lagomar	BASKETBALL	8.5	1.43	2.55	1.02	2.75	1.4	25.0	27.0
+1020122163		Sweeney, Jake	Sau Franco, Alan Raul	TENNIS	35.0	5.25	1.12	-1.0	1.84	1.84	69.0	34.0
+1020122166	2023-09-22 19:01:26.212093	Bolton, E/Bozovic, A	Zamarripa, A/Zamarripa, M	TENNIS	3.8	4.8	1.15	1.21	1.5	2.38	50.0	51.0
+1020122167		Brengle, Madison	Stakusic, Marina	TENNIS	5.1	5.2	1.13	1.13	1.34	2.9	58.0	28.0
+1020122264	2023-09-22 16:25:18.082203	Andreozzi, G/Hach Verdugo, H	Perez, A/Quinn, E	TENNIS	1.36	18.0	-1.0	2.8	1.36	2.85	3.0	9.0
+1020122412	2023-09-22 15:46:45.774665	Douglas, Ellie	Defalco, Jenna	TENNIS	6.75	14.0	1.01	1.08	1.54	2.28	102.0	5.0
+1020122469		Jackson, Jennifer	Bouzgarrou, Mouna	TENNIS	1.25	181.0	-1.0	3.4	1.21	3.75	6.0	34.0
+1020122472		Ngounoue, Malkia	Oliver, Natalie	TENNIS	1.01	226.0	-1.0	14.0	1.01	15.0	1.0	21.0
+1020122477	2023-09-22 15:01:34.362147	Rajaram, Natasha	Ferguson, Katie	TENNIS	23.0	3.65	1.23	-1.0	1.61	2.15	112.0	16.0
+1020122524		Smillie, Connor	Stevenson, David	TENNIS	71.0	1.23	3.65	-1.0	4.1	1.19	42.0	57.0
+1020122525	2023-09-22 14:50:37.265699	Manuel, Melvin	Sau Franco, Alan Raul	TENNIS	2.55	18.0	-1.0	1.43	1.4	2.7	79.0	59.0
+1020122526		Rogers, Foster	Savva, Stefanos	TENNIS	161.0	2.6	1.42	-1.0	2.12	1.63	71.0	58.0
+1020122527	2023-09-22 15:37:33.822736	Bracks, Luke	Emesz, Benedikt	TENNIS	201.0	1.18	4.2	-1.0	6.25	1.09	43.0	51.0
+1020122529	2023-09-22 17:48:00.591763	Shuler, Jason	Planelles Ripoll, Gerard	TENNIS	12.0	6.25	1.1	1.02	2.35	1.52	48.0	19.0
+1020122539		Dabrowski, G/Routliffe, E	Paolini, J/Sherif, M	TENNIS	1.43	34.0	-1.0	2.6	1.32	3.0	8.0	45.0
+1020122602		Famila Schio (F) 	Dinamo Sassari (F)	BASKETBALL	1.56	10.0	1.02	2.28	1.08	7.0	12.0	39.0
+1020122641	2023-09-24 02:56:21.259716	Energa Toruń (F)	Polonia Warszawa (F)	BASKETBALL	1.86	14.0	-1.0	1.83	1.66	2.12	0.0	57.0
+1020122670	2023-09-22 15:38:14.694275	Tettamble, Gus	Barun, Bozo	TENNIS	181.0	1.4	2.7	-1.0	3.95	1.2	70.0	40.0
+1020122671	2023-09-22 17:05:24.078281	Dolehide, Caroline	Kenin, Sofia	TENNIS	7.0	29.0	-1.0	1.1	3.6	1.26	16.0	32.0
+1020122672	2023-09-22 19:01:46.579495	Garcia, Caroline	Sakkari, Maria	TENNIS	301.0	1.8	1.96	-1.0	2.4	1.57	55.0	6.0
+1020122673	2023-09-22 22:57:27.860225	Fils, A/Rublev, A	Paul, T/Tiafoe, F	TENNIS	16.0	4.1	1.18	-1.0	1.95	1.78	91.0	47.0
+1020122687		Doxa Lefkadas	Apollon Patras	BASKETBALL	15.0	1.19	4.0	-1.0	5.25	1.11	10.0	0.0
+1020122699	2023-09-22 20:52:20.647707	Hunter, S/Mertens, E	Dolehide, C/Muhammad, A	TENNIS	1.78	51.0	-1.0	1.95	1.26	3.7	24.0	4.0
+1020122703		Xin Gao/Zhe Li	Polmans, M/Romios, M C	TENNIS	2.45	35.0	-1.0	1.47	1.41	2.65	0.0	36.0
+1020122754	2023-09-23 00:05:45.816227	Lammons, N/Withrow, J	Chandrasekar, A/Prashanth, N V S	TENNIS	1.3	29.0	-1.0	3.05	1.17	4.5	29.0	12.0
+1020122756	2023-09-23 04:21:45.485331	Borges, N/Rinderknech, A	Cash, J/Galloway, R	TENNIS	2.33	30.0	-1.0	1.52	2.08	1.65	9.0	25.0
+1020122924		Brouwer, Gijs	Albot, Radu	TENNIS	16.0	2.2	1.58	-1.0	1.94	1.77	132.0	4.0
+1020122979	2023-09-23 01:53:35.284334	Gille, S/Vliegen, J	King, E/Stalder, R	TENNIS	1.66	26.0	-1.0	2.08	1.32	3.0	37.0	36.0
+1020123004	2023-09-24 00:04:25.573907	Thompson, Jordan	Safiullin, Roman	TENNIS	3.85	2.65	1.43	1.22	1.98	1.75	80.0	0.0
+1020123140		Lestienne, Constant	Ofner, Sebastian	TENNIS	2.25	3.7	1.23	1.57	2.25	1.57	0.0	26.0
+1020123286	2023-09-23 05:07:48.078737	Cadar, E-T/Samir, S	Easwaramurthi, A/Sedysheva, A	TENNIS	1.23	18.0	-1.0	3.65	1.05	8.5	24.0	20.0
+1020123298	2023-09-23 00:18:22.872776	Hosogi, Sakura	Muramatsu, Chihiro	TENNIS	1.73	12.0	1.01	1.97	1.5	2.5	10.0	7.0
+1020123299	2023-09-23 01:42:41.590300	Shibahara, Ena	Perez, Ellen	TENNIS	14.0	5.8	1.1	1.01	1.52	2.4	104.0	41.0
+1020123300	2023-09-23 00:29:58.561119	Schoofs, Bibiane	Kawaguchi, Natsumi	TENNIS	17.0	1.71	2.0	-1.0	2.55	1.43	74.0	23.0
+1020123302	2023-09-22 20:05:33.902078	Dart, Harriet	Ishii, Sayaka	TENNIS	2.08	15.0	-1.0	1.65	1.13	5.2	133.0	29.0
+1020123303	2023-09-22 22:08:20.039312	Olmos, Giuliana	Saigo, Rina	TENNIS	18.0	2.32	1.52	-1.0	1.67	2.1	104.0	38.0
+1020123304	2023-09-23 02:09:15.069364	Hontama, Mai	Imamura, Saki	TENNIS	1.04	18.0	-1.0	9.5	1.04	11.0	37.0	0.0
+1020123305	2023-09-23 00:12:34.956518	Matsuda, Rinko	Doi, Misaki	TENNIS	18.0	1.1	6.4	-1.0	8.5	1.06	18.0	24.0
+1020123306	2023-09-23 03:46:40.404419	Melichar-Martinez, Nicole	Saito, Sara	TENNIS	12.5	1.89	1.79	1.02	3.35	1.26	53.0	54.0
+1020123307	2023-09-23 02:02:26.463635	Papamichail, Despina	Marozava, Lidziya	TENNIS	1.03	17.0	-1.0	9.5	1.02	11.0	6.0	34.0
+1020123308	2023-09-22 22:54:25.063371	Sakatsume, Himeno	Hanatani, Nagi	TENNIS	1.15	17.0	-1.0	4.7	1.06	8.5	7.0	21.0
+1020123342	2023-09-23 04:15:37.543822	Hanyu Guo/Xinyu Jiang	Hozumi, E/Ninomiya, M	TENNIS	3.2	12.0	1.02	1.28	1.92	1.81	13.0	34.0
+1020123366	2023-09-23 03:01:00.660269	Piros, Zsombor	Fatic, Nerman	TENNIS	111.0	3.65	1.23	-1.0	1.5	2.38	91.0	54.0
+1020123379	2023-09-23 05:17:01.707541	Carle, Maria Lourdes	Hercog, Polona	TENNIS	2.75	16.0	-1.0	1.38	1.89	1.8	46.0	21.0
+1020123399	2023-09-23 07:25:57.180381	Costoulas, Sofia	Falei, Aliona	TENNIS	16.0	4.35	1.17	-1.0	1.81	1.87	120.0	37.0
+1020123400		Added, D/Olivetti, A	Arneodo, R/Weissborn, T-S	TENNIS	1.8	9.5	1.03	1.88	1.62	2.14	16.0	36.0
+1020123401		Cazaux, Arthur	Broady, Liam	TENNIS	15.0	3.75	1.22	1.01	1.8	1.9	93.0	1.0
+1020123403	2023-09-24 09:03:52.328079	Dennis Novak	Kopriva, Vit	TENNIS	30.0	2.25	1.57	-1.0	1.64	2.12	91.0	53.0
+1020123415	2023-09-23 01:06:06.644502	Teichmann, Jil	Yidi Yang	TENNIS	1.03	18.0	-1.0	11.0	1.02	11.5	1.0	53.0
+1020123416	2023-09-23 01:11:13.211724	Hruncakova, Viktoria	Jing-Jing Lu	TENNIS	1.09	18.0	-1.0	6.75	1.04	9.5	4.0	49.0
+1020123417	2023-09-23 02:38:30.540652	Burrage, Jodie	Jia-Jing Lu	TENNIS	1.35	18.0	-1.0	2.88	1.11	5.6	27.0	43.0
+1020123418	2023-09-22 23:13:24.265873	Zongyu Li	Xiaodi You	TENNIS	17.0	2.25	1.56	-1.0	2.48	1.47	67.0	39.0
+1020123419	2023-09-22 22:59:50.188533	Marino, Rebecca	Shuo Feng	TENNIS	1.47	18.0	-1.0	2.43	1.02	12.0	52.0	11.0
+1020123420	2023-09-23 02:43:16.678585	Friedsam, Anna-Lena	Yufei Ren	TENNIS	1.38	18.0	-1.0	2.7	1.16	4.6	52.0	11.0
+1020123421	2023-09-22 23:13:44.693187	Sijia Wei	Savinykh, Valeria	TENNIS	14.0	3.6	1.23	1.01	2.75	1.38	118.0	18.0
+1020123423	2023-09-23 01:08:09.189444	Bai, Zhuoxuan	Yao, Xinxin	TENNIS	1.32	18.0	-1.0	3.0	1.07	7.5	39.0	16.0
+1020123424	2023-09-23 02:34:45.995815	Tjandramulia, Olivia	Mandlik, Elizabeth	TENNIS	18.0	1.07	7.5	-1.0	7.5	1.07	0.0	22.0
+1020123425	2023-09-23 03:36:47.897962	Meiling Wang	Kolodynska, Jana	TENNIS	17.0	1.33	2.95	-1.0	2.95	1.33	48.0	55.0
+1020123426	2023-09-22 23:11:01.731238	Gleason, Quinn	Hartono, Arianne	TENNIS	18.0	1.28	3.2	-1.0	5.25	1.13	66.0	24.0
+1020123474	2023-09-23 05:05:04.233705	Forejtek, Jonas	Vanshelboim, Eric	TENNIS	1.32	18.0	-1.0	3.0	1.27	3.35	18.0	17.0
+1020123476	2023-09-23 10:22:00.985633	Bortolotti, M/Passaro, F	Frantzen, C/Jebens, H	TENNIS	17.0	1.54	2.28	-1.0	2.43	1.47	52.0	59.0
+1020123479	2023-09-23 04:10:31.110753	Jones, A/Quayle, D	Maginley, H J/Sheehy, J	TENNIS	18.0	1.42	2.6	-1.0	3.45	1.25	8.0	52.0
+1020123485	2023-09-23 04:30:16.742166	Korneeva, Alina	Marcinko, Petra	TENNIS	4.9	7.5	1.06	1.14	1.36	2.8	110.0	49.0
+1020123703	2023-09-23 02:08:54.597149	Linette, Magda	Xiyu Wang	TENNIS	201.0	2.0	1.73	-1.0	1.95	1.79	77.0	0.0
+1020123916	2023-09-23 04:52:26.633505	Dzumhur, Damir	Cobolli, Flavio	TENNIS	2.5	10.0	1.03	1.46	2.18	1.6	51.0	32.0
+1020123922	2023-09-24 00:07:49.269129	Khachanov, Karen	McDonald, Mackenzie	TENNIS	9.5	41.0	-1.0	1.05	1.86	1.86	52.0	5.0
+1020124006	2023-09-24 09:05:14.533415	Pellegrino, Andrea	Ramos-Viñolas, Albert	TENNIS	3.2	21.0	-1.0	1.28	2.88	1.36	12.0	12.0
+1020124039	2023-09-23 07:03:41.723923	Mmoh, Michael	Lestienne, Constant	TENNIS	3.25	2.95	1.33	1.28	1.64	2.12	53.0	1.0
+1020124062	2023-09-23 06:29:42.860243	Wessels, Louis	Krumich, Martin	TENNIS	2.48	8.5	1.06	1.46	2.14	1.62	10.0	22.0
+1020124265	2023-09-23 04:56:32.119043	Bondar, A/Zimmermann, K	Jakupovic, D/Khromacheva, I	TENNIS	46.0	1.93	1.77	-1.0	1.87	1.87	58.0	4.0
+1020124299	2023-09-23 08:39:47.727888	Christofi, E/Jokic, K	Guth, M/Pridankina, E	TENNIS	2.16	15.0	1.01	1.6	2.12	1.62	1.0	52.0
+1020124303	2023-09-23 05:06:26.137080	Martinez Martinez, J/Winter Lopez, B	Genov, A/Lopez, N	TENNIS	1.7	16.0	-1.0	2.02	1.5	2.35	7.0	32.0
+1020124319	2023-09-23 12:21:51.317435	Ugo Carabelli, Camilo	Burruchaga, Roman Andres	TENNIS	1.35	14.0	1.01	2.88	1.16	4.4	21.0	45.0
+1020124323	2023-09-23 09:07:00.456918	Faria, J/Rocha, H	Gil, F/Marques, D	TENNIS	1.24	16.0	-1.0	3.45	1.15	4.7	15.0	2.0
+1020124348	2023-09-23 08:46:55.564075	Albot, Radu	Broady, Liam	TENNIS	71.0	2.5	1.45	-1.0	2.55	1.44	111.0	56.0
+1020124377	2023-09-23 06:34:48.789575	Pigossi, Laura	Jeanjean, Leolia	TENNIS	14.0	2.23	1.56	1.01	1.79	1.91	80.0	28.0
+1020124380	2023-09-23 09:01:33.062405	Lahey, A/Tian, F	Jorge, F/Jorge, M	TENNIS	14.0	4.4	1.16	1.01	2.88	1.35	48.0	20.0
+1020124392	2023-09-23 07:51:52.047384	Schmiedlova, Anna Karolina	Bogdan, Ana	TENNIS	101.0	2.32	1.56	-1.0	2.23	1.66	107.0	38.0
+1020124393	2023-09-23 04:49:02.209137	Glasspool, L/Heliovaara, H	Eysseric, J/Mayot, H	TENNIS	11.5	7.0	1.08	1.02	1.15	4.7	84.0	39.0
+1020124441	2023-09-23 14:32:36.911062	Peniston, Ryan	Kudla, Denis	TENNIS	111.0	2.16	1.6	-1.0	1.75	1.96	81.0	18.0
+1020124446	2023-09-23 12:04:25.293743	Jacquemot, Elsa	Kiick, Allie	TENNIS	35.0	5.2	1.13	-1.0	1.36	2.8	97.0	37.0
+1020124603	2023-09-23 12:40:55.375898	Galarneau, Alexis	Kingsley, Cannon	TENNIS	1.98	61.0	-1.0	1.73	1.65	2.1	21.0	32.0
+1020124863	2023-09-23 13:57:49.829807	Stakusic, Marina	Douglas, Ellie	TENNIS	1.48	61.0	-1.0	2.43	1.38	2.75	7.0	39.0
+1020124923	2023-09-23 11:06:12.700926	Andreozzi, G/Hach Verdugo, H	Cash, R/Trotter, J K	TENNIS	14.0	2.75	1.37	1.01	1.6	2.15	76.0	29.0
+1020124924	2023-09-23 18:49:35.647950	Dolehide, Caroline	Sakkari, Maria	TENNIS	121.0	1.52	2.43	-1.0	4.9	1.19	92.0	11.0
+1020124996	2023-09-25 20:26:14.098759	Team Cali	Cimarrones Del Choco	BASKETBALL	1.29	17.0	-1.0	3.2	1.23	3.75	2.0	35.0
+1020125030	2023-09-23 16:31:27.268609	Hunter, S/Mertens, E	Dabrowski, G/Routliffe, E	TENNIS	2.5	51.0	-1.0	1.46	1.44	2.65	39.0	50.0
+1020125031	2023-09-23 21:52:31.727093	Preston, Taylah	Gibson, Talia	TENNIS	2.45	29.0	-1.0	1.47	1.65	2.13	18.0	22.0
+1020125065	2023-09-23 21:02:40.414729	Kuwata, Hiroko	Lansere, Sofya	TENNIS	17.0	1.21	3.9	-1.0	3.9	1.21	24.0	53.0
+1020125066	2023-09-23 21:05:43.452330	Nakagawa, Naoki	Ochi, Makoto	TENNIS	1.43	18.0	-1.0	2.55	1.37	2.75	89.0	0.0
+1020125123	2023-09-23 22:02:42.214852	Marino, Rebecca	Savinykh, Valeria	TENNIS	6.1	15.0	-1.0	1.1	1.52	2.35	143.0	5.0
+1020125244	2023-09-23 17:03:37.606393	Ruud, Casper	Paul, Tommy	TENNIS	2.7	226.0	-1.0	1.41	1.6	2.23	55.0	40.0
+1020125245	2023-09-23 15:00:08.180402	Rublev, Andrey	Fritz, Taylor	TENNIS	25.0	2.14	1.64	-1.0	1.76	1.97	89.0	32.0
+1020125246	2023-09-23 20:54:32.447858	Hurkacz, Hubert	Tiafoe, Frances	TENNIS	61.0	3.05	1.34	-1.0	1.54	2.5	64.0	51.0
+1020125302	2023-09-23 21:35:34.472820	Sakatsume, Himeno	Kawaguchi, Natsumi	TENNIS	15.0	7.5	1.07	-1.0	1.15	4.8	100.0	57.0
+1020125303	2023-09-23 19:59:59.649115	Hosogi, Sakura	Saigo, Rina	TENNIS	17.0	2.05	1.7	-1.0	1.75	2.05	82.0	27.0
+1020125304	2023-09-23 22:02:42.191847	Hruncakova, Viktoria	Xiaodi You	TENNIS	1.49	15.0	-1.0	2.4	1.26	3.35	26.0	0.0
+1020125305	2023-09-23 22:03:02.635843	Teichmann, Jil	Hartono, Arianne	TENNIS	4.1	11.0	1.03	1.18	1.45	2.5	120.0	2.0
+1020125343	2023-09-25 02:54:53.363066	Gille, S/Vliegen, J	Lammons, N/Withrow, J	TENNIS	29.0	2.28	1.55	-1.0	2.2	1.6	95.0	4.0
+1020125344	2023-09-24 02:10:50.618511	Habib, Hady	van Wyk, Kris	TENNIS	1.7	18.0	-1.0	2.02	1.55	2.25	4.0	53.0
+1020125349	2023-09-23 23:46:05.652068	Bai, Zhuoxuan	Mandlik, Elizabeth	TENNIS	3.3	16.0	-1.0	1.27	1.87	1.81	50.0	41.0
+1020125383	2023-09-24 02:52:14.823616	Korda, Sebastian	Etcheverry, Tomas Martin	TENNIS	1.33	201.0	-1.0	3.1	1.32	3.1	0.0	0.0
+1020125472	2023-09-23 22:40:12.707166	Papamichail, Despina	Perez, Ellen	TENNIS	2.95	17.0	-1.0	1.33	1.61	2.15	29.0	52.0
+1020125533	2023-09-23 22:58:54.870178	Hurkacz, H/Monfils, G	Auger-Aliassime, F/Shelton, B	TENNIS	121.0	2.55	1.46	-1.0	1.97	1.8	67.0	3.0
+1020125610	2023-09-24 17:58:42.797304	Jinotega	Real Estelí	BASKETBALL	2.85	9.0	1.01	1.36	2.5	1.48	0.0	34.0
+1020125626	2023-09-24 01:52:43.578188	Rinderknech, Arthur	Musetti, Lorenzo	TENNIS	41.0	1.83	1.9	-1.0	2.04	1.71	78.0	46.0
+1020125641	2023-09-24 00:33:41.639623	Mott, Blake	Delaney, Jake	TENNIS	1.44	18.0	-1.0	2.55	1.16	4.5	61.0	27.0
+1020126026	2023-09-24 04:07:37.330063	Milovanovic, Elena	Waligora, Amelia	TENNIS	1.7	2.6	1.42	2.0	1.6	2.16	4.0	17.0
+1020126027	2023-09-24 03:42:41.448833	Hussey, Giles	Rosenkranz, Mats	TENNIS	2.33	3.05	1.32	1.52	1.88	1.8	5.0	50.0
+1020126037	2023-09-24 01:02:37.932345	Ceinos, Eugenia Jazmin	Ugrelidze, Nina	TENNIS	141.0	20.0	-1.0	-1.0	1.86	1.86	139.0	27.0
+1020126038	2023-09-24 01:02:58.335036	Zuchanska, Aleksandra Julia	Min Liu	TENNIS	21.0	15.0	1.01	-1.0	1.84	1.84	166.0	29.0
+1020126039	2023-09-24 01:34:41.311976	Reva, Aliesia	Xiaotong Wang	TENNIS	5.8	1.41	2.65	1.1	2.65	1.41	9.0	9.0
+1020126040	2023-09-24 00:23:09.072300	Hontama, Mai	Saito, Sara	TENNIS	1.23	18.0	-1.0	3.65	1.21	3.85	1.0	37.0
+1020126041	2023-09-24 01:08:04.965783	Friedsam, Anna-Lena	Volodko, Kateryna	TENNIS	1.91	18.0	-1.0	1.77	1.4	2.85	28.0	41.0
+1020126042	2023-09-24 00:45:56.837430	Burrage, Jodie	Kolodynska, Jana	TENNIS	2.5	11.0	1.02	1.45	1.36	2.8	35.0	43.0
+1020126043	2023-09-23 10:55:00.068232	Eysseric, J/Mayot, H	Added, D/Olivetti, A	TENNIS	2.8	2.6	1.41	1.37	2.43	1.48	9.0	34.0
+1020126067	2023-09-24 04:12:24.630919	Bittoun Kouzmine, Constantin	Martín, Andrés	TENNIS	2.32	1.71	2.0	1.53	2.2	1.58	1.0	45.0
+1020126102	2023-09-24 02:54:59.599896	Xin Gao/Zhe Li	Murray, J/Venus, M	TENNIS	14.0	1.21	3.85	1.01	7.5	1.08	58.0	24.0
+1020126112	2023-09-24 03:45:04.803935	Zverev, Alexander	Kecmanovic, Miomir	TENNIS	1.41	5.6	1.13	2.7	1.17	4.6	29.0	53.0
+1020126313	2023-09-25 10:56:53.571780	CSU Atlassib Sibiu	CS Valcea 1924	BASKETBALL	1.55	31.0	-1.0	2.28	1.13	5.6	16.0	57.0
+1020126403	2023-09-24 13:59:28.610853	Ameghino de Villa María	Asociacion El Ceibo de San Francisco	BASKETBALL	4.0	7.5	1.05	1.2	2.32	1.54	17.0	31.0
+1020126406	2023-09-24 03:55:19.950964	Kozarov, Katarina	Falei, Aliona	TENNIS	17.0	1.08	7.0	-1.0	10.5	1.03	6.0	0.0
+1020126495	2023-09-24 01:59:14.855046	Al Ahly Cairo	Zhejiang Golden Bulls	BASKETBALL	25.0	7.5	1.05	-1.0	1.15	4.75	38.0	3.0
+1020126527	2023-09-24 14:09:41.934933	Bertola, R	Berankis, Ricardas	TENNIS	6.1	14.0	1.01	1.1	3.8	1.21	14.0	1.0
+1020126529	2023-09-24 02:57:43.264962	Ilkel, Cem	Hoang, Antoine	TENNIS	2.8	2.48	1.46	1.36	1.6	2.18	62.0	12.0
+1020126531	2023-09-24 02:55:40.475102	Paris, Tom	Poullain, Lucas	TENNIS	4.5	4.1	1.19	1.16	3.75	1.22	9.0	13.0
+1020126533	2023-09-24 10:48:58.707584	Ferreira Silva, Frederico	Gea, Arthur	TENNIS	1.54	18.0	-1.0	2.3	1.38	2.75	6.0	54.0
+1020126535	2023-09-24 09:07:17.583236	Bellucci, Mattia	Vincent Ruggeri, Samuel	TENNIS	6.1	16.0	-1.0	1.1	1.11	6.0	152.0	53.0
+1020126537	2023-09-24 12:19:22.077065	De Loore, Joris	Bertrand, Robin	TENNIS	5.2	5.6	1.11	1.13	1.15	4.7	122.0	51.0
+1020126579	2023-09-24 03:50:53.003853	Vale, Duarte	Sanchez-Izquierdo, Nikolas	TENNIS	3.7	1.22	3.65	1.22	3.7	1.22	0.0	0.0
+1020126583	2023-09-24 09:13:29.555430	Araujo, Pedro	Fonio, Giovanni	TENNIS	17.0	2.28	1.55	-1.0	5.0	1.13	59.0	11.0
+1020126584	2023-09-24 08:49:29.969070	Caruso, Salvatore	Kaliyanda Poonacha, Niki	TENNIS	1.19	17.0	-1.0	4.1	1.17	4.25	6.0	23.0
+1020126586	2023-09-24 03:51:13.481100	Guinard, Manuel	Sanchez Jover, Carlos	TENNIS	1.58	2.8	1.36	2.2	1.44	2.63	10.0	53.0
+1020126587	2023-09-24 03:51:13.444643	Fanselow, Sebastian	Taberner, Carlos	TENNIS	3.25	1.45	2.5	1.27	3.15	1.32	1.0	2.0
+1020126610	2023-09-24 10:09:40.459373	Ugo Carabelli, Camilo	Boyer, Tristan	TENNIS	3.25	15.0	-1.0	1.28	1.42	2.6	55.0	53.0
+1020126813	2023-09-24 16:41:49.396109	Stakusic, Marina	Kiick, Allie	TENNIS	1.77	121.0	-1.0	1.92	1.77	1.92	0.0	19.0
+1020126819	2023-09-24 10:57:15.197507	Galarneau, Alexis	Kudla, Denis	TENNIS	151.0	2.28	1.56	-1.0	1.76	2.04	51.0	34.0
+1020126829	2023-09-24 22:30:27.422979	Day, Kayla	Uchijima, Moyuka	TENNIS	1.81	51.0	-1.0	1.93	1.7	2.1	11.0	34.0
+1020126830	2023-09-25 21:00:46.540687	Kalinskaya, Anna	Alexandrova, Ekaterina	TENNIS	17.0	2.7	1.41	-1.0	2.38	1.52	145.0	25.0
+1020126831	2023-09-26 03:17:08.645934	Kasatkina, Daria	Kostyuk, Marta	TENNIS	2.18	2.88	1.37	1.62	1.52	2.55	22.0	35.0
+1020126832	2023-09-24 21:01:13.169203	Krueger, Ashlyn	Kalinina, Anhelina	TENNIS	181.0	2.18	1.61	-1.0	1.83	1.89	66.0	43.0
+1020126833	2023-09-25 23:42:10.196608	Pavlyuchenkova, Anastasia	Vekic, Donna	TENNIS	2.75	111.0	-1.0	1.4	2.12	1.72	5.0	52.0
+1020126835	2023-09-25 03:03:43.103290	Maria, Tatjana	Samsonova, Liudmila	TENNIS	161.0	1.34	3.0	-1.0	3.65	1.29	49.0	22.0
+1020126839	2023-09-25 02:05:57.881836	Avanesyan, Elina	Tauson, Clara	TENNIS	181.0	2.35	1.53	-1.0	2.12	1.66	74.0	46.0
+1020126840	2023-09-26 02:02:46.508245	Cirstea, Sorana	Liu, Claire	TENNIS	1.46	29.0	-1.0	2.55	1.2	4.1	52.0	19.0
+1020126842	2023-09-25 02:02:34.138587	Zvonareva, Vera	Boulter, Katie	TENNIS	4.1	13.0	1.02	1.21	3.2	1.35	9.0	17.0
+1020126843	2023-09-25 05:57:41.979380	Masarova, Rebeka	Fruhvirtova, Linda	TENNIS	3.55	8.5	1.06	1.26	1.34	3.3	87.0	39.0
+1020126844	2023-09-25 03:41:40.314162	Saville, Daria	Putintseva, Yulia	TENNIS	251.0	2.43	1.5	-1.0	2.06	1.7	65.0	42.0
+1020126846	2023-09-25 05:24:14.036370	Yue Yuan	Baindl, Kateryna	TENNIS	61.0	11.0	1.03	-1.0	1.74	2.0	132.0	58.0
+1020126847	2023-09-26 02:00:43.875299	Rus, Arantxa	Rakhimova, Kamilla	TENNIS	2.0	121.0	-1.0	1.73	1.66	2.12	8.0	26.0
+1020126862	2023-09-24 12:15:36.593635	Cross, Morgan	Bouzgarrou, Mouna	TENNIS	1.46	29.0	-1.0	2.48	1.19	4.0	10.0	9.0
+1020126863	2023-09-24 11:46:13.297061	Stara, Lenka	Oliver, Natalie	TENNIS	1.38	10.5	1.03	2.7	1.21	3.75	18.0	12.0
+1020126873	2023-09-24 09:03:52.281777	Dlimi, Yassine	Mayo, Aidan	TENNIS	12.0	6.5	1.09	1.01	2.15	1.61	166.0	52.0
+1020126874	2023-09-24 09:03:31.808607	Gomez, Federico Agustin	Lieberman, Henry	TENNIS	1.14	18.0	-1.0	4.9	1.02	10.5	17.0	54.0
+1020126875	2023-09-24 09:06:57.014620	Langmo, Christian	King, Darian	TENNIS	17.0	7.0	1.08	-1.0	1.9	1.8	160.0	1.0
+1020126876	2023-09-24 14:51:38.711958	Rodenas, Pedro	Ponwith, Nathan	TENNIS	3.45	7.0	1.08	1.25	1.52	2.33	118.0	4.0
+1020126877	2023-09-24 11:39:02.752719	Young, Donald	Kwiatkowski, Thai-Son	TENNIS	18.0	1.37	2.75	-1.0	3.25	1.27	81.0	44.0
+1020126878	2023-09-24 13:18:09.300568	Escobedo, Ernesto	Boulais, Justin	TENNIS	2.2	16.0	-1.0	1.58	1.25	3.5	59.0	40.0
+1020126880	2023-09-24 12:18:20.493098	Vasa, Eero	Moller, Elmer	TENNIS	18.0	1.65	2.06	-1.0	4.6	1.15	57.0	49.0
+1020126881	2023-09-24 15:12:45.710114	Zheng, Michael	Kozlov, Stefan	TENNIS	12.5	2.8	1.36	1.02	1.62	2.14	110.0	28.0
+1020126882	2023-09-24 17:21:57.037875	Zhu, Evan	Dostanic, Stefan	TENNIS	17.0	5.4	1.12	-1.0	3.0	1.3	1010.0	15.0
+1020126883	2023-09-24 12:12:52.653649	Schnur, Brayden	Holmgren, August	TENNIS	11.0	3.45	1.25	1.02	2.16	1.6	186.0	47.0
+1020126886	2023-09-24 10:32:59.721733	Kirchheimer, Strong	Pate, Carter	TENNIS	1.05	18.0	-1.0	8.5	1.05	9.5	8.0	11.0
+1020127059	2023-09-24 13:35:15.428635	Planelles Ripoll, Gerard	Savva, Stefanos	TENNIS	1.29	4.5	1.16	3.2	1.22	3.8	10.0	46.0
+1020127147	2023-09-24 11:58:31.584301	Carlsson Seger, Timothy	Rogers, Foster	TENNIS	2.95	161.0	-1.0	1.33	1.68	2.04	18.0	40.0
+1020127152	2023-09-24 17:57:21.250147	Farlie, Ethan	Ryan Ziegann, Sam	TENNIS	3.15	23.0	-1.0	1.29	2.43	1.48	15.0	24.0
+1020127208	2023-09-24 12:35:50.007884	Zakharov, Volodymyr	Smillie, Connor	TENNIS	41.0	1.94	1.75	-1.0	1.75	1.94	32.0	41.0
+1020127214	2023-09-24 08:49:50.358036	Partizán de Belgrado	FC Bayern München	BASKETBALL	5.1	8.0	1.04	1.13	2.12	1.67	34.0	26.0
+1020127236	2023-09-24 21:01:33.720765	Kamenoff, Darina	Berezov, Anastasia	TENNIS	1.86	91.0	-1.0	1.82	1.75	1.94	8.0	49.0
+1020127246	2023-09-24 20:10:05.239424	Singh, Soha	Aiava, Destanee	TENNIS	6.5	1.88	1.81	1.09	1.81	1.88	0.0	27.0
+1020127248	2023-09-24 19:43:33.926396	Baker, Caitlin	Lozitskaya, Eva	TENNIS	25.0	3.75	1.21	-1.0	1.77	1.91	153.0	37.0
+1020127250	2023-09-26 03:17:08.802186	Hontama, M/Uchijima, M	Aoyama, S/Shibahara, E	TENNIS	8.5	1.22	3.7	1.06	4.4	1.2	18.0	43.0
+1020127251	2023-09-25 01:21:06.645604	Marozava, L/Schoofs, B	Contreras Gomez, F/Papamichail, D	TENNIS	34.0	3.45	1.25	-1.0	1.72	2.05	85.0	19.0
+1020127256	2023-09-24 23:01:46.703879	Olmos, G/Stefani, L	Kudermetova, V/Pavlyuchenkova, A	TENNIS	11.5	4.4	1.17	1.03	1.91	1.8	78.0	2.0
+1020127264	2023-09-24 22:48:49.873888	Powell, Taya	Smith, Alicia	TENNIS	29.0	1.07	7.5	-1.0	7.5	1.07	13.0	42.0
+1020127271	2023-09-25 00:03:00.698297	Hulme, Matthew	Dumitru, Marin	TENNIS	4.1	91.0	-1.0	1.18	1.57	2.23	74.0	49.0
+1020127272	2023-09-24 20:00:21.188543	Scheers, Matthew	Gaal, Corey	TENNIS	5.3	1.4	2.65	1.12	4.0	1.2	11.0	3.0
+1020127273	2023-09-24 17:58:02.052126	Gadecki, Thomas	Beale, Jeremy	TENNIS	126.0	1.6	2.16	-1.0	8.0	1.05	97.0	10.0
+1020127274	2023-09-24 22:49:51.185938	Talic, Zaharije-Zak	Bataljin, Lawrence	TENNIS	67.0	2.35	1.5	-1.0	1.52	2.33	56.0	21.0
+1020127320	2023-09-25 09:38:32.067226	Agamenone, Franco	Maestrelli, Francesco	TENNIS	2.23	26.0	-1.0	1.58	1.97	1.73	26.0	13.0
+1020127322	2023-09-25 07:55:26.267710	Piros, Zsombor	Feldbausch, Kilian	TENNIS	4.2	29.0	-1.0	1.19	1.18	4.2	71.0	25.0
+1020127323	2023-09-25 10:18:57.887704	Blancaneaux, Geoffrey	Kolar, Zdenek	TENNIS	4.25	13.0	1.02	1.19	2.1	1.7	137.0	4.0
+1020127327	2023-09-25 09:30:35.525709	Choinski, Jan	Ajdukovic, Duje	TENNIS	34.0	13.0	1.01	-1.0	1.73	1.98	147.0	10.0
+1020127328	2023-09-26 08:49:22.821360	Elias, Gastão	Giannessi, Alessandro	TENNIS	1.75	1.95	1.75	1.95	1.75	1.95	0.0	0.0
+1020127337	2023-09-25 14:16:36.055323	Mpetshi Perricard, Giovanni	Johns, Garrett	TENNIS	9.5	3.65	1.24	1.05	1.29	3.25	94.0	38.0
+1020127339	2023-09-25 13:31:16.958025	Couacaud, Enzo	Poljicak, Mili	TENNIS	1.27	35.0	-1.0	3.3	1.06	8.0	72.0	24.0
+1020127341	2023-09-25 13:08:28.388379	Lokoli, Laurent	Krueger, Mitchell	TENNIS	2.12	30.0	-1.0	1.64	1.72	2.0	99.0	1.0
+1020127351	2023-09-25 12:09:51.102735	Molcan, Alex	Van Assche, Luca	TENNIS	21.0	41.0	-1.0	-1.0	1.79	1.91	139.0	27.0
+1020127353	2023-09-25 10:14:08.531533	Nardi, Luca	Grenier, Hugo	TENNIS	1.85	61.0	-1.0	1.84	1.6	2.28	6.0	1.0
+1020127355	2023-09-25 14:38:07.520945	Prizmic, Dino	Gaston, Hugo	TENNIS	46.0	1.86	1.83	-1.0	1.85	1.85	117.0	21.0
+1020127356	2023-09-25 16:47:45.649979	Diallo, Gabriel	Zeppieri, Giulio	TENNIS	35.0	3.45	1.26	-1.0	1.6	2.25	108.0	4.0
+1020127380	2023-09-25 03:23:52.722967	Hartono, A/Tjandramulia, O	Danilina, A/Panova, A	TENNIS	51.0	1.5	2.4	-1.0	3.45	1.26	55.0	59.0
+1020127387	2023-09-25 19:02:09.689501	Sciglitano, Lawrence	Amiryavari, Sohrob	TENNIS	4.1	9.5	1.03	1.18	1.84	1.84	0.0	26.0
+1020127388	2023-09-25 14:34:01.845897	Sherif, Lawee	Chiu, Jordan	TENNIS	14.0	1.32	3.0	1.01	3.45	1.25	65.0	8.0
+1020127389	2023-09-25 15:15:21.468611	Mayo, Keenan	Pane, Lautaro	TENNIS	2.05	3.6	1.24	1.67	1.29	3.15	32.0	35.0
+1020127427	2023-09-25 00:04:22.126001	Doumbia, S/Reboul, F	Giron, M/Statham, J	TENNIS	1.82	13.0	1.01	1.88	1.24	3.55	22.0	54.0
+1020127428	2023-09-24 14:17:12.169916	Umf Tindastoll	Valur Reykjavik	BASKETBALL	20.0	5.1	1.12	-1.0	1.19	4.1	36.0	8.0
+1020127512	2023-09-24 22:11:23.905661	Oshino, Suzuho	Higashitani, Nagomi	TENNIS	1.52	17.0	-1.0	2.33	1.49	2.4	90.0	40.0
+1020127514	2023-09-24 20:03:25.785112	Kozaki, Funa	Arai, Aely	TENNIS	2.08	18.0	-1.0	1.64	1.6	2.18	18.0	13.0
+1020127515	2023-09-24 22:42:22.196370	Katsumi, Nanari	Oigawa, Suzuna	TENNIS	1.87	14.0	1.01	1.82	1.2	3.95	31.0	26.0
+1020127516	2023-09-24 21:49:55.952363	Nishimura, Kayo	Nagata, Anri	TENNIS	2.18	16.0	-1.0	1.6	1.81	1.87	18.0	2.0
+1020127517	2023-09-24 20:03:05.338175	Rioux, Lisa-Marie	Morisaki, Kanako	TENNIS	11.5	17.0	-1.0	1.02	1.54	2.28	144.0	36.0
+1020127518	2023-09-24 20:04:47.369127	Saigo, Yukina	Ogata, Haine	TENNIS	14.0	13.0	1.01	1.01	1.57	2.23	227.0	51.0
+1020127519	2023-09-24 20:09:44.721143	Yoshioka, Kisa	Nishimoto, Sera	TENNIS	1.28	17.0	-1.0	3.25	1.25	3.45	42.0	13.0
+1020127526	2023-09-24 12:01:36.121482	Fery, Arthur	Broom, Charles	TENNIS	3.35	13.0	1.01	1.26	1.56	2.25	53.0	50.0
+1020127527	2023-09-24 09:03:52.306083	Gautier, Alexis	Marie, Jules	TENNIS	15.0	1.63	2.12	1.01	2.43	1.48	84.0	27.0
+1020127537	2023-09-26 01:13:49.557826	Dart, Harriet	Kudermetova, Veronika	TENNIS	23.0	1.45	2.55	-1.0	3.45	1.29	84.0	12.0
+1020127538	2023-09-25 00:03:21.052351	Bucsa, Cristina	Saigo, Rina	TENNIS	1.18	251.0	-1.0	4.5	1.09	8.5	10.0	52.0
+1020127541	2023-09-25 04:22:29.970676	Hontama, Mai	Hibino, Nao	TENNIS	1.8	91.0	-1.0	1.94	1.8	1.94	0.0	0.0
+1020127542	2023-09-25 04:27:39.227287	Safiullin, Roman	Musetti, Lorenzo	TENNIS	1.86	181.0	-1.0	1.86	1.83	1.89	19.0	13.0
+1020127552	2023-09-25 21:01:27.264768	Krueger, A/Pegula, J	Eikeri, U/Neel, I	TENNIS	18.0	4.35	1.18	-1.0	1.44	2.55	96.0	53.0
+1020127558	2023-09-24 20:06:29.461918	O'Connell, Benjamin	Rai, Ajeet	TENNIS	18.0	1.04	9.5	-1.0	11.0	1.02	21.0	27.0
+1020127569	2023-09-24 21:46:10.993716	Klintcharov, Alexander	Schoeman, Marcus	TENNIS	1.49	111.0	-1.0	2.4	1.15	5.0	66.0	2.0
+1020127570	2023-09-25 04:30:03.553831	Hruncakova, Viktoria	Blinkova, Anna	TENNIS	26.0	2.07	1.7	-1.0	1.95	1.86	94.0	47.0
+1020127571	2023-09-25 02:02:34.122962	Bronzetti, Lucia	Teichmann, Jil	TENNIS	2.28	16.0	1.01	1.57	1.52	2.55	52.0	5.0
+1020127572	2023-09-24 14:08:20.092786	Hurkacz, H/Rublev, A	Shelton, B/Tiafoe, F	TENNIS	10.5	2.6	1.45	1.03	1.7	2.05	102.0	49.0
+1020127732	2023-09-25 10:01:41.286874	LCC Tarptautinis Universitetas (W)	BC Neptūnas (F)	BASKETBALL	14.0	6.75	1.06	-1.0	4.2	1.17	18.0	33.0
+1020127806	2023-09-26 02:00:43.890921	Savinykh, Valeria	Gracheva, Varvara	TENNIS	6.75	7.5	1.08	1.09	2.65	1.42	33.0	14.0
+1020127807	2023-09-25 03:33:47.923888	Hoang, Antoine	Poullain, Lucas	TENNIS	16.0	1.88	1.8	-1.0	2.1	1.65	90.0	22.0
+1020127814	2023-09-25 04:30:44.730889	Khachanov, Karen	Korda, Sebastian	TENNIS	3.2	111.0	-1.0	1.32	2.3	1.62	20.0	15.0
+1020127815	2023-09-25 08:25:41.741237	Friedsam, Anna-Lena	Kvitova, Petra	TENNIS	226.0	1.48	2.48	-1.0	5.3	1.14	77.0	0.0
+1020127873	2023-09-25 04:01:32.905971	Sanchez Jover, Carlos	Fanselow, Sebastian	TENNIS	3.7	15.0	1.01	1.22	1.55	2.28	65.0	52.0
+1020127875	2023-09-25 04:02:14.007946	Stodder, Timo	Sanchez-Izquierdo, Nikolas	TENNIS	5.3	17.0	-1.0	1.12	1.84	1.84	33.0	19.0
+1020127880	2023-09-25 07:40:24.510660	Korda, S/Mcdonald, M	Murray, J/Venus, M	TENNIS	181.0	1.52	2.33	-1.0	3.1	1.3	41.0	43.0
+1020127890	2023-09-25 03:33:27.372466	Lamasine, Tristan	Gombos, Norbert	TENNIS	2.95	17.0	-1.0	1.33	2.25	1.55	6.0	53.0
+1020128120	2023-09-25 04:02:14.056136	Krutykh, Oleksii	Barranco Cosano, Javier	TENNIS	13.0	3.95	1.2	1.01	1.58	2.23	153.0	3.0
+1020128124	2023-09-25 06:18:29.404774	Zverev, Alexander	Dimitrov, Grigor	TENNIS	1.52	67.0	-1.0	2.43	1.48	2.48	9.0	0.0
+1020128129	2023-09-25 11:01:22.614545	Butvilas, E/Vaise, T	Giovannini, F/Giovannini, U M	TENNIS	1.21	18.0	-1.0	3.75	1.03	10.0	21.0	45.0
+1020128134	2023-09-25 05:30:43.588786	Ymer, Elias	Bourgue, Mathias	TENNIS	12.5	3.65	1.23	1.02	1.68	2.02	162.0	58.0
+1020128136	2023-09-25 06:40:41.847010	Nishioka, Yoshihito	Karatsev, Aslan	TENNIS	3.0	111.0	-1.0	1.34	2.05	1.77	12.0	37.0
+1020128142	2023-09-25 06:23:15.578456	Pereira, Tiago	Domingues, Joao	TENNIS	18.0	1.38	2.7	-1.0	3.5	1.25	64.0	4.0
+1020128199	2023-09-25 04:10:49.226261	Pavlou, Dimitra	Gettwart, Fabienne	TENNIS	5.5	15.0	-1.0	1.12	3.0	1.3	187.0	57.0
+1020128200	2023-09-25 04:04:17.833152	Rocchetti, Sofia	Steur, Joelle Lilly Sophie	TENNIS	15.0	4.8	1.14	1.01	1.58	2.2	240.0	31.0
+1020128201	2023-09-25 09:19:13.079265	Christofi, Eleni	Rame, Alice	TENNIS	3.75	10.0	1.03	1.21	2.4	1.48	55.0	0.0
+1020128202	2023-09-25 09:39:13.601970	Lovric, Pia	Karatancheva, Lia	TENNIS	17.0	10.0	1.04	-1.0	1.54	2.28	122.0	3.0
+1020128203	2023-09-25 10:39:19.777406	Pridankina, Elena	Bojovic, Jana	TENNIS	1.62	18.0	-1.0	2.14	1.12	5.4	40.0	34.0
+1020128413	2023-09-25 03:12:14.737718	Garcian, Axel	Muller, Rik	TENNIS	1.52	17.0	-1.0	2.33	1.52	2.33	0.0	16.0
+1020128414	2023-09-25 03:01:20.381948	Welte, Milan	Faure, Valentin	TENNIS	1.11	18.0	-1.0	5.75	1.11	5.75	0.0	13.0
+1020128415	2023-09-25 03:13:57.229813	Pierre, Hugo	Wallner, Mark	TENNIS	2.6	8.5	1.05	1.41	1.28	3.15	131.0	0.0
+1020128460	2023-09-25 03:12:35.320647	Bailly, Gilles Arnaud	Carraro, Luciano	TENNIS	1.67	17.0	-1.0	2.06	1.3	3.0	4.0	38.0
+1020128461	2023-09-25 03:05:25.359788	Jong, Alexander Maarten	Di Natale, Gian Matias	TENNIS	1.23	15.0	-1.0	3.55	1.19	4.1	9.0	44.0
+1020128462	2023-09-25 03:03:02.301901	Parizzia, Nicolas	Bagnolini, Daniel	TENNIS	21.0	2.8	1.37	-1.0	1.82	1.86	114.0	35.0
+1020128464	2023-09-25 03:04:03.566944	Pennaforti, Gabriele	La Vela, Giuseppe	TENNIS	2.12	201.0	-1.0	1.63	1.77	1.92	14.0	9.0
+1020128465	2023-09-25 03:07:48.636195	Misasi, Giannicola	Catini, Niccolo	TENNIS	3.05	23.0	-1.0	1.32	2.63	1.41	9.0	25.0
+1020128466	2023-09-25 03:06:26.797975	Marino, Pietro	Donders, Dax	TENNIS	41.0	3.05	1.3	-1.0	1.98	1.72	123.0	32.0
+1020128471	2023-09-25 09:48:53.939673	Vanta, Valentin	Hrazdil, Jan	TENNIS	18.0	1.73	1.96	-1.0	3.5	1.24	102.0	55.0
+1020128475	2023-09-25 09:09:54.462514	Pontjodikromo, Sidane	Kivattsev, Kirill	TENNIS	46.0	2.95	1.32	-1.0	2.4	1.49	85.0	42.0
+1020128476	2023-09-25 08:38:32.318806	Massacri, Benito	Compagnucci, Tommaso	TENNIS	201.0	1.05	8.5	-1.0	8.5	1.05	9.0	46.0
+1020128477	2023-09-25 08:19:50.363174	Andaloro, Fabrizio	Serafini, Marcello	TENNIS	5.0	5.75	1.11	1.13	3.25	1.28	112.0	20.0
+1020128478	2023-09-25 08:28:48.345398	Tabacco, Fausto	Tammaro, Mariano	TENNIS	29.0	4.0	1.19	-1.0	1.43	2.55	154.0	41.0
+1020128481	2023-09-25 05:25:36.115047	Bellucci, Mattia	Marie, Jules	TENNIS	1.41	16.0	-1.0	2.6	1.33	2.95	9.0	46.0
+1020128502	2023-09-25 10:19:18.543883	King, Darian	Mayo, Aidan	TENNIS	17.0	2.05	1.67	-1.0	1.76	1.93	69.0	23.0
+1020128503	2023-09-25 07:09:40.514953	De Jonge, Daniel	Martinez, Louroi	TENNIS	1.97	18.0	-1.0	1.72	1.97	1.72	0.0	47.0
+1020128504	2023-09-25 06:36:57.440908	Vincent, Antoine	Schambil, Vincent	TENNIS	1.89	12.5	1.01	1.79	1.03	11.0	58.0	19.0
+1020128506	2023-09-25 04:47:34.990780	Lestir, Loan	Calzi, Raphael	TENNIS	9.5	2.33	1.52	1.04	1.98	1.72	89.0	42.0
+1020128543	2023-09-25 10:34:29.952628	Kirchheimer, Strong	Moller, Elmer	TENNIS	1.83	18.0	-1.0	1.85	1.73	1.97	6.0	4.0
+1020128557	2023-09-25 09:07:50.057448	Gomez, Federico Agustin	Holmgren, August	TENNIS	12.0	1.73	1.97	1.01	1.97	1.73	79.0	41.0
+1020128693	2023-09-25 10:26:33.817840	Muntean, Victoria	Zaar, Lisa	TENNIS	10.0	9.5	1.04	1.03	2.32	1.53	128.0	31.0
+1020128697	2023-09-25 06:52:16.677901	Garcia, Maria	Jorge, Matilde	TENNIS	18.0	-1.0	15.0	-1.0	18.0	-1.0	0.0	19.0
+1020128698	2023-09-25 10:10:41.609031	Lene, Emma	Bolkvadze, Mariam	TENNIS	18.0	1.57	2.23	-1.0	3.15	1.29	87.0	31.0
+1020128704	2023-09-25 08:10:32.150352	Guerrero Alvarez, Eva	Ibbou, Ines	TENNIS	1.19	14.0	1.01	4.0	1.1	6.25	5.0	51.0
+1020128705	2023-09-25 06:39:20.264208	Grechkina, Anastasia	Daavettila, Sara	TENNIS	5.5	15.0	1.01	1.11	4.8	1.14	18.0	38.0
+1020128709	2023-09-25 08:31:17.142639	Ferreira Silva, Frederico	Fery, Arthur	TENNIS	15.0	1.77	1.91	-1.0	1.98	1.71	88.0	15.0
+1020128710	2023-09-25 06:59:46.800332	Bertrand, Robin	Bertola, R	TENNIS	17.0	3.8	1.22	-1.0	1.71	1.98	90.0	32.0
+1020128715	2023-09-25 09:29:12.856304	Tosetto, Rafael	Hess, Sean	TENNIS	17.0	2.8	1.37	-1.0	1.64	2.1	80.0	16.0
+1020128716	2023-09-25 12:16:01.463460	Schiessl, Joao Eduardo	Zeitune, Gonzalo	TENNIS	1.18	18.0	-1.0	4.2	1.08	6.75	11.0	16.0
+1020128717	2023-09-25 10:12:45.741913	Vazquez, Candela	Reayer, Alisha	TENNIS	1.84	11.5	1.02	1.84	1.84	1.84	0.0	1.0
+1020128718	2023-09-25 11:24:29.913736	Bruna, Nicolas	Alvarado Berrospi, Alberto Odiseo	TENNIS	1.61	18.0	-1.0	2.14	1.36	2.95	32.0	59.0
+1020128719	2023-09-25 10:55:10.096046	Del Pino, Mateo	Ortiz, Oscar Gabriel	TENNIS	1.84	3.75	1.22	1.84	1.82	1.86	61.0	22.0
+1020128720	2023-09-25 08:03:39.139767	Labrana, Fernanda	Markus, Carla	TENNIS	1.32	18.0	-1.0	3.0	1.17	4.2	11.0	46.0
+1020128721	2023-09-25 11:31:24.134007	Fernandez, Bruno	Lima, Franco	TENNIS	1.26	18.0	-1.0	3.4	1.26	3.4	0.0	6.0
+1020128722	2023-09-25 09:45:05.743728	Estevez, Juan	Garcia Longo, Nicolas	TENNIS	1.07	18.0	-1.0	7.5	1.04	9.5	6.0	57.0
+1020128723	2023-09-25 08:05:22.193660	Diaz Zayas, Lara	Ibiraba Melleiro Junior, Catarina Melleiro	TENNIS	2.08	18.0	-1.0	1.66	1.55	2.28	57.0	46.0
+1020128724	2023-09-25 08:02:37.413812	Estable, Julieta Lara	Romero, Camila	TENNIS	1.11	18.0	-1.0	6.0	1.1	6.4	7.0	29.0
+1020128725	2023-09-25 08:05:01.531194	Bovio, Martina Maria	Merlo, Rocio Daniela	TENNIS	4.4	8.0	1.07	1.16	2.14	1.62	65.0	39.0
+1020128726	2023-09-25 10:22:04.261155	Giovannini, Luisina	Rodriguez, Juliana	TENNIS	-1.0	16.0	-1.0	16.0	-1.0	16.0	0.0	5.0
+1020128727	2023-09-25 08:19:08.965557	Hinojosa Gomez, Jessica	Rabin, Sol	TENNIS	1.07	18.0	-1.0	7.5	1.07	8.0	0.0	29.0
+1020128728	2023-09-25 10:54:28.700161	Lima, Enzo	Gagliardo, Lorenzo	TENNIS	18.0	1.14	5.0	-1.0	6.1	1.1	40.0	39.0
+1020128730	2023-09-25 08:06:44.685213	Torres Murcia, Maria Camila	Gonzalez Daniele, Justina	TENNIS	2.4	11.0	1.02	1.49	1.77	1.92	134.0	36.0
+1020128738	2023-09-25 10:41:03.085115	Escobedo, Ernesto	Rodenas, Pedro	TENNIS	2.33	17.0	-1.0	1.52	1.32	2.95	46.0	19.0
+1020128750	2023-09-25 15:22:31.582408	Tran, Haley	Ricci, Campbell	TENNIS	16.0	1.62	2.14	-1.0	2.75	1.38	94.0	48.0
+1020128752	2023-09-25 15:45:42.797980	Gavrea, Matei	Shelton, Robert	TENNIS	23.0	1.95	1.75	-1.0	3.15	1.29	54.0	55.0
+1020128753	2023-09-25 15:47:25.075008	Wardy, Athena	Douglas, Paisha	TENNIS	16.0	1.48	2.43	-1.0	3.3	1.28	37.0	41.0
+1020128754	2023-09-25 08:09:09.108138	Bocchi, L/Carnevalle, L	Donald, M W/Nicod, J	TENNIS	17.0	1.64	2.1	-1.0	7.5	1.07	25.0	34.0
+1020128970	2023-09-25 08:40:57.057573	Gyeong Seo Lee	Radovanovic, Nina	TENNIS	8.5	11.0	1.02	1.05	2.25	1.56	50.0	49.0
+1020128977	2023-09-26 08:23:34.550744	Oliveira, Goncalo	Piraino, Gabriele	TENNIS	1.3	5.1	1.13	3.0	1.23	3.6	14.0	53.0
+1020128982	2023-09-26 08:37:57.898477	Lopez Montagud, Carlos	Picchione, Andrea	TENNIS	1.88	2.55	1.43	1.8	1.67	2.04	5.0	19.0
+1020128983	2023-09-26 02:59:03.130230	Bondioli, Federico	Tabacco, Giorgio	TENNIS	4.5	1.75	1.94	1.16	4.2	1.2	20.0	20.0
+1020129013	2023-09-26 02:05:50.735832	Qianhui Tang/Yue Yuan	Hanyu Guo/Xinyu Jiang	TENNIS	61.0	1.82	1.87	-1.0	1.88	1.81	82.0	58.0
+1020129067	2023-09-25 14:14:53.892997	Harrison, Catherine	Smith, Alana	TENNIS	3.35	6.1	1.1	1.26	2.4	1.49	95.0	59.0
+1020129068	2023-09-25 17:49:20.454227	Herazo Gonzalez, Maria	Corley, Ivana	TENNIS	4.5	14.0	1.01	1.16	1.21	3.9	115.0	59.0
+1020129069	2023-09-25 17:29:33.293253	Corley, Carmen	Hu, Victoria	TENNIS	14.0	10.0	1.03	1.01	4.6	1.15	65.0	47.0
+1020129071	2023-09-25 14:40:51.605770	McAdoo, Rasheeda	Vecic, Alexandra	TENNIS	34.0	6.5	1.09	-1.0	2.4	1.49	142.0	39.0
+1020129072	2023-09-25 13:17:39.875377	Bozovic, Alexandra	Wiersholm, Katja	TENNIS	1.46	11.5	1.02	2.48	1.36	2.8	102.0	52.0
+1020129073	2023-09-25 17:11:53.873159	McKenzie, Kylie	Miroshnichenko, Veronika	TENNIS	76.0	1.74	1.96	-1.0	4.1	1.19	117.0	5.0
+1020129075	2023-09-25 13:45:15.360683	Mateas, Maria	Peyre, Lucia	TENNIS	29.0	3.85	1.21	-1.0	1.28	3.15	98.0	10.0
+1020129077	2023-09-25 15:41:37.471114	Hanna Chang	Douglas, Ellie	TENNIS	1.71	91.0	-1.0	1.98	1.63	2.12	9.0	48.0
+1020129078	2023-09-25 15:37:52.377204	Kingsley, Raveena	Kozyreva, Maria	TENNIS	13.0	11.0	1.03	1.02	1.3	3.1	110.0	21.0
+1020129080	2023-09-25 19:32:28.619102	Partaud, Marine	Giavara, Haley	TENNIS	5.25	1.96	1.73	1.12	2.75	1.38	56.0	33.0
+1020129082	2023-09-25 12:01:17.827996	Daniel, Jaeda	Mboko, Victoria	TENNIS	51.0	1.12	5.6	-1.0	7.5	1.07	51.0	52.0
+1020129117	2023-09-25 11:52:23.066462	Kotwica Kołobrzeg	Victoria Górnik Wałbrzych	BASKETBALL	14.0	15.0	-1.0	-1.0	1.98	1.77	10.0	28.0
+1020129159	2023-09-25 19:01:08.384046	Ganaderas de Hatillo (W)	Montaneras De Morovis (W)	BASKETBALL	1.58	5.8	1.08	2.2	1.47	2.45	25.0	10.0
+1020129441	2023-09-25 22:53:31.050678	Sakatsume, Himeno	Noskova, Linda	TENNIS	35.0	1.3	3.2	-1.0	3.95	1.26	89.0	41.0
+1020129776	2023-09-25 06:51:56.186076	Pellegrino, Andrea	Dennis Novak	TENNIS	51.0	12.5	1.02	-1.0	2.28	1.56	25.0	47.0
+1020130082	2023-09-25 23:52:21.731233	Harris, Lloyd	Altmaier, Daniel	TENNIS	2.23	14.0	1.01	1.56	1.56	2.23	11.0	39.0
+1020130084	2023-09-25 21:54:41.094450	Purcell, Max	Hanwen Li	TENNIS	1.68	18.0	-1.0	2.04	1.04	9.0	48.0	44.0
+1020130085	2023-09-26 01:10:02.952289	Hanfmann, Yannick	Lajovic, Dusan	TENNIS	2.16	11.5	1.02	1.6	1.84	1.84	14.0	48.0
+1020130086	2023-09-25 21:54:41.121450	Nakashima, Brandon	Vukic, Aleksandar	TENNIS	16.0	3.2	1.28	-1.0	1.58	2.33	99.0	55.0
+1020130087	2023-09-25 21:54:41.066299	Arnaldi, Matteo	Galan, Daniel Elahi	TENNIS	2.88	13.0	1.01	1.34	1.32	3.05	173.0	14.0
+1020130105	2023-09-25 09:04:44.276228	Benson, Maxwell	Mikkelsen, Felipe	TENNIS	2.0	9.5	1.04	1.7	1.25	3.45	57.0	16.0
+1020130140	2023-09-26 00:04:16.650555	Daniel, Taro	Napolitano, Stefano	TENNIS	1.61	15.0	-1.0	2.15	1.32	3.0	42.0	18.0
+1020130143	2023-09-26 01:49:50.517704	Donskoy, Evgeny	Rodionov, Jurij	TENNIS	18.0	1.55	2.25	-1.0	2.25	1.55	48.0	47.0
+1020130144	2023-09-26 00:05:17.996587	Purtseladze, Saba	Shimabukuro, Sho	TENNIS	18.0	1.49	2.38	-1.0	5.5	1.12	23.0	56.0
+1020130145	2023-09-26 03:18:30.727186	Marozsan, Fabian	Kachmazov, Alibek	TENNIS	2.55	2.7	1.4	1.43	1.4	2.7	19.0	51.0
+1020130621	2023-09-26 02:48:48.708083	Xin Gao/Qian Sun	Chandrasekar, A/Prashanth, N V S	TENNIS	8.5	1.49	2.4	1.05	3.8	1.22	47.0	41.0
+1020130711	2023-09-26 03:23:17.954706	Lammons, N/Withrow, J	Murray, J/Venus, M	TENNIS	1.86	2.16	1.64	1.86	1.86	1.86	0.0	0.0
+1020130742	2023-09-25 12:07:06.786815	Dostanic, Stefan	Kozlov, Stefan	TENNIS	1.89	15.0	-1.0	1.79	1.86	1.82	4.0	38.0
+1020130819	2023-09-26 03:06:33.805446	In-Albon, Ylena	Evtimova, Dia	TENNIS	1.05	25.0	-1.0	8.5	1.05	8.5	0.0	12.0
+1020130827	2023-09-26 03:35:42.123231	Fery, Arthur	Huesler, Marc-Andrea	TENNIS	2.28	1.74	1.97	1.54	2.02	1.71	6.0	27.0
+1020130828	2023-09-26 03:06:33.836708	Donders, Dax	Michalski, Daniel	TENNIS	17.0	1.08	7.0	-1.0	7.0	1.08	32.0	7.0
+1020130939	2023-09-26 08:33:50.852663	Pridankina, Elena	Herdzelas, Dea	TENNIS	1.61	4.0	1.2	2.15	1.3	3.05	19.0	43.0
+1020130950	2023-09-26 08:52:07.796155	Dinu, Cristina	Amariei, Ilinca Dalina	TENNIS	1.5	4.35	1.17	2.35	1.17	4.35	4.0	16.0
+1020130955	2023-09-26 08:07:28.889901	Potocnik, Nina	Nahimana, Sada	TENNIS	5.3	1.79	1.89	1.13	2.33	1.52	43.0	20.0
+1020130961	2023-09-26 08:35:54.151882	Kirchheimer, Strong	Kodat, Toby Alex	TENNIS	2.16	2.0	1.71	1.61	1.86	1.83	8.0	18.0
+1020130962	2023-09-26 08:35:54.126403	Dostanic, Stefan	Ritschard, Alexander	TENNIS	1.91	2.65	1.41	1.79	1.85	1.85	6.0	31.0
+1020130963	2023-09-26 08:36:55.893839	Geerts, Michael	Mayo, Aidan	TENNIS	1.76	2.25	1.56	1.95	1.64	2.12	10.0	15.0
+1020131017	2023-09-26 08:07:28.921225	Rodriguez, Victoria	Ccuno, Romina	TENNIS	1.87	5.4	1.12	1.82	1.24	3.6	31.0	58.0
+1020131685	2023-09-26 08:13:18.570983	Mcphee, K/Smith, T N	Evtimova, D/Hennemann, C W	TENNIS	3.35	4.7	1.15	1.27	1.87	1.81	18.0	11.0
+1020131833	2023-09-26 00:36:39.422246	Hosogi, Sakura	Papamichail, Despina	TENNIS	46.0	1.57	2.3	-1.0	3.7	1.24	144.0	39.0
+1020132003	2023-09-26 02:32:46.311621	Statham, Rubin	Coppejans, Kimmer	TENNIS	8.0	1.5	2.38	1.06	3.8	1.21	39.0	35.0
+1020132004	2023-09-26 01:35:34.477941	Erler, A/Miedler, L	Hanwen Li/Zhe Li	TENNIS	1.24	16.0	-1.0	3.45	1.24	3.45	0.0	0.0
