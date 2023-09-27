@@ -28,6 +28,7 @@ INNER JOIN apuesta ON
     ap.apuesta_idapuesta = apuesta.idapuesta
 INNER JOIN categoria ON
     apuesta.categoria_nombre_categoria=categoria.nombre_categoria
+WHERE strftime('%Y-%m-%d',apuesta.fecha)='2023-09-26'
 GROUP BY 
     ap.apuesta_idapuesta;
 
