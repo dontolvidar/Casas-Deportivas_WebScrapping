@@ -78,7 +78,7 @@ def timer(timer_runs):
             except:
                 print("Error en el server")
             i+=1
-        time.sleep(120)
+        time.sleep(30)
 try:
     timer_runs = threading.Event()
     timer_runs.set()
