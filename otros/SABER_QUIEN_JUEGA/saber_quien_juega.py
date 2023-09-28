@@ -20,6 +20,11 @@ nombres=["Karatancheva, Lia"
          ,"Kiick, Allie"#activenme mañana
          ,"Peyre, Lucia"
          ,"Kozyreva, Maria"
+         ,"Quinn, Ethan"
+         ,"Tikhonova, Anastasia"
+         ,"Alexandrova, Ekaterina"
+         "Corley, Carmen"
+         
          #,"Limoges CSP"#hasta el 30 de abril
         
         ]#REVISAR ADKAR Y NAGATA
