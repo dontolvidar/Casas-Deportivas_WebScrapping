@@ -23,7 +23,7 @@ nombres=["Karatancheva, Lia"
          ,"Quinn, Ethan"
          ,"Tikhonova, Anastasia"
          ,"Alexandrova, Ekaterina"
-         "Corley, Carmen"
+         ,"Corley, Carmen"
          
          #,"Limoges CSP"#hasta el 30 de abril
         
