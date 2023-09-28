@@ -20,7 +20,6 @@ nombres=["Karatancheva, Lia"
          ,"Kiick, Allie"#activenme mañana
          ,"Peyre, Lucia"
          ,"Kozyreva, Maria"
-         ,"Quinn, Ethan"
          ,"Tikhonova, Anastasia"
          ,"Alexandrova, Ekaterina"
          ,"Corley, Carmen"
