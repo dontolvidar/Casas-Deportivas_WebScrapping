@@ -17,7 +17,7 @@ class Saber_de_sportium():
 
         # Inicializar el webdriver y abrir la página web
         driver = webdriver.Chrome(options=options)
-        driver.get("https://sports.sportium.com.co/sports/tennis/matches/48h?lang=es-CO")
+        driver.get("https://sports.sportium.com.co/sports/tennis/matches/today?lang=es-CO")
 
         # 
 
