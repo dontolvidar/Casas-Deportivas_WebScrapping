@@ -7,9 +7,25 @@ from tkinter import *
 from tkinter import messagebox as MessageBox
 from mandar_correo import Correo
 from saber_sportium_selenium import Saber_de_sportium
+import re
 mandarcorreo=Correo()
-sportium=Saber_de_sportium()
+
 #eleccion=int(input("Santafe(1) o Real madrid(2)  escoja entre '1 ó 2' "))
+try:
+    def coincidencia(str_peque,str_grande):
+        lista_grande=str_grande.split(' ')
+        lista_peque=str_peque.split(', ')
+        lista_booleanos=[]
+        for p in lista_peque:
+            boleano=False
+            for g in lista_grande:
+                boleano=g==p
+                if boleano:break
+            lista_booleanos.append(boleano)        
+        return all(lista_booleanos)
+except:
+    print("Error en las coincidencias")
+
 nombres=["Karatancheva, Lia"
          ,"Faria, Jaime"#activenme miercoles
          ,"Blanch, Dali"
@@ -26,7 +42,6 @@ nombres=["Karatancheva, Lia"
          ,"Tikhonova, Anastasia"
          ,"Alexandrova, Ekaterina"
          ,"Corley, Carmen"
-         
          #,"Limoges CSP"#hasta el 30 de abril
         
         ]#REVISAR ADKAR Y NAGATA
@@ -41,40 +56,37 @@ def timer(timer_runs):
         
         
         
-        i=0
         print("")
-        x=sportium.saber_de_sportium ()
-        for nombre in nombres:
-            
-            try:
-                for nombre_sportium in x:
-                    if nombre==nombre_sportium["equipo1"]:
-                        mandarcorreo.enviar_correo(json.dumps(nombre_sportium, indent=5))
-                        print("Alerta "+json.dumps(nombre_sportium, indent=5))
-                        del nombres[i]
-                    elif nombre==nombre_sportium["equipo2"]:
-                        mandarcorreo.enviar_correo(json.dumps(nombre_sportium, indent=5))
-                        print("Alerta "+json.dumps(nombre_sportium, indent=5))
-                        del nombres[i]
-                    else:
-                        pass
+       
+        try:
+            hora_objetivo1 = datetime.time(0, 7, 0)
+            hora_objetivo2 = datetime.time(0, 13, 0)
+            hora_actual = datetime.datetime.now().time()
+    
+            if hora_actual >= hora_objetivo1 and hora_actual <= hora_objetivo2:
+                sportium=Saber_de_sportium()
+                x=sportium.saber_de_sportium ()
+                for nombre in nombres:
                     
+
+                    if nombre=="Claire, Liu": 
+                        print(nombre)
+                    for nombre_sportium in x:
+                        if  coincidencia(nombre,nombre_sportium["equipo1"]):
+                            mandarcorreo.enviar_correo("apostar por "+nombre+"\n"+json.dumps(nombre_sportium, indent=5))
+                            print("Alerta "+json.dumps(nombre_sportium, indent=5))
+                        elif coincidencia(nombre,nombre_sportium["equipo2"]):
+                            mandarcorreo.enviar_correo("apostar por "+nombre+"\n"+json.dumps(nombre_sportium, indent=5))
+                            print("Alerta "+json.dumps(nombre_sportium, indent=5))
+                        else:
+                            pass
+            else:
+                print("El programa se salio de la hora")
                 
-                
-                """
-                hora_objetivo1 = datetime.time(23, 53, 0)
-                hora_objetivo2 = datetime.time(23, 56, 0)
-                hora_actual = datetime.datetime.now().time()
-                if hora_actual >= hora_objetivo1 and hora_actual <= hora_objetivo2:
-                    nombres.clear()
-                    nombres_formateados.clear()
-                    for x in range(0,len(backup_nombres)):
-                        nombres.append(backup_nombres[x])
-                        nombres_formateados.append(backup_nombres_formateados[x])"""
-            except:
-                print("Error en el server")
-            i+=1
-        time.sleep(30)
+        except:
+            print("Error en el server")
+        
+        time.sleep(120)
 try:
     timer_runs = threading.Event()
     timer_runs.set()
