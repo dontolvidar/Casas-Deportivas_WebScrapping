@@ -42,6 +42,15 @@ nombres=["Karatancheva, Lia"
          ,"Tikhonova, Anastasia"
          ,"Alexandrova, Ekaterina"
          ,"Corley, Carmen"
+         ,"Elan Chalon"
+         ,"Vismane, Daniela"
+         ,"Pavlou, Dimitra"
+         ,"Norrkoping Dolphins"
+         ,"Radisic, Nika"
+         ,"De Vivo, Nicholas"
+         ,"Kay, Simone"
+         ,"Shnaider, Diana"
+         ,"Kolyachev, Nikola"
          #,"Limoges CSP"#hasta el 30 de abril
         
         ]#REVISAR ADKAR Y NAGATA

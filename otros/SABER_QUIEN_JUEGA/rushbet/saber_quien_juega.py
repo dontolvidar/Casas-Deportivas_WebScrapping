@@ -9,9 +9,10 @@ from mandar_correo import Correo
 mandarcorreo=Correo()
 #eleccion=int(input("Santafe(1) o Real madrid(2)  escoja entre '1 ó 2' "))
 nombres=["Karatancheva, Lia"
-         #,"Faria, Jaime"#activenme miercoles
-         ,"Blanch, Dali",
-          "Adkar","Nagata"
+         ,"Faria, Jaime"#activenme miercoles
+         ,"Blanch, Dali"
+         ,"Adkar"
+         ,"Nagata"
          ,"Chopra, Keshav"
          ,"Douglas, Ellie"
          ,"Kestelboim, Mariano"
@@ -23,10 +24,19 @@ nombres=["Karatancheva, Lia"
          ,"Tikhonova, Anastasia"
          ,"Alexandrova, Ekaterina"
          ,"Corley, Carmen"
-         
+         ,"Elan Chalon"
+         ,"Vismane, Daniela"
+         ,"Pavlou, Dimitra"
+         ,"Norrkoping Dolphins"
+         ,"Radisic, Nika"
+         ,"De Vivo, Nicholas"
+         ,"Kay, Simone"
+         ,"Shnaider, Diana"
+         ,"Kolyachev, Nikola"
          #,"Limoges CSP"#hasta el 30 de abril
         
         ]#REVISAR ADKAR Y NAGATA
+
 nombres_formateados = []
 for string in nombres:
     string_modificado = string.replace(" ", "%20")
