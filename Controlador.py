@@ -32,7 +32,7 @@ def timer(timer_runs):
             for evento in lista_de_eventos:
                 
                 
-                if (evento['event']['sport']=="TENNIS" or evento['event']['sport']=="BASKETBALL") and 'mainBetOffer' in evento:
+                if (evento['event']['sport']=="TENNIS") and 'mainBetOffer' in evento:
                     event=evento['event']
                     mainbetofer=evento['mainBetOffer']
                     livedata=evento['liveData']
