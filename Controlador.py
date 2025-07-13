@@ -49,7 +49,7 @@ def timer(timer_runs):
                         categoria.set_nombre_categoria(event['sport'])
                         print ("error categoria")
                     
-                    #apuesta
+                    #partido
                     try:
                         idapuesta=livedata['eventId']
                         equipo1=evento['homeName']
@@ -68,72 +68,89 @@ def timer(timer_runs):
                         print ("error apuesta")
                     
                     
-                    #apuesta tiempo 
+                    #datos en vivo del partido
+                    idapuesta_tiempo = 0
+                    periodo = ""
+                    tiempo_minutos = 0.0
+                    tiempo_segundos = 0.0
+                    cuota1 = 0.0
+                    cuota2 = 0.0
+                    score_global_live1 = 0
+                    score_global_live2 = 0
+                    apuesta_idapuesta = 0
+                    tiempo_minutos_faltante = -1 # O datetime.datetime.now() si prefieres la fecha y hora actual
+                    tiempo_segundos_faltante = -1 # O datetime.datetime.now()
+                    puntajecuarto_actual_equipo_1 = ""
+                    puntajecuarto_actual_equipo_2 = ""
+                    ultima_accion = ""
+                    nonLiveBoCount = ""
+                    liveBoCount = ""
+                    criterion1 = ""
+                    criterion2 = ""
+                    cuota1_american = ""
+                    cuota2_american = ""
+                    nombre_equipo_1 = ""
+                    nombre_equipo_2 = ""
+                    apuesta_abierta_equipo_1 = ""
+                    apuesta_abierta_equipo_2 = ""
+                    
+                    
+                    
                     try:
-                        
-                        idapuesta=None
-                        periodo=livedata['matchClock']['period'] if 'period' in livedata['matchClock'] else ""
-                        tiempo_minutos=livedata['matchClock']['minute'] if 'minute' in livedata['matchClock'] else -1
-                        tiempo_segundos=livedata['matchClock']['second'] if 'second' in livedata['matchClock'] else -1
-                        cuota1=mainbetofer['outcomes'][0]['odds']/1000 if 'odds' in mainbetofer['outcomes'][0] else -1
-                        cuota2=mainbetofer['outcomes'][1]['odds']/1000 if 'odds' in mainbetofer['outcomes'][1] else -1
-                        
-                        score_global_live1=livedata['score']['home'] if 'home' in livedata['score'] else -1
-                        score_global_live2=livedata['score']['away'] if 'away' in livedata['score'] else -1    
-                        
-                        score1_set1=-1
-                        score2_set1=-1
-                        score1_set2=-1
-                        score2_set2=-1
-                        score1_set3=-1
-                        score2_set3=-1
-                        score1_set4=-1
-                        score2_set4=-1
-                        score1_set5=-1
-                        score2_set5=-1
-                        quien_sirve_tenis=""
-                        if categoria.get_nombre_categoria()=="TENNIS":
-                            if (len(livedata['statistics']['sets']['home'])<=3):
-                                score1_set1=livedata['statistics']['sets']['away'][0]
-                                score2_set1=livedata['statistics']['sets']['home'][0]
-                                score1_set2=livedata['statistics']['sets']['home'][1]
-                                score2_set2=livedata['statistics']['sets']['away'][1]
-                                score1_set3=livedata['statistics']['sets']['home'][2]
-                                score2_set3=livedata['statistics']['sets']['away'][2]
+                        # verifica que este activo el equipo 1
+                        if 0 in evento['mainBetOffer'] or 1 in evento['mainBetOffer']:
+                            periodo=livedata['matchClock']['period'] if 'period' in livedata['matchClock'] else ""
+                            tiempo_minutos=livedata['matchClock']['minute'] if 'minute' in livedata['matchClock'] else -1
+                            tiempo_segundos=livedata['matchClock']['second'] if 'second' in livedata['matchClock'] else -1
+                            
+                            
+                            score_global_live1=livedata['score']['home'] if 'home' in livedata['score'] else -1
+                            score_global_live2=livedata['score']['away'] if 'away' in livedata['score'] else -1    
+                            
+                            tiempo_minutos_faltante = livedata['matchClock']['minutesLeftInPeriod'] 
+                            tiempo_segundos_faltante = livedata['matchClock']['secondsLeftInMinute']
+
+                            puntajecuarto_actual_equipo_1 = evento['liveData']['info'] #arreglar
+                            puntajecuarto_actual_equipo_2 = evento['liveData']['info'] #arreglar
+                            
+                            
+                            ultima_accion = evento['liveData']['who']
+                            nonLiveBoCount = evento['nonLiveBoCount']
+                            liveBoCount = evento['liveBoCount']
+                            
+                            
+                        if 0 in evento['mainBetOffer']:
+                            nombre_equipo_1=mainbetofer['outcomes'][0]['label']
+                            cuota1=mainbetofer['outcomes'][0]['odds']/1000 if 'odds' in mainbetofer['outcomes'][0] else -1
+                            criterion1 = evento['mainBetOffer']['outcomes'][0]['criterion']['label']
+                            cuota1_american=evento['mainBetOffer']['outcomes'][0]['oddsAmerican']
+                            apuesta_abierta_equipo_1=evento['mainBetOffer']['outcomes'][0]['status']
+                        else:
+                            cuota1=-1
                                 
-                            elif(len(livedata['statistics']['sets']['home'])>3):
-                                score1_set4=livedata['statistics']['sets']['away'][3]
-                                score2_set4=livedata['statistics']['sets']['home'][3]
-                                score1_set5=livedata['statistics']['sets']['away'][4]
-                                score2_set5=livedata['statistics']['sets']['home'][4]
-                            quien_sirve_tenis="equipo1" if livedata['statistics']['sets']['homeServe'] else "equipo2"
-                        apuesta_idapuesta=livedata['eventId']
+                        if 1 in evento['mainBetOffer']:
+                            nombre_equipo_2=mainbetofer['outcomes'][1]['label']
+                            cuota2=mainbetofer['outcomes'][1]['odds']/1000 if 'odds' in mainbetofer['outcomes'][1] else -1
+                            criterion2 = evento['mainBetOffer']['outcomes'][1]['criterion']['label']
+                            cuota2_american=evento['mainBetOffer']['outcomes'][1]['oddsAmerican']
+                            apuesta_abierta_equipo_2=evento['mainBetOffer']['outcomes'][1]['status']
+                        else:
+                            cuota2=-1
+                        
+                        
+                        # escribir el objeto
                         try:
-                            apuestatiempo=ApuestaTiempo(idapuesta, periodo, tiempo_minutos, tiempo_segundos, cuota1, cuota2, score_global_live1, score_global_live2,
-                            score1_set1, score2_set1, score1_set2, score2_set2, score1_set3, score2_set3, score1_set4, score2_set4, score1_set5, score2_set5,
-                            quien_sirve_tenis, apuesta_idapuesta)
+                            apuestatiempo = ApuestaTiempo(idapuesta_tiempo, periodo, tiempo_minutos, tiempo_segundos, cuota1, cuota2,
+                              score_global_live1, score_global_live2, apuesta_idapuesta,
+                              tiempo_minutos_faltante, tiempo_segundos_faltante,
+                              puntajecuarto_actual_equipo_1, puntajecuarto_actual_equipo_2,
+                              ultima_accion, nonLiveBoCount, liveBoCount, criterion1, criterion2,
+                              cuota1_american, cuota2_american, nombre_equipo_1, nombre_equipo_2,
+                              apuesta_abierta_equipo_1, apuesta_abierta_equipo_2)
                         except:
-                            apuesta.set_idapuesta_tiempo(idapuesta)
-                            apuesta.set_periodo(periodo)
-                            apuesta.set_tiempo_minutos(tiempo_minutos)
-                            apuesta.set_tiempo_minutos(tiempo_segundos)
-                            apuesta.set_cuota1(cuota1)
-                            apuesta.set_cuota2(cuota2)
-                            apuesta.set_score_global_live1(score_global_live1)
-                            apuesta.set_score_global_live2(score_global_live2)
-                            apuesta.set_score1_set1(score1_set1)
-                            apuesta.set_score2_set1(score2_set1)
-                            apuesta.set_score1_set2(score1_set2)
-                            apuesta.set_score2_set2(score2_set2)
-                            apuesta.set_score1_set3(score1_set3)
-                            apuesta.set_score2_set3(score2_set3)
-                            apuesta.set_score1_set4(score1_set4)
-                            apuesta.set_score2_set4(score2_set4)
-                            apuesta.set_score1_set5(score1_set5)
-                            apuesta.set_score2_set5(score2_set5)
-                            apuesta.set_quien_sirve_tenis(quien_sirve_tenis)
-                            apuesta.set_apuesta_idapuesta(apuesta_idapuesta)
-                            print("ERROR GARRAFAL")
+                            print("no se pudo declarar el objeto de PARTIDO EN VIVO")
+                        
+                       
                             
                     except:
                         MessageBox.showwarning("Alerta", "Hay algun error mirar recorrido.")
