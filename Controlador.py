@@ -32,7 +32,7 @@ def timer(timer_runs):
             for evento in lista_de_eventos:
                 
                 
-                if (evento['event']['sport']=="TENNIS") and 'mainBetOffer' in evento:
+                if (evento['event']['sport']=="BASKETBALL") and 'mainBetOffer' in evento:
                     event=evento['event']
                     mainbetofer=evento['mainBetOffer']
                     livedata=evento['liveData']
@@ -52,21 +52,19 @@ def timer(timer_runs):
                     #apuesta
                     try:
                         idapuesta=livedata['eventId']
-                        equipo1=mainbetofer['outcomes'][0]['label']
-                        equipo2=mainbetofer['outcomes'][1]['label']
+                        equipo1=evento['homeName']
+                        equipo2=evento['awayName']
                         categoria_nombre_categoria=event['sport']
-                        tiempo=datetime.datetime.now()
+                        tiempo_registro=datetime.datetime.now()
+                        nombre_partido_completo = evento['name']
+                        fecha_inicio_partido = evento['start']
+                        nombre_torneo = evento['group']
+                        en_curso= evento['state']
                         apuesta=[]
-                        
-                        apuesta=Apuesta(idapuesta,equipo1,equipo2,categoria_nombre_categoria,tiempo)
+                        apuesta = Apuesta(idapuesta, equipo1, equipo2, categoria_nombre_categoria, tiempo_registro, nombre_partido_completo, fecha_inicio_partido, nombre_torneo, en_curso)
                         
                             
                     except KeyError:
-                        apuesta.set_idapuesta(livedata['eventId'])
-                        apuesta.set_equipo1(mainbetofer['outcomes'][0]['label'])
-                        apuesta.set_equipo2(mainbetofer['outcomes'][1]['label'])
-                        apuesta.set_categoria_nombre_categoria(event['sport'])
-                        apuesta.set_tiempo(datetime.datetime.now())
                         print ("error apuesta")
                     
                     
